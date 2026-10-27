@@ -23,14 +23,15 @@ window.TMrender=function(root,P,F){
     if(b.type==='card'){
       var ul=el('ul','ck');b.checks.forEach(function(x){ul.appendChild(el('li','',fact(F,x)))});c.appendChild(ul);
       if(b.links){var lk=el('div','lk');b.links.forEach(function(l){var a=el('a','',l.t);a.href=l.u;if(!/^tel:/.test(l.u)){a.target='_blank';a.rel='noopener'}lk.appendChild(a)});c.appendChild(lk)}
-      if(b.agoda){var aw=el('div','agw');var ab=el('button','agb','🔎 Chercher d\'autres hôtels · Agoda');var ac=el('div','agc');aw.appendChild(ab);aw.appendChild(ac);c.appendChild(aw);
+      var aw=null;if(b.agoda){aw=el('div','agw');var ab=el('button','agb','🔎 Chercher d\'autres hôtels à '+(b.agoda.dest||'')+' · Agoda');var ac=el('div','agc');aw.appendChild(ab);aw.appendChild(ac);
         ab.addEventListener('click',function(ev){ev.stopPropagation();if(ab.dataset.ok)return;ab.dataset.ok='1';ab.textContent='Chargement…';
           var id='adg'+Math.floor(Math.random()*1e9),d=document.createElement('div');d.id=id;ac.appendChild(d);
           var s=document.createElement('script');s.src='https://cdn0.agoda.net/images/sherpa/js/sherpa_init1_08.min.js';
-          s.onload=function(){try{var g={};g.crt=b.agoda.crt||'';g.version='1.04';g.id=g.name=id;g.width='320px';g.height='420px';g.ReferenceKey=b.agoda.ref;g.Layout='SquareCalendar';g.Language='fr-fr';g.Cid=b.agoda.cid;g.DestinationName=b.agoda.dest||'';g.OverideConf=false;new AgdSherpa(g).initialize();ab.textContent='Cherche ci-dessous'}catch(e){ab.textContent='Moteur indisponible';ac.textContent='Ouvre la liste Agoda : '+(b.agoda.url||'')}};
+          s.onload=function(){try{var g={};g.crt=b.agoda.crt||'';g.version='1.04';g.id=g.name=id;g.width='320px';g.height='420px';g.ReferenceKey=b.agoda.ref;g.Layout='SquareCalendar';g.Language='fr-fr';g.Cid=b.agoda.cid;g.DestinationName=b.agoda.dest||'';g.OverideConf=false;new AgdSherpa(g).initialize();ab.style.display='none';var hn=el('p','agh','Tape « '+(b.agoda.dest||'')+' » dans la recherche, puis choisis tes dates.');ac.parentNode.insertBefore(hn,ac)}catch(e){ab.textContent='Moteur indisponible';ac.textContent='Ouvre la liste Agoda : '+(b.agoda.url||'')}};
           s.onerror=function(){ab.dataset.ok='';ab.textContent='Connexion requise pour chercher';};
           document.head.appendChild(s)})}
       if(b.tip)c.appendChild(el('p','tip',b.tip));
+      if(aw)c.appendChild(aw);
     }
     if(b.type==='routes'){
       var r=el('div','rt');b.items.forEach(function(i){var row=el('div','ro');

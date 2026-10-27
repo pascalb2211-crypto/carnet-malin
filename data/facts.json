@@ -1,0 +1,24 @@
+{
+ "vols": {
+  "_source": "Guide Thaï Malin, édition 2026 (valeurs à vérifier chaque mois)",
+  "_verifie": null,
+  "run-bkk": {
+   "basse": {
+    "direct": "600 € – 800 €",
+    "escale": "500 € – 750 €"
+   },
+   "moyenne": {
+    "direct": "800 € – 1 000 €",
+    "escale": "700 € – 950 €"
+   },
+   "haute": {
+    "direct": "1 000 € – 1 300 €",
+    "escale": "900 € – 1 200 €"
+   }
+  }
+ },
+ "formalites": {
+  "_source": "À vérifier chaque mois",
+  "sejour_sans_visa": "60 jours pour les ressortissants français (à confirmer avant le départ)"
+ }
+}

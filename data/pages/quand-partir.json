@@ -1,0 +1,106 @@
+{
+ "id": "quand-partir",
+ "num": 3,
+ "title": "Quand partir ?",
+ "subtitle": "Saisons et météo",
+ "lead": "Choisir la bonne période selon votre destination",
+ "cover": "plage-coucher",
+ "blocks": [
+  {
+   "type": "meteo",
+   "n": 1,
+   "color": "#e91e8c",
+   "title": "Météo à La Réunion",
+   "sub": "avant de partir",
+   "img": "aeroport-avion-blanc",
+   "places": [
+    {
+     "nom": "Saint-Denis",
+     "lat": -20.88,
+     "lon": 55.45
+    },
+    {
+     "nom": "Saint-Pierre",
+     "lat": -21.34,
+     "lon": 55.48
+    },
+    {
+     "nom": "Saint-Paul",
+     "lat": -21.01,
+     "lon": 55.27
+    }
+   ]
+  },
+  {
+   "type": "meteo",
+   "n": 2,
+   "color": "#00a67e",
+   "title": "Météo à l'arrivée",
+   "sub": "là où vous atterrissez",
+   "img": "baie-panoramique",
+   "places": [
+    {
+     "nom": "Bangkok",
+     "lat": 13.75,
+     "lon": 100.5
+    },
+    {
+     "nom": "Phuket",
+     "lat": 7.88,
+     "lon": 98.39
+    },
+    {
+     "nom": "Krabi",
+     "lat": 8.09,
+     "lon": 98.91
+    },
+    {
+     "nom": "Chiang Mai",
+     "lat": 18.79,
+     "lon": 98.98
+    }
+   ]
+  },
+  {
+   "type": "card",
+   "n": 3,
+   "color": "#27ae60",
+   "title": "Saison sèche et fraîche",
+   "sub": "novembre à février",
+   "img": "fete-lanternes",
+   "checks": [
+    "Le moment le plus agréable pour la plupart du pays.",
+    "Idéal pour Bangkok, Chiang Mai et le nord.",
+    "Côte Andaman (Krabi, Phuket) : mer calme et beau temps.",
+    "Haute saison : réservez tôt."
+   ]
+  },
+  {
+   "type": "card",
+   "n": 4,
+   "color": "#fb8c00",
+   "title": "Saison chaude",
+   "sub": "mars à mai",
+   "img": "songkran",
+   "checks": [
+    "Très chaud, surtout à l'intérieur des terres.",
+    "Songkran (mi-avril) : la grande bataille d'eau !",
+    "Les îles du golfe de Thaïlande restent agréables."
+   ]
+  },
+  {
+   "type": "card",
+   "n": 5,
+   "color": "#1e88e5",
+   "title": "Saison des pluies",
+   "sub": "juin à octobre",
+   "img": "cascade",
+   "checks": [
+    "Averses souvent courtes, nature très verte, moins de monde.",
+    "Prix plus bas sur les hébergements.",
+    "Côte Andaman : mer plus agitée, certaines excursions suspendues."
+   ]
+  }
+ ],
+ "outro": "Le bon moment, c'est celui qui vous ressemble !"
+}

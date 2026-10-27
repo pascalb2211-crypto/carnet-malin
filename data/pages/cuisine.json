@@ -1,0 +1,50 @@
+{
+ "id": "cuisine",
+ "num": 4,
+ "title": "La cuisine thaïe",
+ "subtitle": "Saveurs et bons plans",
+ "lead": "Street food, marchés et cours de cuisine",
+ "cover": "cuisine-cours",
+ "blocks": [
+  {
+   "type": "card",
+   "n": 1,
+   "color": "#e53935",
+   "title": "À goûter absolument",
+   "sub": "les incontournables",
+   "img": "marche-nuit",
+   "checks": [
+    "Pad thaï, tom yum, curry vert, som tam.",
+    "Mango sticky rice en dessert.",
+    "Les marchés de nuit : bon, rapide et pas cher."
+   ],
+   "tip": "Dites « mai phet » pour un plat pas pimenté !"
+  },
+  {
+   "type": "card",
+   "n": 2,
+   "color": "#8e24aa",
+   "title": "Cours de cuisine",
+   "sub": "une belle expérience",
+   "img": "cuisine-cours",
+   "checks": [
+    "Marché le matin, puis cours en petit groupe.",
+    "Très populaire à Chiang Mai et Bangkok.",
+    "Vous repartez avec les recettes."
+   ]
+  },
+  {
+   "type": "card",
+   "n": 3,
+   "color": "#00a67e",
+   "title": "Marchés flottants",
+   "sub": "à voir au moins une fois",
+   "img": "marche-flottant",
+   "checks": [
+    "Allez-y tôt le matin pour éviter la foule.",
+    "Goûtez les fruits et les plats préparés sur les barques."
+   ]
+  }
+ ],
+ "outro": "Ici, on mange bien et on se régale !"
+}

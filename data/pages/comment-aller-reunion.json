@@ -1,0 +1,199 @@
+{
+ "id": "comment-aller-reunion",
+ "num": 1,
+ "title": "Comment aller en Thaïlande ?",
+ "subtitle": "Toutes les options depuis La Réunion",
+ "lead": "Vols directs, escales, prix, durée et conseils pratiques",
+ "blocks": [
+  {
+   "type": "card",
+   "n": 1,
+   "color": "#e91e8c",
+   "title": "Vol direct Air Austral",
+   "sub": "la meilleure option",
+   "checks": [
+    "Liaison directe La Réunion → Thaïlande",
+    "Sans escale, plus rapide et plus confortable",
+    "Idéal pour gagner du temps",
+    "Service en français et bagages inclus"
+   ],
+   "tip": "La solution la plus simple pour commencer votre voyage en toute sérénité !",
+   "img": "aeroport-avion-blanc"
+  },
+  {
+   "type": "routes",
+   "n": 2,
+   "color": "#1e88e5",
+   "title": "Routes avec escale",
+   "sub": "pour comparer",
+   "items": [
+    {
+     "via": "Maurice",
+     "cie": "Air Mauritius",
+     "note": "Souvent une bonne option au départ de la zone"
+    },
+    {
+     "via": "Kuala Lumpur",
+     "cie": "Malaysia Airlines",
+     "note": "Nombreux vols et prix compétitifs"
+    },
+    {
+     "via": "Dubaï",
+     "cie": "Emirates",
+     "note": "Confort et excellente connexion"
+    },
+    {
+     "via": "Doha",
+     "cie": "Qatar Airways",
+     "note": "Très bons horaires et service premium"
+    },
+    {
+     "via": "Singapour",
+     "cie": "Singapore Airlines",
+     "note": "Qualité de service et nombreuses correspondances"
+    }
+   ],
+   "img": "tuktuk-bangkok"
+  },
+  {
+   "type": "bars",
+   "n": 3,
+   "color": "#f4511e",
+   "title": "Durée du trajet",
+   "sub": "direct vs avec escale",
+   "max": 20,
+   "items": [
+    {
+     "lbl": "Direct Air Austral",
+     "min": 0,
+     "max": 9.75,
+     "txt": "≈ 9 h 45",
+     "tag": "La plus rapide",
+     "direct": true
+    },
+    {
+     "lbl": "Via Maurice",
+     "min": 12,
+     "max": 16,
+     "txt": "12 à 16 h",
+     "tag": "+ 2 à 6 h"
+    },
+    {
+     "lbl": "Via Kuala Lumpur",
+     "min": 14,
+     "max": 18,
+     "txt": "14 à 18 h",
+     "tag": "+ 4 à 8 h"
+    },
+    {
+     "lbl": "Via Dubaï",
+     "min": 15,
+     "max": 20,
+     "txt": "15 à 20 h",
+     "tag": "+ 5 à 10 h"
+    },
+    {
+     "lbl": "Via Doha",
+     "min": 15,
+     "max": 20,
+     "txt": "15 à 20 h",
+     "tag": "+ 5 à 10 h"
+    },
+    {
+     "lbl": "Via Singapour",
+     "min": 15,
+     "max": 20,
+     "txt": "15 à 20 h",
+     "tag": "+ 5 à 10 h"
+    }
+   ],
+   "img": "bangkok-coucher"
+  },
+  {
+   "type": "card",
+   "n": 4,
+   "color": "#00a67e",
+   "title": "Quand réserver ?",
+   "sub": "pour payer le meilleur prix",
+   "checks": [
+    "Réservez idéalement 3 à 6 mois à l'avance (pour la haute saison).",
+    "Pour les meilleurs prix : 6 à 8 mois à l'avance.",
+    "Les jours les moins chers : mardi, mercredi et samedi.",
+    "Évitez les vacances scolaires et la période de fin d'année (plus chère).",
+    "Surveillez les promotions Air Austral et des compagnies avec escale."
+   ],
+   "tip": "Plus vous réservez tôt, plus vous avez de choix et de meilleurs tarifs !",
+   "img": "fete-lanternes"
+  },
+  {
+   "type": "seasons",
+   "n": 5,
+   "color": "#8e24aa",
+   "title": "Budget indicatif",
+   "sub": "aller-retour depuis La Réunion",
+   "items": [
+    {
+     "ico": "🌤️",
+     "name": "Basse saison",
+     "when": "avril à juin · sept. à nov.",
+     "c": "#27ae60",
+     "direct": "$vols.run-bkk.basse.direct",
+     "escale": "$vols.run-bkk.basse.escale"
+    },
+    {
+     "ico": "☀️",
+     "name": "Moyenne saison",
+     "when": "mars · juillet · août",
+     "c": "#fb8c00",
+     "direct": "$vols.run-bkk.moyenne.direct",
+     "escale": "$vols.run-bkk.moyenne.escale"
+    },
+    {
+     "ico": "🔥",
+     "name": "Haute saison",
+     "when": "décembre à février",
+     "c": "#e53935",
+     "direct": "$vols.run-bkk.haute.direct",
+     "escale": "$vols.run-bkk.haute.escale"
+    }
+   ],
+   "note": "Ces prix sont indicatifs et peuvent varier selon la période, la compagnie et la date de réservation.",
+   "img": "hebergement-piscine"
+  },
+  {
+   "type": "card",
+   "n": 6,
+   "color": "#fb8c00",
+   "title": "Astuces malines",
+   "sub": "pour trouver le meilleur vol",
+   "checks": [
+    "Utilisez des comparateurs de vols : Google Flights, Skyscanner, Trip.com",
+    "Activez des alertes prix pour être informé des baisses de tarifs.",
+    "Pensez à vérifier les prix sur le site officiel d'Air Austral (promotions exclusives).",
+    "Vérifiez la franchise bagages : Air Austral inclut généralement 1 bagage en soute (23 kg) + 1 bagage cabine.",
+    "Soyez flexible sur les dates : un décalage de quelques jours peut faire une grande différence sur le prix."
+   ],
+   "links": [
+    {
+     "t": "Google Flights",
+     "u": "https://www.google.com/travel/flights"
+    },
+    {
+     "t": "Skyscanner",
+     "u": "https://www.skyscanner.fr"
+    },
+    {
+     "t": "Trip.com",
+     "u": "https://fr.trip.com/flights/"
+    },
+    {
+     "t": "Air Austral",
+     "u": "https://www.air-austral.com"
+    }
+   ],
+   "img": "plage-palmier"
+  }
+ ],
+ "outro": "Le voyage i commence dan lo ciel — choisi bien out vol, et amuse a ou bien surtout !",
+ "cover": "aeroport-avion-blanc"
+}

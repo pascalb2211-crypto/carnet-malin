@@ -1,0 +1,41 @@
+{
+ "id": "formalites",
+ "num": 2,
+ "title": "Formalités et préparation",
+ "subtitle": "Avant de partir",
+ "lead": "Passeport, entrée en Thaïlande, assurance, santé",
+ "cover": "preparation-passeport",
+ "blocks": [
+  {
+   "type": "card",
+   "n": 1,
+   "color": "#1e88e5",
+   "title": "Passeport et entrée",
+   "sub": "l'essentiel",
+   "img": "preparation-passeport",
+   "checks": [
+    "Passeport valable au moins 6 mois après la date de retour.",
+    "Séjour touristique sans visa : $formalites.sejour_sans_visa",
+    "Gardez une preuve de billet retour ou de sortie du pays.",
+    "Un passeport avec au moins 2 pages vierges est recommandé."
+   ],
+   "tip": "Vérifiez toujours la règle en vigueur avant de réserver !"
+  },
+  {
+   "type": "card",
+   "n": 2,
+   "color": "#00a67e",
+   "title": "Assurance et santé",
+   "sub": "voyager serein",
+   "img": "hebergement-piscine",
+   "checks": [
+    "Souscrivez une assurance voyage avec rapatriement.",
+    "Pensez à une trousse de base : anti-moustiques, solaire, pansements.",
+    "Gardez vos ordonnances si vous suivez un traitement.",
+    "Buvez de l'eau en bouteille."
+   ],
+   "tip": "Une bonne assurance coûte peu et évite les mauvaises surprises."
+  }
+ ],
+ "outro": "Bien préparé, le voyage i commence déjà tranquille !"
+}

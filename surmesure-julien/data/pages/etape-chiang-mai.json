@@ -45,12 +45,19 @@
    "checks": [
     "Hôtels 3★ à Nimman ou vieille ville (1200–2500 THB/nuit) : Bon rapport qualité-prix, quartiers centraux et bien desservis."
    ],
+   "tip": "Les prix sont des fourchettes indicatives. Les boutons Booking, Agoda et Trip.com affichent les offres et les tarifs du moment : compare-les avant de réserver.",
    "links": [
     {
      "t": "🛏️ Hôtels 3★ à Nimman ou viei",
      "u": "https://www.booking.com/searchresults.html?ss=Chiang+Mai"
     }
-   ]
+   ],
+   "agoda": {
+    "cid": "1972177",
+    "ref": "1qLHTvK4/AiYf/W4zM1iJQ==",
+    "crt": "6120966568255",
+    "dest": "Chiang Mai"
+   }
   },
   {
    "type": "card",

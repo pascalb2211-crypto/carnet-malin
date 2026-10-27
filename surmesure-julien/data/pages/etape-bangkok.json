@@ -47,6 +47,7 @@
     "The Quarter Silom by UHG (1500–3000 THB/nuit) : Bon rapport qualité-prix, à distance de marche d'une station BTS/MRT.",
     "Shanghai Mansion Bangkok (2500–4500 THB/nuit) : Chinatown — hôtel boutique au cœur de Yaowarat, dans une ambiance sino-thaï pleine de caractère."
    ],
+   "tip": "Les prix sont des fourchettes indicatives. Les boutons Booking, Agoda et Trip.com affichent les offres et les tarifs du moment : compare-les avant de réserver.",
    "links": [
     {
      "t": "🛏️ S31 Hotel Sukhumvit",
@@ -56,7 +57,13 @@
      "t": "🛏️ The Quarter Silom by UHG",
      "u": "https://www.booking.com/searchresults.html?ss=Bangkok"
     }
-   ]
+   ],
+   "agoda": {
+    "cid": "1972177",
+    "ref": "1qLHTvK4/AiYf/W4zM1iJQ==",
+    "crt": "6120966568255",
+    "dest": "Bangkok"
+   }
   },
   {
    "type": "card",

@@ -41,10 +41,11 @@
    "sub": "selon ton style : Confort",
    "img": "hebergement-piscine",
    "checks": [
-    "Sawasdee Sukhothai Resort · Près du parc : Bungalows avec lits à baldaquin, piscine, petit-déjeuner inclus (note 4,8/5).",
-    "Thai Thai Sukhothai Resort · À côté du parc : Resort décontracté avec piscine, terrasse et petit-déjeuner inclus (note 4,7/5).",
-    "Scent of Sukhothai Resort · Près des ruines : Petit resort de charme près des ruines (note 4,6/5)."
+    "Sawasdee Sukhothai Resort (≈ 600–1 500 THB/nuit) · Près du parc : Bungalows avec lits à baldaquin, piscine, petit-déjeuner inclus (note 4,8/5).",
+    "Thai Thai Sukhothai Resort (≈ 600–1 500 THB/nuit) · À côté du parc : Resort décontracté avec piscine, terrasse et petit-déjeuner inclus (note 4,7/5).",
+    "Scent of Sukhothai Resort (≈ 600–1 500 THB/nuit) · Près des ruines : Petit resort de charme près des ruines (note 4,6/5)."
    ],
+   "tip": "Les prix sont des fourchettes indicatives. Les boutons Booking, Agoda et Trip.com affichent les offres et les tarifs du moment : compare-les avant de réserver.",
    "links": [
     {
      "t": "🛏️ Sawasdee · Booking",
@@ -52,11 +53,11 @@
     },
     {
      "t": "🛏️ Sawasdee · Agoda",
-     "u": "https://www.agoda.com/fr-fr/search?cid=1972177&pcs=1&textToSearch=Sawasdee+Sukhothai+Resort+Sukhothai"
+     "u": "https://www.agoda.com/fr-fr/sawasdeesukhothai-resort/hotel/sukhothai-th.html?cid=1972177"
     },
     {
      "t": "🛏️ Sawasdee · Trip.com",
-     "u": "https://fr.trip.com/hotels/list?keyword=Sawasdee+Sukhothai+Resort+Sukhothai&Allianceid=9852508&SID=327644129&trip_sub3=D19106369&locale=fr-fr"
+     "u": "https://fr.trip.com/hotels/sukhothai-hotel-detail-4978966/sawasdee-sukhothai-resort/?Allianceid=9852508&SID=327644129&trip_sub3=D19106369&locale=fr-fr"
     },
     {
      "t": "🛏️ Thai Thai · Booking",
@@ -64,13 +65,19 @@
     },
     {
      "t": "🛏️ Thai Thai · Agoda",
-     "u": "https://www.agoda.com/fr-fr/search?cid=1972177&pcs=1&textToSearch=Thai+Thai+Sukhothai+Resort+Sukhothai"
+     "u": "https://www.agoda.com/fr-fr/thai-thai-sukhothai-guesthouse/hotel/sukhothai-th.html?cid=1972177"
     },
     {
      "t": "🛏️ Thai Thai · Trip.com",
-     "u": "https://fr.trip.com/hotels/list?keyword=Thai+Thai+Sukhothai+Resort+Sukhothai&Allianceid=9852508&SID=327644129&trip_sub3=D19106369&locale=fr-fr"
+     "u": "https://fr.trip.com/hotels/sukhothai-hotel-detail-1525786/thai-thai-sukhothai-guesthouse/?Allianceid=9852508&SID=327644129&trip_sub3=D19106369&locale=fr-fr"
     }
-   ]
+   ],
+   "agoda": {
+    "cid": "1972177",
+    "ref": "1qLHTvK4/AiYf/W4zM1iJQ==",
+    "crt": "6120966568255",
+    "dest": "Sukhothai"
+   }
   },
   {
    "type": "card",

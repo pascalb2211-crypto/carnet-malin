@@ -87,3 +87,5 @@ body{padding-bottom:calc(72px + env(safe-area-inset-bottom))}
 .vn{color:#dfe6f7;font:600 12.5px/1.4 system-ui;margin:4px 2px 12px}.lk2{display:flex;flex-wrap:wrap;gap:8px;justify-content:center;padding-bottom:30px}.lk2 a{background:#fff;color:#c25e00;border:2px solid #fb8c00;text-decoration:none;font:800 13px system-ui;padding:8px 14px;border-radius:99px;white-space:nowrap}
 #vsheet .chips button{background:#ffffff26;color:#fff}#vsheet .chips button.on{background:#f5c542;color:#0b1a3d}
 #vsheet .vn a{display:inline;background:none;margin:0;border-radius:0;text-decoration:underline;color:#f5c542}
+
+.agw{display:none;margin:10px 0;text-align:center}.card.open .agw{display:block}.agb{background:#fff;border:2px solid #00a67e;color:#007a5e;font:800 13px system-ui;padding:9px 16px;border-radius:99px;cursor:pointer}.agc{display:flex;justify-content:center;margin-top:12px}.agc>div{background:#fff;border-radius:18px;padding:10px;max-width:100%;overflow:hidden}

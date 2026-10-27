@@ -41,17 +41,34 @@
    "sub": "selon ton style : Confort",
    "img": "hebergement-piscine",
    "checks": [
-    "Scent of Sukhothai Resort (vieille ville) (600–1 500 THB/nuit) : Petit resort près du parc.",
-    "Vieng Tawan Guesthouse (vieille ville) (600–1 500 THB/nuit) : Guesthouse proche du parc, en bande de prix intermédiaire."
+    "Sawasdee Sukhothai Resort · Près du parc : Bungalows avec lits à baldaquin, piscine, petit-déjeuner inclus (note 4,8/5).",
+    "Thai Thai Sukhothai Resort · À côté du parc : Resort décontracté avec piscine, terrasse et petit-déjeuner inclus (note 4,7/5).",
+    "Scent of Sukhothai Resort · Près des ruines : Petit resort de charme près des ruines (note 4,6/5)."
    ],
    "links": [
     {
-     "t": "🛏️ Scent of Sukhothai Resort ",
-     "u": "https://www.booking.com/searchresults.html?ss=Sukhothai"
+     "t": "🛏️ Sawasdee · Booking",
+     "u": "https://www.dpbolvw.net/click-101855269-12677526?url=https%3A%2F%2Fwww.booking.com%2Fsearchresults.fr.html%3Fss%3DSawasdee%2BSukhothai%2BResort%2BSukhothai"
     },
     {
-     "t": "🛏️ Vieng Tawan Guesthouse (vi",
-     "u": "https://www.booking.com/searchresults.html?ss=Sukhothai"
+     "t": "🛏️ Sawasdee · Agoda",
+     "u": "https://www.agoda.com/fr-fr/search?cid=1972177&pcs=1&textToSearch=Sawasdee+Sukhothai+Resort+Sukhothai"
+    },
+    {
+     "t": "🛏️ Sawasdee · Trip.com",
+     "u": "https://fr.trip.com/hotels/list?keyword=Sawasdee+Sukhothai+Resort+Sukhothai&Allianceid=9852508&SID=327644129&trip_sub3=D19106369&locale=fr-fr"
+    },
+    {
+     "t": "🛏️ Thai Thai · Booking",
+     "u": "https://www.dpbolvw.net/click-101855269-12677526?url=https%3A%2F%2Fwww.booking.com%2Fsearchresults.fr.html%3Fss%3DThai%2BThai%2BSukhothai%2BResort%2BSukhothai"
+    },
+    {
+     "t": "🛏️ Thai Thai · Agoda",
+     "u": "https://www.agoda.com/fr-fr/search?cid=1972177&pcs=1&textToSearch=Thai+Thai+Sukhothai+Resort+Sukhothai"
+    },
+    {
+     "t": "🛏️ Thai Thai · Trip.com",
+     "u": "https://fr.trip.com/hotels/list?keyword=Thai+Thai+Sukhothai+Resort+Sukhothai&Allianceid=9852508&SID=327644129&trip_sub3=D19106369&locale=fr-fr"
     }
    ]
   },

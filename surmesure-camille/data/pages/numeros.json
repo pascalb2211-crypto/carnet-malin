@@ -1,0 +1,160 @@
+{
+ "id": "numeros",
+ "num": 12,
+ "title": "Numéros utiles et SOS en Thaïlande",
+ "subtitle": "Urgences, ambassade, hôpitaux",
+ "lead": "Toutes les informations essentielles pour voyager sereinement",
+ "cover": "bangkok-coucher",
+ "blocks": [
+  {
+   "type": "card",
+   "n": 1,
+   "color": "#e91e8c",
+   "title": "Urgences vitales",
+   "sub": "les numéros à connaître absolument",
+   "img": "bangkok-coucher",
+   "checks": [
+    "191 : Police. Pour toute urgence (police, sécurité, agression…).",
+    "1669 : Ambulance / médical. Urgence médicale, accident, malaise…",
+    "199 : Pompiers. Incendie, accident, secours…",
+    "Ces numéros fonctionnent 24h/24 partout en Thaïlande."
+   ],
+   "links": [
+    {
+     "t": "📞 191 Police",
+     "u": "tel:191"
+    },
+    {
+     "t": "📞 1669 Ambulance",
+     "u": "tel:1669"
+    },
+    {
+     "t": "📞 199 Pompiers",
+     "u": "tel:199"
+    }
+   ]
+  },
+  {
+   "type": "card",
+   "n": 2,
+   "color": "#1e88e5",
+   "title": "Tourist Police",
+   "sub": "une aide dédiée aux voyageurs",
+   "img": "marche-nuit",
+   "checks": [
+    "1155 : ligne dédiée aux touristes.",
+    "Disponible 24h/24.",
+    "Assistance en plusieurs langues (anglais, et parfois français, chinois, etc.).",
+    "Pour vols, arnaques, litiges, perte de papiers, problèmes de sécurité…"
+   ],
+   "tip": "Un service spécialement créé pour vous aider en toute situation !",
+   "links": [
+    {
+     "t": "📞 1155 Tourist Police",
+     "u": "tel:1155"
+    }
+   ]
+  },
+  {
+   "type": "card",
+   "n": 3,
+   "color": "#fb8c00",
+   "title": "Ambassade de France",
+   "sub": "en cas de problème consulaire",
+   "img": "temple-jour",
+   "checks": [
+    "Ambassade de France à Bangkok : 35 Charoen Krung Road, Bang Rak, Bangkok 10500.",
+    "Standard : +66 2 657 51 00 (en dehors des heures d'ouverture, urgence consulaire : +66 6 12 53 01 51).",
+    "E-mail : bangkok.ambassade@diplomatie.gouv.fr",
+    "Site : th.ambafrance.org",
+    "Perte ou vol de passeport / carte d'identité.",
+    "Assistance en cas d'arrestation, d'accident grave.",
+    "Rapatriement, aide aux Français en difficulté."
+   ],
+   "tip": "L'ambassade est là pour vous accompagner en cas de problème sérieux à l'étranger.",
+   "links": [
+    {
+     "t": "📞 Ambassade",
+     "u": "tel:+6626575100"
+    },
+    {
+     "t": "📞 Urgence consulaire",
+     "u": "tel:+66612530151"
+    }
+   ]
+  },
+  {
+   "type": "card",
+   "n": 4,
+   "color": "#00a67e",
+   "title": "Hôpitaux internationaux",
+   "sub": "des soins de qualité pour les voyageurs",
+   "img": "spa",
+   "checks": [
+    "Bumrungrad International Hospital (Bangkok) : +66 2 066 8888. Équipes francophones et anglophones.",
+    "Bangkok Hospital (réseau) : +66 2 310 3000. Plusieurs établissements à Bangkok et dans les grandes villes.",
+    "Samitivej Hospital : +66 2 022 2222. Personnel anglophone."
+   ],
+   "tip": "Des hôpitaux modernes avec des équipes habituées à accueillir les voyageurs étrangers.",
+   "links": [
+    {
+     "t": "📞 Bumrungrad",
+     "u": "tel:+6620668888"
+    },
+    {
+     "t": "📞 Bangkok Hospital",
+     "u": "tel:+6623103000"
+    },
+    {
+     "t": "📞 Samitivej",
+     "u": "tel:+6620222222"
+    }
+   ]
+  },
+  {
+   "type": "card",
+   "n": 5,
+   "color": "#8e24aa",
+   "title": "Assurance voyage",
+   "sub": "soyez bien couvert en toute circonstance",
+   "img": "preparation-passeport",
+   "checks": [
+    "Contactez votre assureur dès que possible (ex. SafetyWing, Allianz, AXA, etc.).",
+    "Préparez les informations : numéro de contrat, description de l'incident, photos, factures, rapport médical.",
+    "Conservez tous les documents (médicaux, police, transports…).",
+    "Suivez les procédures indiquées par votre assureur pour la prise en charge et un éventuel rapatriement."
+   ],
+   "tip": "Une bonne assurance voyage vous permet de voyager l'esprit tranquille !"
+  },
+  {
+   "type": "card",
+   "n": 6,
+   "color": "#5e35b1",
+   "title": "Numéros pratiques",
+   "sub": "autres contacts utiles pendant votre séjour",
+   "img": "aeroport-avion-blanc",
+   "checks": [
+    "Bureau de l'Immigration (Bangkok) : +66 2 287 3101 (visa, prolongation de séjour…).",
+    "Aéroport Suvarnabhumi (BKK) : +66 2 132 1888.",
+    "Aéroport Don Mueang (DMK) : +66 2 535 1192.",
+    "Perte de passeport (Police) : rendez-vous au commissariat le plus proche (tous les commissariats peuvent établir un rapport de perte)."
+   ],
+   "tip": "Gardez ces numéros à portée de main pendant tout votre séjour !",
+   "links": [
+    {
+     "t": "📞 Immigration",
+     "u": "tel:+6622873101"
+    },
+    {
+     "t": "📞 Suvarnabhumi",
+     "u": "tel:+6621321888"
+    },
+    {
+     "t": "📞 Don Mueang",
+     "u": "tel:+6625351192"
+    }
+   ]
+  }
+ ],
+ "outro": "En cas de besoin, ces numéros peuvent vraiment faire la différence !"
+}

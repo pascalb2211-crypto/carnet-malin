@@ -1,0 +1,86 @@
+[
+ {
+  "id": "ton-voyage",
+  "num": 1,
+  "title": "Ton voyage sur mesure, Camille",
+  "sub": "Préparé rien que pour toi",
+  "cover": "temple-jour"
+ },
+ {
+  "id": "itineraire",
+  "num": 2,
+  "title": "Ton itinéraire",
+  "sub": "Étape par étape",
+  "cover": "temple-jour"
+ },
+ {
+  "id": "etape-chiang-mai",
+  "num": 3,
+  "title": "Chiang Mai",
+  "sub": "Jour 1 à 3",
+  "cover": "temple-jour"
+ },
+ {
+  "id": "etape-bangkok",
+  "num": 4,
+  "title": "Bangkok",
+  "sub": "Jour 4 à 6",
+  "cover": "bangkok-coucher"
+ },
+ {
+  "id": "etape-krabi",
+  "num": 5,
+  "title": "Krabi",
+  "sub": "Jour 7 à 9",
+  "cover": "baie-bateaux"
+ },
+ {
+  "id": "etape-koh-lanta",
+  "num": 6,
+  "title": "Koh Lanta",
+  "sub": "Jour 10 à 12",
+  "cover": "baie-bateaux"
+ },
+ {
+  "id": "meteo",
+  "num": 7,
+  "title": "Météo de ton voyage",
+  "sub": "Prévisions en direct",
+  "cover": "plage-coucher"
+ },
+ {
+  "id": "comment-aller-reunion",
+  "num": 8,
+  "title": "Comment aller en Thaïlande ?",
+  "sub": "Toutes les options depuis La Réunion",
+  "cover": "aeroport-avion-blanc"
+ },
+ {
+  "id": "formalites",
+  "num": 9,
+  "title": "Formalités et entrée en Thaïlande",
+  "sub": "Tout ce qu'il faut savoir",
+  "cover": "preparation-passeport"
+ },
+ {
+  "id": "arrivee",
+  "num": 10,
+  "title": "À l'arrivée en Thaïlande",
+  "sub": "Les étapes et bons réflexes",
+  "cover": "tuktuk-bangkok"
+ },
+ {
+  "id": "conseils",
+  "num": 11,
+  "title": "Conseils pratiques pour un séjour réussi",
+  "sub": "Tout ce qu'il faut savoir",
+  "cover": "baie-bateaux"
+ },
+ {
+  "id": "numeros",
+  "num": 12,
+  "title": "Numéros utiles et SOS en Thaïlande",
+  "sub": "Urgences, ambassade, hôpitaux",
+  "cover": "bangkok-coucher"
+ }
+]

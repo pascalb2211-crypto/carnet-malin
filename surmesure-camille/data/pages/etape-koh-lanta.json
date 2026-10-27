@@ -1,0 +1,96 @@
+{
+ "id": "etape-koh-lanta",
+ "title": "Koh Lanta",
+ "subtitle": "Jour 10 à 12",
+ "lead": "Île calme et plages sauvages",
+ "cover": "baie-bateaux",
+ "blocks": [
+  {
+   "type": "card",
+   "n": 1,
+   "color": "#e91e8c",
+   "title": "Où te poser",
+   "sub": "les quartiers à connaître",
+   "img": "baie-bateaux",
+   "checks": [
+    "Ban Saladan : Le port principal au nord-ouest de l'île, point d'arrivée en ferry ou speedboat.",
+    "Klong Dao Beach : La plage la plus proche de Saladan (5 minutes), 4 km de sable blanc, idéale pour les familles avec une mer calme et peu profonde.",
+    "Klong Nin / Klong Khong : Deux plages voisines sur la côte ouest, à environ 15 km de Saladan.",
+    "Kantiang Bay : Considérée par beaucoup comme la plus belle baie de l'île, au sud de Koh Lanta, entourée de collines verdoyantes."
+   ]
+  },
+  {
+   "type": "card",
+   "n": 2,
+   "color": "#1e88e5",
+   "title": "À ne pas manquer",
+   "sub": "les incontournables",
+   "img": "baie-bateaux",
+   "checks": [
+    "Plage de Khlong Dao : ",
+    "Phare de Koh Lanta et Mu Ko Lanta National Park : ",
+    "Lanta Old Town : ",
+    "Kantiang Bay : ",
+    "Excursion snorkeling Koh Rok & Koh Haa : "
+   ]
+  },
+  {
+   "type": "card",
+   "n": 3,
+   "color": "#fb8c00",
+   "title": "Où dormir",
+   "sub": "selon ton style : Confort",
+   "img": "hebergement-piscine",
+   "checks": [
+    "Hôtels 3★ en bord de plage (1800–3500 THB/nuit) : Bon choix pour un séjour confortable près de Long Beach, Khlong Dao ou Khlong Nin ; tarifs variables selon…"
+   ],
+   "links": [
+    {
+     "t": "🛏️ Hôtels 3★ en bord de plage",
+     "u": "https://www.booking.com/searchresults.html?ss=Koh+Lanta"
+    }
+   ]
+  },
+  {
+   "type": "card",
+   "n": 4,
+   "color": "#00a67e",
+   "title": "Où manger",
+   "sub": "bonnes adresses",
+   "img": "marche-nuit",
+   "checks": [
+    "David Pizza & Petanque (200-350 THB/pers) : Pizza au feu de bois · Klong Dao Beach",
+    "Rareview Cafe (120-250 THB/pers) : Khao soi, café face à l'eau · Lanta Old Town",
+    "Why Not Bar (250-450 THB/pers) : Cocktails, ambiance plage · Kantiang Bay",
+    "Freedom Bar (180-350 THB/pers) : Cuisine thaïe, ambiance bohème · Klong Nin / Klong Khong"
+   ]
+  },
+  {
+   "type": "card",
+   "n": 5,
+   "color": "#8e24aa",
+   "title": "Se déplacer",
+   "sub": "les bons réflexes",
+   "img": "tuktuk-bangkok",
+   "checks": [
+    "Minivan + ferry-vehicle depuis Krabi : 350–600 THB/personne environ",
+    "Ferry passagers saisonnier : Environ 400–600 THB",
+    "Location de scooter : 200–300 THB/jour",
+    "Location de voiture : 900–1500 THB/jour"
+   ]
+  },
+  {
+   "type": "card",
+   "n": 6,
+   "color": "#e53935",
+   "title": "Budget sur place",
+   "sub": "Budget moyen : 2500–4500 THB/jour",
+   "img": "rooftop",
+   "checks": [
+    "Hôtel confortable, restaurants, scooter et une activité ou excursion occasionnelle."
+   ]
+  }
+ ],
+ "outro": "Profite bien de cette étape !",
+ "num": 6
+}

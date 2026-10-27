@@ -1,0 +1,110 @@
+{
+ "id": "etape-bangkok",
+ "title": "Bangkok",
+ "subtitle": "Jour 4 à 6",
+ "lead": "Temples, street food et vertige urbain",
+ "cover": "bangkok-coucher",
+ "blocks": [
+  {
+   "type": "card",
+   "n": 1,
+   "color": "#e91e8c",
+   "title": "Où te poser",
+   "sub": "les quartiers à connaître",
+   "img": "bangkok-coucher",
+   "checks": [
+    "Rattanakosin : Le cœur historique de Bangkok — île artificielle creusée en 1782 par Rama Ier pour reproduire la configuration défensive de l'ancienne capitale…",
+    "Siam : Le centre commercial et estudiantin le plus dense de Bangkok, sur des terrains largement détenus par l'université Chulalongkorn.",
+    "Sukhumvit : La plus longue avenue de Thaïlande (400 km jusqu'au Cambodge sur le papier), mais dans l'imaginaire collectif limitée à ses quelques kilomètres les…",
+    "Chinatown : Un des plus grands quartiers chinois du monde, installé ici dès 1782 quand Rama Ier a déplacé la communauté déjà présente pour libérer l'emplacement…"
+   ]
+  },
+  {
+   "type": "card",
+   "n": 2,
+   "color": "#1e88e5",
+   "title": "À ne pas manquer",
+   "sub": "les incontournables",
+   "img": "bangkok-coucher",
+   "checks": [
+    "Grand Palace : L'ancien palais royal, le monument le plus emblématique de Bangkok — résidence officielle des rois de Thaïlande pendant plus d'un siècle, construite… (500 THB)",
+    "Wat Arun : Le Temple de l'Aube, célèbre pour sa tour centrale de style khmer recouverte de fragments de porcelaine chinoise colorée. (100 THB)",
+    "Wat Pho : Temple du Bouddha couché (46 m de long), l'un des plus grands et des plus anciens de Bangkok — considéré comme le berceau du massage thaï… (300 THB)",
+    "Chinatown (Yaowarat) : Quartier chinois animé, l'un des plus grands du monde, réputé pour sa street food, ses bijouteries en or et ses enseignes lumineuses. (Gratuit)",
+    "ICONSIAM : Centre commercial luxueux au bord du Chao Phraya, avec SookSiam, un marché flottant intérieur qui reconstitue les 77 provinces de Thaïlande. (Gratuit (accès))"
+   ],
+   "tip": "Astuce : Billets vendus jusqu'à 15:30."
+  },
+  {
+   "type": "card",
+   "n": 3,
+   "color": "#fb8c00",
+   "title": "Où dormir",
+   "sub": "selon ton style : Confort",
+   "img": "hebergement-piscine",
+   "checks": [
+    "S31 Hotel Sukhumvit (1500–2500 THB/nuit) : Soi 31 — chambres spacieuses, piscine, à distance de marche du BTS.",
+    "The Quarter Silom by UHG (1500–3000 THB/nuit) : Bon rapport qualité-prix, à distance de marche d'une station BTS/MRT.",
+    "Shanghai Mansion Bangkok (2500–4500 THB/nuit) : Chinatown — hôtel boutique au cœur de Yaowarat, dans une ambiance sino-thaï pleine de caractère."
+   ],
+   "links": [
+    {
+     "t": "🛏️ S31 Hotel Sukhumvit",
+     "u": "https://www.booking.com/searchresults.html?ss=Bangkok"
+    },
+    {
+     "t": "🛏️ The Quarter Silom by UHG",
+     "u": "https://www.booking.com/searchresults.html?ss=Bangkok"
+    }
+   ]
+  },
+  {
+   "type": "card",
+   "n": 4,
+   "color": "#00a67e",
+   "title": "Où manger",
+   "sub": "bonnes adresses",
+   "img": "marche-nuit",
+   "checks": [
+    "Jay Fai (€€€) : Omelette au crabe · MRT Sam Yot",
+    "Cabbages & Condoms (€€) : Cuisine thaïe · Sukhumvit 12",
+    "Sky Bar (€€€) : Cocktails · Charoen Krung",
+    "Vertigo (€€€) : Grillades · Sathorn",
+    "Factory Coffee (€€) : Café de spécialité · BTS Phaya Thai"
+   ]
+  },
+  {
+   "type": "card",
+   "n": 5,
+   "color": "#8e24aa",
+   "title": "Se déplacer",
+   "sub": "les bons réflexes",
+   "img": "tuktuk-bangkok",
+   "checks": [
+    "BTS Skytrain : 17 à 62 THB",
+    "MRT : 17 à 43 THB",
+    "Grab : Selon la distance",
+    "Bateau Chao Phraya : 16 à 45 THB"
+   ],
+   "tip": "Astuce : Achète une carte Rabbit dès l'aéroport ou une station BTS pour éviter la queue aux distributeurs à chaque trajet."
+  },
+  {
+   "type": "card",
+   "n": 6,
+   "color": "#e53935",
+   "title": "Budget sur place",
+   "sub": "Budget moyen : 2700–4600 THB/jour",
+   "img": "rooftop",
+   "checks": [
+    "Hôtel confort, restaurants et quelques activités.",
+    "🛏️ Hôtel 3★ confortable : 1200–2000 THB",
+    "🍽️ Repas en restaurants (street food + un vrai restaurant) : 500–800 THB",
+    "🚕 Un ou deux trajets en Grab en plus des transports en commun : 200–400 THB",
+    "🎟️ Une activité payante (site, excursion courte, spa simple) : 300–500 THB",
+    "Total indicatif : 2700–4600 THB/jour, confortable sans être luxueux."
+   ]
+  }
+ ],
+ "outro": "Profite bien de cette étape !",
+ "num": 4
+}

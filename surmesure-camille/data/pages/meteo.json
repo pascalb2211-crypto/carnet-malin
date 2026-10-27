@@ -1,0 +1,56 @@
+{
+ "id": "meteo",
+ "title": "Météo de ton voyage",
+ "subtitle": "Prévisions en direct",
+ "lead": "Pour chaque étape",
+ "cover": "plage-coucher",
+ "blocks": [
+  {
+   "type": "meteo",
+   "n": 1,
+   "color": "#e91e8c",
+   "title": "Météo La Réunion",
+   "sub": "avant de partir",
+   "img": "aeroport-avion-blanc",
+   "places": [
+    {
+     "nom": "Saint-Denis",
+     "lat": -20.88,
+     "lon": 55.45
+    }
+   ]
+  },
+  {
+   "type": "meteo",
+   "n": 2,
+   "color": "#00a67e",
+   "title": "Météo de tes étapes",
+   "sub": "pendant le voyage",
+   "img": "baie-panoramique",
+   "places": [
+    {
+     "nom": "Chiang Mai",
+     "lat": 18.79,
+     "lon": 98.98
+    },
+    {
+     "nom": "Bangkok",
+     "lat": 13.75,
+     "lon": 100.5
+    },
+    {
+     "nom": "Krabi",
+     "lat": 8.09,
+     "lon": 98.91
+    },
+    {
+     "nom": "Koh Lanta",
+     "lat": 7.62,
+     "lon": 99.04
+    }
+   ]
+  }
+ ],
+ "outro": "Les prévisions couvrent 5 jours : reviens les consulter avant de partir.",
+ "num": 7
+}

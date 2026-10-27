@@ -1,0 +1,103 @@
+{
+ "id": "etape-chiang-mai",
+ "title": "Chiang Mai",
+ "subtitle": "Jour 1 à 3",
+ "lead": "Culture, cuisine et montagnes",
+ "cover": "temple-jour",
+ "blocks": [
+  {
+   "type": "card",
+   "n": 1,
+   "color": "#e91e8c",
+   "title": "Où te poser",
+   "sub": "les quartiers à connaître",
+   "img": "temple-jour",
+   "checks": [
+    "Vieille Ville (Old City) : Cœur historique entouré de remparts et de douves, dizaines de temples bouddhistes.",
+    "Nimman (Nimmanhaemin) : Quartier branché prisé des digital nomades, cafés de spécialité et boutiques design.",
+    "Night Bazaar (Chang Klan) : Marché nocturne permanent et rue commerçante animée, artisanat et souvenirs.",
+    "Riverside (bord de la rivière Ping) : Bars et restaurants en bord de rivière, ambiance décontractée en soirée."
+   ]
+  },
+  {
+   "type": "card",
+   "n": 2,
+   "color": "#1e88e5",
+   "title": "À ne pas manquer",
+   "sub": "les incontournables",
+   "img": "temple-jour",
+   "checks": [
+    "Wat Phra That Doi Suthep : Temple perché sur la montagne surplombant toute la ville, l'un des plus sacrés du nord. (50 THB)",
+    "Wat Chedi Luang : Immense temple en ruines datant du 14e siècle, au cœur de la vieille ville. (50 THB)",
+    "Wat Phra Singh : Le temple le plus vénéré de Chiang Mai, abritant le Bouddha Phra Singh. (Entrée libre (zone principale))",
+    "Sunday Walking Street : Marché piéton dominical le long de Ratchadamnoen Road, artisanat et street food. (Entrée libre)",
+    "Night Bazaar : Marché nocturne permanent, artisanat, vêtements et restaurants. (Entrée libre)"
+   ],
+   "tip": "Astuce : 306 marches pour accéder au temple, ou funiculaire payant pour les moins courageux."
+  },
+  {
+   "type": "card",
+   "n": 3,
+   "color": "#fb8c00",
+   "title": "Où dormir",
+   "sub": "selon ton style : Confort",
+   "img": "hebergement-piscine",
+   "checks": [
+    "Hôtels 3★ à Nimman ou vieille ville (1200–2500 THB/nuit) : Bon rapport qualité-prix, quartiers centraux et bien desservis."
+   ],
+   "links": [
+    {
+     "t": "🛏️ Hôtels 3★ à Nimman ou viei",
+     "u": "https://www.booking.com/searchresults.html?ss=Chiang+Mai"
+    }
+   ]
+  },
+  {
+   "type": "card",
+   "n": 4,
+   "color": "#00a67e",
+   "title": "Où manger",
+   "sub": "bonnes adresses",
+   "img": "marche-nuit",
+   "checks": [
+    "Huen Phen (€€) : Khao soi, curries Lanna, sai ua · Vieille Ville, près de Wat Phra Singh",
+    "Tong Tem Toh (€€) : Cuisine du nord · Nimman",
+    "Ristr8to (€€) : Café de spécialité · Nimman",
+    "The Good View (€€) : Cuisine thaïe, vue rivière · Riverside",
+    "The Riverside Bar & Restaurant (€€) : Cuisine thaïe/occidentale, musique live · Riverside (Chang Klan)"
+   ]
+  },
+  {
+   "type": "card",
+   "n": 5,
+   "color": "#8e24aa",
+   "title": "Se déplacer",
+   "sub": "les bons réflexes",
+   "img": "tuktuk-bangkok",
+   "checks": [
+    "Songthaew rouge (rot daeng) : 30–50 THB",
+    "Grab & Taxi : Selon trajet",
+    "Location de scooter : 150–250 THB/jour",
+    "Location de voiture : 800–1200 THB/jour"
+   ]
+  },
+  {
+   "type": "card",
+   "n": 6,
+   "color": "#e53935",
+   "title": "Budget sur place",
+   "sub": "Budget moyen : 2000–3800 THB/jour",
+   "img": "rooftop",
+   "checks": [
+    "Hôtel confortable, restaurants et une activité incluse (sanctuaire d'éléphants).",
+    "🛏️ Hôtel 3★ confortable : 1200–2000 THB",
+    "🍽️ Repas restaurants : 350–600 THB",
+    "🛵 Location scooter à la journée : 150–250 THB",
+    "🎟️ Une activité payante : 400–900 THB",
+    "Total indicatif : 2000–3800 THB/jour."
+   ]
+  }
+ ],
+ "outro": "Profite bien de cette étape !",
+ "num": 3
+}

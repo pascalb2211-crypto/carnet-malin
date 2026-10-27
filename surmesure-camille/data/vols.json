@@ -1,0 +1,157 @@
+{
+ "_source": "Guide Thaï Malin, édition 2026 (valeurs à vérifier chaque mois)",
+ "_verifie": null,
+ "run-bkk": {
+  "basse": {
+   "direct": "600 € – 800 €",
+   "escale": "500 € – 750 €"
+  },
+  "moyenne": {
+   "direct": "800 € – 1 000 €",
+   "escale": "700 € – 950 €"
+  },
+  "haute": {
+   "direct": "1 000 € – 1 300 €",
+   "escale": "900 € – 1 200 €"
+  }
+ },
+ "_maj": null,
+ "_routes": {
+  "run-bkk": {
+   "nom": "La Réunion → Bangkok",
+   "type": "aller-retour",
+   "mois": {
+    "basse": [
+     "Avril",
+     "Mai",
+     "Juin",
+     "Septembre",
+     "Octobre",
+     "Novembre"
+    ],
+    "moyenne": [
+     "Mars",
+     "Juillet",
+     "Août"
+    ],
+    "haute": [
+     "Décembre",
+     "Janvier",
+     "Février"
+    ]
+   }
+  },
+  "fra-bkk": {
+   "nom": "France → Bangkok",
+   "type": "aller-retour",
+   "maj": "2026-10-27",
+   "saisons": {
+    "basse": {
+     "nom": "Basse saison",
+     "quand": "mai–juin · sept.–oct.",
+     "ico": "🌤️",
+     "c": "#27ae60"
+    },
+    "moyenne": {
+     "nom": "Moyenne saison",
+     "quand": "fév.–avr. · novembre",
+     "ico": "☀️",
+     "c": "#fb8c00"
+    },
+    "haute": {
+     "nom": "Haute saison",
+     "quand": "juil.–août · 15 déc.–10 janv.",
+     "ico": "🔥",
+     "c": "#e53935"
+    }
+   },
+   "sources": [
+    {
+     "t": "Thailande-pratique.fr (octobre 2026)",
+     "u": "https://thailande-pratique.fr/preparer-son-voyage/vol-thailande-pas-cher/"
+    },
+    {
+     "t": "Kayak (relevé du 25/10/2026)",
+     "u": "https://www.kayak.fr/vols/Paris-PAR/Bangkok-TH1"
+    },
+    {
+     "t": "Partir.com (20/09/2026)",
+     "u": "https://www.partir.com/Thailande/billet-avion-vol/paris-cdg-bangkok/cdg/bkk/vol-direct.html"
+    }
+   ],
+   "note": "Estimation prudente à partir de plusieurs comparateurs. Vols directs : Air France et Thai Airways, environ 11 h. Avec escale : 14 à 18 h.",
+   "mois": {
+    "basse": [
+     "Mai",
+     "Juin",
+     "Septembre",
+     "Octobre"
+    ],
+    "moyenne": [
+     "Février",
+     "Mars",
+     "Avril",
+     "Novembre"
+    ],
+    "haute": [
+     "Juillet",
+     "Août",
+     "Décembre",
+     "Janvier"
+    ]
+   }
+  }
+ },
+ "_saisons": {
+  "basse": {
+   "nom": "Basse saison",
+   "quand": "avril à juin · sept. à nov.",
+   "ico": "🌤️",
+   "c": "#27ae60"
+  },
+  "moyenne": {
+   "nom": "Moyenne saison",
+   "quand": "mars · juillet · août",
+   "ico": "☀️",
+   "c": "#fb8c00"
+  },
+  "haute": {
+   "nom": "Haute saison",
+   "quand": "décembre à février",
+   "ico": "🔥",
+   "c": "#e53935"
+  }
+ },
+ "_liens": [
+  {
+   "t": "Google Flights",
+   "u": "https://www.google.com/travel/flights"
+  },
+  {
+   "t": "Skyscanner",
+   "u": "https://www.skyscanner.fr"
+  },
+  {
+   "t": "Trip.com",
+   "u": "https://fr.trip.com/flights/"
+  },
+  {
+   "t": "Air Austral",
+   "u": "https://www.air-austral.com"
+  }
+ ],
+ "fra-bkk": {
+  "basse": {
+   "direct": "700 € – 900 €",
+   "escale": "450 € – 650 €"
+  },
+  "moyenne": {
+   "direct": "850 € – 1 100 €",
+   "escale": "550 € – 750 €"
+  },
+  "haute": {
+   "direct": "1 000 € – 1 400 €",
+   "escale": "700 € – 1 000 €"
+  }
+ }
+}

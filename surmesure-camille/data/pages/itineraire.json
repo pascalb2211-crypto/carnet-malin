@@ -1,0 +1,63 @@
+{
+ "id": "itineraire",
+ "title": "Ton itinéraire",
+ "subtitle": "Étape par étape",
+ "lead": "Dans l'ordre du voyage",
+ "cover": "temple-jour",
+ "blocks": [
+  {
+   "type": "card",
+   "n": 1,
+   "color": "#e91e8c",
+   "title": "Chiang Mai",
+   "sub": "jour 1 à 3",
+   "img": "temple-jour",
+   "checks": [
+    "Jour 1 à 3 : 3 jours sur place.",
+    "Culture, cuisine et montagnes.",
+    "Correspond à tes envies : culture, street."
+   ]
+  },
+  {
+   "type": "card",
+   "n": 2,
+   "color": "#1e88e5",
+   "title": "Bangkok",
+   "sub": "jour 4 à 6",
+   "img": "bangkok-coucher",
+   "checks": [
+    "Jour 4 à 6 : 3 jours sur place.",
+    "Temples, street food et vertige urbain.",
+    "Correspond à tes envies : culture, street."
+   ]
+  },
+  {
+   "type": "card",
+   "n": 3,
+   "color": "#fb8c00",
+   "title": "Krabi",
+   "sub": "jour 7 à 9",
+   "img": "baie-bateaux",
+   "checks": [
+    "Jour 7 à 9 : 3 jours sur place.",
+    "Falaises, lagons et îles.",
+    "Correspond à tes envies : plages."
+   ]
+  },
+  {
+   "type": "card",
+   "n": 4,
+   "color": "#00a67e",
+   "title": "Koh Lanta",
+   "sub": "jour 10 à 12",
+   "img": "baie-bateaux",
+   "checks": [
+    "Jour 10 à 12 : 3 jours sur place.",
+    "Île calme et plages sauvages.",
+    "Correspond à tes envies : plages."
+   ]
+  }
+ ],
+ "outro": "Touche chaque étape dans le sommaire : à voir, où dormir, où manger, budget.",
+ "num": 2
+}

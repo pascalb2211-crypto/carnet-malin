@@ -1,0 +1,130 @@
+{
+ "id": "etape-krabi",
+ "title": "Krabi",
+ "subtitle": "Jour 7 à 9",
+ "lead": "Falaises, lagons et îles",
+ "cover": "baie-bateaux",
+ "blocks": [
+  {
+   "type": "card",
+   "n": 1,
+   "color": "#e91e8c",
+   "title": "Où te poser",
+   "sub": "les quartiers à connaître",
+   "img": "baie-bateaux",
+   "checks": [
+    "Krabi Town : Ville principale au bord de la rivière, marché nocturne du week-end.",
+    "Ao Nang : Plage principale et vie nocturne, base la plus touristique de Krabi.",
+    "Railay Beach : Péninsule accessible uniquement en bateau, hauts lieux de l'escalade.",
+    "Klong Muang : Plage plus calme et résorts haut de gamme au nord d'Ao Nang."
+   ]
+  },
+  {
+   "type": "card",
+   "n": 2,
+   "color": "#1e88e5",
+   "title": "À ne pas manquer",
+   "sub": "les incontournables",
+   "img": "baie-bateaux",
+   "checks": [
+    "Tiger Cave Temple (Wat Tham Suea) : Temple perché nécessitant l'ascension de 1237 marches, vue à 360° sur la jungle. (Entrée libre (dons acceptés))",
+    "4 Islands Tour : Excursion en bateau vers Koh Poda, Chicken Island, Tup Island et Phra Nang Cave Beach. (800–1500 THB selon formule)",
+    "Emerald Pool & Blue Pool : Bassins naturels aux eaux turquoise au cœur de la forêt tropicale. (200 THB)",
+    "Îles Phi Phi (excursion à la journée) : Excursion en bateau vers Maya Bay et les criques de Phi Phi Don. (1200–2500 THB selon formule)",
+    "Railay Viewpoint : Point de vue accessible par une grimpette courte mais raide, panorama sur les criques. (Entrée libre)"
+   ],
+   "tip": "Astuce : Monter tôt le matin pour éviter la chaleur, prévoir de l'eau."
+  },
+  {
+   "type": "card",
+   "n": 3,
+   "color": "#fb8c00",
+   "title": "Les plages",
+   "sub": "pour se baigner et se détendre",
+   "img": "plage-palmier",
+   "checks": [
+    "Ao Nang Beach : Animé, touristique",
+    "Noppharat Thara Beach : Calme, familial",
+    "Railay West : Spectaculaire, escalade",
+    "Phra Nang Cave Beach : Spectaculaire, sacré"
+   ]
+  },
+  {
+   "type": "card",
+   "n": 4,
+   "color": "#00a67e",
+   "title": "Excursions",
+   "sub": "à réserver sur place",
+   "img": "bateau-gros-plan",
+   "checks": [
+    "Hong Islands : Journée complète · Environ 1000-1800 THB selon formule",
+    "Bamboo Island : Étape d'une demi-journée · Généralement inclus dans un circuit Phi Phi"
+   ],
+   "tip": "Saison : Toute l'année, meilleure visibilité en saison sèche (novembre-avril)"
+  },
+  {
+   "type": "card",
+   "n": 5,
+   "color": "#8e24aa",
+   "title": "Où dormir",
+   "sub": "selon ton style : Confort",
+   "img": "hebergement-piscine",
+   "checks": [
+    "Hôtels 3★ proches de la plage (1400–2800 THB/nuit) : Bon rapport qualité-prix à Ao Nang ou Klong Muang."
+   ],
+   "links": [
+    {
+     "t": "🛏️ Hôtels 3★ proches de la pl",
+     "u": "https://www.booking.com/searchresults.html?ss=Krabi"
+    }
+   ]
+  },
+  {
+   "type": "card",
+   "n": 6,
+   "color": "#e53935",
+   "title": "Où manger",
+   "sub": "bonnes adresses",
+   "img": "marche-nuit",
+   "checks": [
+    "Khaothong Hill (€€) : Cuisine thaïe vue panoramique · Krabi Town",
+    "The Hilltop Ao Nang (€€) : Cuisine thaïe · Ao Nang",
+    "Ruen Mai Restaurant (€€) : Cuisine du sud · Krabi Town",
+    "Lae Lay Grill (€€) : Fruits de mer · Ao Nang",
+    "River Terrace Rooftop Bar & Cafe (€€) : Vue sur la rivière · Krabi Town"
+   ]
+  },
+  {
+   "type": "card",
+   "n": 7,
+   "color": "#5e35b1",
+   "title": "Se déplacer",
+   "sub": "les bons réflexes",
+   "img": "tuktuk-bangkok",
+   "checks": [
+    "Grab & Taxi : Selon trajet",
+    "Location de scooter : 200–300 THB/jour",
+    "Longtail boat : 100 THB/personne environ",
+    "Songthaew : 60–100 THB"
+   ]
+  },
+  {
+   "type": "card",
+   "n": 8,
+   "color": "#e91e8c",
+   "title": "Budget sur place",
+   "sub": "Budget moyen : 2200–4000 THB/jour",
+   "img": "rooftop",
+   "checks": [
+    "Hôtel confortable, restaurants et une excursion en bateau incluse.",
+    "🛏️ Hôtel confortable : 1400–2200 THB",
+    "🍽️ Repas restaurants : 400–700 THB",
+    "🛵 Location scooter à la journée : 200–300 THB",
+    "🎟️ Excursion en bateau (4 Islands) : 800-1500 THB (ponctuel)",
+    "Total indicatif : 2200–4000 THB/jour."
+   ]
+  }
+ ],
+ "outro": "Profite bien de cette étape !",
+ "num": 5
+}

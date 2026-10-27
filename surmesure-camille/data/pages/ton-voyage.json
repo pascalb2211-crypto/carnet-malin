@@ -1,0 +1,52 @@
+{
+ "id": "ton-voyage",
+ "title": "Ton voyage sur mesure, Camille",
+ "subtitle": "Préparé rien que pour toi",
+ "lead": "12 jours en Thaïlande",
+ "cover": "temple-jour",
+ "blocks": [
+  {
+   "type": "card",
+   "n": 1,
+   "color": "#e91e8c",
+   "title": "Ton voyage en un coup d'œil",
+   "sub": "12 jours · 2 voyageur(s)",
+   "img": "temple-jour",
+   "checks": [
+    "Départ : La Réunion, en Février.",
+    "Style de voyage : Confort.",
+    "Tes envies : Plages & îles, Culture & temples, Street food.",
+    "Étapes : Chiang Mai → Bangkok → Krabi → Koh Lanta.",
+    "Ta demande : « On aimerait un peu de calme sur la fin du voyage. »"
+   ]
+  },
+  {
+   "type": "card",
+   "n": 2,
+   "color": "#fb8c00",
+   "title": "Ta période : Février",
+   "sub": "ce qu'il faut savoir",
+   "img": "plage-coucher",
+   "checks": [
+    "Saison sèche : très belle période."
+   ],
+   "tip": "Pense à vérifier la météo juste avant le départ."
+  },
+  {
+   "type": "card",
+   "n": 3,
+   "color": "#00a67e",
+   "title": "Budget indicatif",
+   "sub": "séjour sur place + vols",
+   "img": "hebergement-piscine",
+   "checks": [
+    "Sur place : environ 1 450 à 2 000 € pour 2 voyageur(s) (70 €/jour/pers.), hors vols.",
+    "Vols aller-retour depuis La Réunion (haute saison) : direct 1 000 € – 1 300 €, avec escale 900 € – 1 200 € par personne.",
+    "Prix indicatifs, vérifiés (édition 2026)."
+   ],
+   "tip": "Le bouton « Prix vols » en bas donne toutes les saisons."
+  }
+ ],
+ "outro": "Le voyage i commence ici — bon départ !",
+ "num": 1
+}

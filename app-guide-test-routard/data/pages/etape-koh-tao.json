@@ -1,0 +1,126 @@
+{
+ "id": "etape-koh-tao",
+ "title": "Koh Tao",
+ "subtitle": "Jour 13 à 14",
+ "lead": "Plongée et eaux turquoise",
+ "cover": "tortue-snorkeling",
+ "blocks": [
+  {
+   "type": "card",
+   "n": 1,
+   "color": "#e91e8c",
+   "title": "Où te poser",
+   "sub": "les quartiers à connaître",
+   "img": "tortue-snorkeling",
+   "checks": [
+    "Mae Haad : Port principal de Koh Tao avec commerces, restaurants et agences de plongée.",
+    "Sairee Beach : La plage la plus animée de l'île avec bars, restaurants et couchers de soleil.",
+    "Chalok Baan Kao : Secteur paisible apprécié des plongeurs et des familles.",
+    "Shark Bay : Spot réputé pour observer les requins de récif à pointe noire."
+   ]
+  },
+  {
+   "type": "card",
+   "n": 2,
+   "color": "#1e88e5",
+   "title": "À ne pas manquer",
+   "sub": "les incontournables",
+   "img": "tortue-snorkeling",
+   "checks": [
+    "Sairee Beach : La plage principale de Koh Tao, animée et idéale pour le coucher de soleil. (Gratuit)",
+    "Shark Bay : Baie réputée pour le snorkeling, notamment pour les tortues et parfois les requins à pointes noires. (Gratuit)",
+    "Ao Leuk : Baie abritée réputée pour ses eaux claires, ses coraux et le snorkeling depuis la plage. (Gratuit)",
+    "John-Suwan Viewpoint : Point de vue panoramique sur le sud de l'île. (Selon accès)",
+    "Koh Nang Yuan : Petite île paradisiaque au nord de Koh Tao. (250 THB/adulte étranger)"
+   ],
+   "tip": "Astuce : Ambiance bars et restaurants; plus animée en soirée."
+  },
+  {
+   "type": "card",
+   "n": 3,
+   "color": "#fb8c00",
+   "title": "Où dormir",
+   "sub": "selon ton style : Routard",
+   "img": "hebergement-piscine",
+   "checks": [
+    "Ban's Diving Resort (≈ 1 500–3 500 THB/nuit) · Sairee : Resort de plongée, bungalows face à la plage de Sairee.",
+    "Charm Churee Villa (≈ 1 500–3 500 THB/nuit) · Chalok Baan Kao : Villas sur la colline, vue sur la baie de Chalok.",
+    "Haadtien Beach Resort (≈ 3 500–8 000 THB/nuit) · Haad Tien : Resort tranquille sur une plage isolée."
+   ],
+   "tip": "Les prix sont des fourchettes indicatives. Les boutons Booking, Agoda et Trip.com affichent les offres et les tarifs du moment : compare-les avant de réserver.",
+   "links": [
+    {
+     "t": "🛏️ Ban's Diving · Booking",
+     "u": "https://www.dpbolvw.net/click-101855269-12677526?url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fban-s-diving-resort.html"
+    },
+    {
+     "t": "🛏️ Ban's Diving · Agoda",
+     "u": "https://www.agoda.com/fr-fr/ban-s-diving-resort/hotel/koh-tao-th.html?cid=1972177"
+    },
+    {
+     "t": "🛏️ Ban's Diving · Trip.com",
+     "u": "https://fr.trip.com/hotels/koh-tao-hotel-detail-709169/ban-s-diving-resort/?Allianceid=9852508&SID=327644129&trip_sub3=D19106369&locale=fr-fr"
+    },
+    {
+     "t": "🛏️ Charm Churee Villa · Booking",
+     "u": "https://www.dpbolvw.net/click-101855269-12677526?url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fcharm-churee-village.html"
+    },
+    {
+     "t": "🛏️ Charm Churee Villa · Agoda",
+     "u": "https://www.agoda.com/fr-fr/city/koh-tao-th.html?cid=1972177"
+    },
+    {
+     "t": "🛏️ Charm Churee Villa · Trip.com",
+     "u": "https://fr.trip.com/hotels/koh-tao-hotel-detail-709178/charm-churee-villa/?Allianceid=9852508&SID=327644129&trip_sub3=D19106369&locale=fr-fr"
+    }
+   ],
+   "agoda": {
+    "cid": "1972177",
+    "ref": "1qLHTvK4/AiYf/W4zM1iJQ==",
+    "crt": "6120966568255",
+    "dest": "Koh Tao"
+   }
+  },
+  {
+   "type": "card",
+   "n": 4,
+   "color": "#00a67e",
+   "title": "Où manger",
+   "sub": "bonnes adresses",
+   "img": "marche-nuit",
+   "checks": [
+    "995 Roasted Duck (€€) : Thaï · Mae Haad",
+    "Mae Haad Food Market (€) : Street Food · Mae Haad",
+    "Sairee Street Food (€) : Street Food · Sairee Beach",
+    "Fishbowl Beach Bar (€€) : Cocktails · Sairee Beach",
+    "Coconut Monkey (€€) : Brunch · Mae Haad"
+   ]
+  },
+  {
+   "type": "card",
+   "n": 5,
+   "color": "#8e24aa",
+   "title": "Se déplacer",
+   "sub": "les bons réflexes",
+   "img": "tuktuk-bangkok",
+   "checks": [
+    "Location de scooter : Environ 200–350 THB/jour",
+    "Ferry : Variable selon trajet et compagnie",
+    "Taxi Pickup : Variable selon trajet"
+   ]
+  },
+  {
+   "type": "card",
+   "n": 6,
+   "color": "#e53935",
+   "title": "Budget sur place",
+   "sub": "Petit budget : 1000–1800 THB/jour",
+   "img": "rooftop",
+   "checks": [
+    "Hébergement simple, repas locaux et déplacements économiques."
+   ]
+  }
+ ],
+ "outro": "Profite bien de cette étape !",
+ "num": 14
+}

@@ -1,0 +1,40 @@
+{
+ "hotels": [
+  {
+   "tier": "Confort",
+   "name": "Sunrise Resort Koh Phangan",
+   "desc": "Bungalows sur la plage de Haad Rin (Sunrise).",
+   "price": "≈ 1 500–3 500 THB/nuit",
+   "bookingUrl": "https://www.dpbolvw.net/click-101855269-12677526?url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fsunrise-resort-koh-phangan.html",
+   "agodaUrl": "https://www.agoda.com/fr-fr/city/koh-phangan-th.html?cid=1972177",
+   "tripUrl": "https://fr.trip.com/hotels/koh-phangan-hotel-detail-2504181/sunrise-resort-koh-phangan/?Allianceid=9852508&SID=327644129&trip_sub3=D19106369&locale=fr-fr"
+  },
+  {
+   "tier": "Premium",
+   "name": "Panviman Resort Koh Phangan",
+   "desc": "Resort perché sur une baie, vue mer superbe.",
+   "price": "≈ 3 500–8 000 THB/nuit",
+   "bookingUrl": "https://www.dpbolvw.net/click-101855269-12677526?url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fpanviman-koh-phangan.html",
+   "agodaUrl": "https://www.agoda.com/fr-fr/city/koh-phangan-th.html?cid=1972177",
+   "tripUrl": "https://fr.trip.com/hotels/koh-phangan-hotel-detail-712119/panviman-koh-phangan/?Allianceid=9852508&SID=327644129&trip_sub3=D19106369&locale=fr-fr"
+  },
+  {
+   "tier": "Premium",
+   "name": "Buri Rasa Village Phangan",
+   "desc": "Village de bungalows face à la plage.",
+   "price": "≈ 3 500–8 000 THB/nuit",
+   "bookingUrl": "https://www.dpbolvw.net/click-101855269-12677526?url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fburi-rasa-koh-phangan.html",
+   "agodaUrl": "https://www.agoda.com/fr-fr/city/koh-phangan-th.html?cid=1972177",
+   "tripUrl": "https://fr.trip.com/hotels/koh-phangan-hotel-detail-712050/buri-rasa-koh-phangan/?Allianceid=9852508&SID=327644129&trip_sub3=D19106369&locale=fr-fr"
+  },
+  {
+   "tier": "Luxe",
+   "name": "Anantara Rasananda Koh Phangan Villas",
+   "desc": "Villas de luxe avec piscine privée.",
+   "price": "≈ 8 000–25 000 THB/nuit",
+   "bookingUrl": "https://www.dpbolvw.net/click-101855269-12677526?url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Frasananda.html",
+   "agodaUrl": "https://www.agoda.com/fr-fr/anantara-rasananda-koh-phangan-villas/hotel/koh-phangan-th.html?cid=1972177",
+   "tripUrl": "https://fr.trip.com/hotels/koh-phangan-hotel-detail-711145/anantara-rasananda-koh-phangan-villas/?Allianceid=9852508&SID=327644129&trip_sub3=D19106369&locale=fr-fr"
+  }
+ ]
+}

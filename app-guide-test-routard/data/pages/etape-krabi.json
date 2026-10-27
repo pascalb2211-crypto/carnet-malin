@@ -1,0 +1,131 @@
+{
+ "id": "etape-krabi",
+ "title": "Krabi",
+ "subtitle": "Jour 20 à 22",
+ "lead": "Falaises, lagons et îles",
+ "cover": "baie-bateaux",
+ "blocks": [
+  {
+   "type": "card",
+   "n": 1,
+   "color": "#e91e8c",
+   "title": "Où te poser",
+   "sub": "les quartiers à connaître",
+   "img": "baie-bateaux",
+   "checks": [
+    "Krabi Town : Ville principale au bord de la rivière, marché nocturne du week-end.",
+    "Ao Nang : Plage principale et vie nocturne, base la plus touristique de Krabi.",
+    "Railay Beach : Péninsule accessible uniquement en bateau, hauts lieux de l'escalade.",
+    "Klong Muang : Plage plus calme et résorts haut de gamme au nord d'Ao Nang."
+   ]
+  },
+  {
+   "type": "card",
+   "n": 2,
+   "color": "#1e88e5",
+   "title": "À ne pas manquer",
+   "sub": "les incontournables",
+   "img": "baie-bateaux",
+   "checks": [
+    "Tiger Cave Temple (Wat Tham Suea) : Temple perché nécessitant l'ascension de 1237 marches, vue à 360° sur la jungle. (Entrée libre (dons acceptés))",
+    "4 Islands Tour : Excursion en bateau vers Koh Poda, Chicken Island, Tup Island et Phra Nang Cave Beach. (800–1500 THB selon formule)",
+    "Emerald Pool & Blue Pool : Bassins naturels aux eaux turquoise au cœur de la forêt tropicale. (200 THB)",
+    "Îles Phi Phi (excursion à la journée) : Excursion en bateau vers Maya Bay et les criques de Phi Phi Don. (1200–2500 THB selon formule)",
+    "Railay Viewpoint : Point de vue accessible par une grimpette courte mais raide, panorama sur les criques. (Entrée libre)"
+   ],
+   "tip": "Astuce : Monter tôt le matin pour éviter la chaleur, prévoir de l'eau."
+  },
+  {
+   "type": "card",
+   "n": 3,
+   "color": "#fb8c00",
+   "title": "Excursions",
+   "sub": "à réserver sur place",
+   "img": "bateau-gros-plan",
+   "checks": [
+    "Hong Islands : Journée complète · Environ 1000-1800 THB selon formule",
+    "Bamboo Island : Étape d'une demi-journée · Généralement inclus dans un circuit Phi Phi"
+   ],
+   "tip": "Saison : Toute l'année, meilleure visibilité en saison sèche (novembre-avril)"
+  },
+  {
+   "type": "card",
+   "n": 4,
+   "color": "#00a67e",
+   "title": "Où dormir",
+   "sub": "selon ton style : Routard",
+   "img": "hebergement-piscine",
+   "checks": [
+    "Pak-Up Hostel (≈ 500–1 100 THB/nuit) · Krabi Town : Auberge sociable et bien tenue, idéale pour rencontrer des voyageurs."
+   ],
+   "tip": "Les prix sont des fourchettes indicatives. Les boutons Booking, Agoda et Trip.com affichent les offres et les tarifs du moment : compare-les avant de réserver.",
+   "links": [
+    {
+     "t": "🛏️ Pak-Up Hostel · Booking",
+     "u": "https://www.dpbolvw.net/click-101855269-12677526?url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fpak-up-hostel.html"
+    },
+    {
+     "t": "🛏️ Pak-Up Hostel · Agoda",
+     "u": "https://www.agoda.com/fr-fr/city/krabi-th.html?cid=1972177"
+    },
+    {
+     "t": "🛏️ Pak-Up Hostel · Trip.com",
+     "u": "https://fr.trip.com/hotels/krabi-hotel-detail-710497/pak-up-hostel/?Allianceid=9852508&SID=327644129&trip_sub3=D19106369&locale=fr-fr"
+    }
+   ],
+   "agoda": {
+    "cid": "1972177",
+    "ref": "1qLHTvK4/AiYf/W4zM1iJQ==",
+    "crt": "6120966568255",
+    "dest": "Krabi"
+   }
+  },
+  {
+   "type": "card",
+   "n": 5,
+   "color": "#8e24aa",
+   "title": "Où manger",
+   "sub": "bonnes adresses",
+   "img": "marche-nuit",
+   "checks": [
+    "Khaothong Hill (€€) : Cuisine thaïe vue panoramique · Krabi Town",
+    "The Hilltop Ao Nang (€€) : Cuisine thaïe · Ao Nang",
+    "Ruen Mai Restaurant (€€) : Cuisine du sud · Krabi Town",
+    "Lae Lay Grill (€€) : Fruits de mer · Ao Nang",
+    "Krabi Town Walking Street (€) : Khao mok gai · Krabi Town"
+   ]
+  },
+  {
+   "type": "card",
+   "n": 6,
+   "color": "#e53935",
+   "title": "Se déplacer",
+   "sub": "les bons réflexes",
+   "img": "tuktuk-bangkok",
+   "checks": [
+    "Grab & Taxi : Selon trajet",
+    "Location de scooter : 200–300 THB/jour",
+    "Longtail boat : 100 THB/personne environ",
+    "Songthaew : 60–100 THB"
+   ]
+  },
+  {
+   "type": "card",
+   "n": 7,
+   "color": "#5e35b1",
+   "title": "Budget sur place",
+   "sub": "Petit budget : 900–1500 THB/jour",
+   "img": "rooftop",
+   "checks": [
+    "Guesthouse, street food et songthaew.",
+    "🛏️ Guesthouse : 350–550 THB",
+    "🍜 3 repas street food : 150–250 THB",
+    "🚐 Songthaew pour la journée : 100–150 THB",
+    "🎟️ Une activité gratuite (temple, viewpoint) : 0–200 THB",
+    "Total indicatif : 900–1500 THB/jour."
+   ]
+  }
+ ],
+ "outro": "Profite bien de cette étape !",
+ "num": 17
+}

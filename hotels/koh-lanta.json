@@ -1,0 +1,108 @@
+{
+ "ville": "Koh Lanta",
+ "agoda_ville": "koh-lanta-th",
+ "trip_ville": {
+  "ville": "ko-lanta",
+  "id": ""
+ },
+ "bandes": {
+  "Économique": "≈ 500–1 200 THB/nuit",
+  "Confort": "≈ 1 500–3 500 THB/nuit",
+  "Premium": "≈ 4 000–10 000 THB/nuit",
+  "Luxe": "≈ 9 000–25 000 THB/nuit"
+ },
+ "_meta": {
+  "statut": "brouillon-ia",
+  "date": "2026-10-27",
+  "sources": [
+   {
+    "t": "Pages hôtels Booking, Agoda et Trip.com (liens vérifiés par recherche)",
+    "u": ""
+   },
+   {
+    "t": "Sélection Premium Thaï Malin (base de Pascal)",
+    "u": "(base de Pascal)"
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "tier": "Économique",
+   "style": "",
+   "name": "Lanta Long Beach Hostel",
+   "ville": "Koh Lanta",
+   "quartier": "Long Beach",
+   "desc": "Auberge simple et sociable à deux pas de la plage.",
+   "price": "",
+   "trip": [
+    "4548451",
+    "lanta-long-beach-hostel"
+   ],
+   "booking": "lanta-long-beach-hostel",
+   "statut": "brouillon-ia",
+   "verifie": "2026-10-27"
+  },
+  {
+   "tier": "Confort",
+   "style": "",
+   "name": "Lanta Sand Resort & Spa",
+   "ville": "Koh Lanta",
+   "quartier": "Long Beach",
+   "desc": "Resort de plage avec piscine, ambiance détendue.",
+   "price": "",
+   "agoda": "lanta-sand-resort-spa",
+   "trip": [
+    "1512657",
+    "lanta-sand-resort-and-spa-krabi"
+   ],
+   "booking": "lanta-sand-resort-spa",
+   "statut": "brouillon-ia",
+   "verifie": "2026-10-27"
+  },
+  {
+   "tier": "Confort",
+   "style": "",
+   "name": "Avani+ Koh Lanta Krabi Resort",
+   "ville": "Koh Lanta",
+   "quartier": "Klong Dao",
+   "desc": "Resort de plage avec piscine et activités (anciennement Crown Lanta).",
+   "price": "",
+   "booking": "crown-lanta-resort-spa",
+   "statut": "brouillon-ia",
+   "verifie": "2026-10-27"
+  },
+  {
+   "tier": "Premium",
+   "style": "",
+   "name": "Layana Resort & Spa",
+   "ville": "Koh Lanta",
+   "quartier": "Long Beach",
+   "desc": "Resort pour adultes, spa et piscine en bord de mer.",
+   "price": "",
+   "agoda": "layana-resort-spa-adults-only",
+   "trip": [
+    "710082",
+    "layana-resort-and-spa-adults-only"
+   ],
+   "booking": "layana-resort-spa",
+   "statut": "brouillon-ia",
+   "verifie": "2026-10-27"
+  },
+  {
+   "tier": "Luxe",
+   "style": "",
+   "name": "Pimalai Resort & Spa",
+   "ville": "Koh Lanta",
+   "quartier": "Ba Kan Tiang",
+   "desc": "Grand resort sur une plage presque privée, côté sud.",
+   "price": "",
+   "trip": [
+    "996822",
+    "pimalai-resort-and-spa"
+   ],
+   "booking": "pimalai-resort-and-spa",
+   "statut": "brouillon-ia",
+   "verifie": "2026-10-27"
+  }
+ ]
+}

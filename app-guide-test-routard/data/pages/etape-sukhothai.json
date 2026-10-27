@@ -1,0 +1,128 @@
+{
+ "id": "etape-sukhothai",
+ "title": "Sukhothai",
+ "subtitle": "Jour 4",
+ "lead": "Ruines d'un ancien royaume",
+ "cover": "ruines-coucher",
+ "blocks": [
+  {
+   "type": "card",
+   "n": 1,
+   "color": "#e91e8c",
+   "title": "Où te poser",
+   "sub": "les quartiers à connaître",
+   "img": "ruines-coucher",
+   "checks": [
+    "Vieille ville (Old Sukhothai) : Le secteur le plus pratique : hôtels à quelques minutes à pied de l'entrée du parc, location de vélos, marché local tôt le matin.",
+    "Nouvelle ville (New Sukhothai) : À environ 12 km du parc, avec la gare routière et davantage d'adresses ; un bus local relie les deux."
+   ]
+  },
+  {
+   "type": "card",
+   "n": 2,
+   "color": "#1e88e5",
+   "title": "À ne pas manquer",
+   "sub": "les incontournables",
+   "img": "ruines-coucher",
+   "checks": [
+    "Parc historique de Sukhothai — zone centrale : Le cœur de l'ancienne capitale, dans les remparts : Wat Mahathat, Wat Si Sawai aux tours de style khmer, Wat Sa Si sur son étang et le monument du… (100 THB par zone, vélo +10 THB)",
+    "Zone nord : Wat Si Chum et Wat Phra Phai Luang : À 1–1,5 km des remparts, Wat Si Chum abrite le grand Bouddha assis Phra Achana, d'environ 15 m. (100 THB par zone)",
+    "Zone ouest : Wat Saphan Hin : Temple perché à 3–4 km avec un Bouddha debout et une vue sur la vieille ville ; la montée est à faire à pied. (100 THB par zone)",
+    "Ruines illuminées du samedi soir : Le samedi soir, la zone centrale reste ouverte jusqu'à environ 21h, avec les ruines éclairées. (Billet de zone)",
+    "Marché de nuit du week-end : Dans le parc, près du monument Ramkhamhaeng, avec miang kham, porc grillé en salade épicée, saucisse sai krok et desserts à la noix de coco. (Variable (bon marché selon la source))"
+   ],
+   "tip": "Astuce : Visite tôt (6h30–9h) ou en fin d'après-midi (16h–18h) ; évite 11h–14h, forte chaleur et peu d'ombre."
+  },
+  {
+   "type": "card",
+   "n": 3,
+   "color": "#fb8c00",
+   "title": "Où dormir",
+   "sub": "selon ton style : Routard",
+   "img": "hebergement-piscine",
+   "checks": [
+    "Vieng Tawan Sukhothai Hotel (moins de 600 THB/nuit) · Vieille ville : Petit hôtel 2★ à pied ou à vélo des temples, équipement simple (wifi)."
+   ],
+   "tip": "Les prix sont des fourchettes indicatives. Les boutons Booking, Agoda et Trip.com affichent les offres et les tarifs du moment : compare-les avant de réserver.",
+   "links": [
+    {
+     "t": "🛏️ Vieng Tawan · Booking",
+     "u": "https://www.dpbolvw.net/click-101855269-12677526?url=https%3A%2F%2Fwww.booking.com%2Fsearchresults.fr.html%3Fss%3DVieng%2BTawan%2BSukhothai%2BHotel%2BSukhothai"
+    },
+    {
+     "t": "🛏️ Vieng Tawan · Agoda",
+     "u": "https://www.agoda.com/fr-fr/vieng-tawan-sukhothai-guesthouse-by-thai-thai/hotel/sukhothai-th.html?cid=1972177"
+    },
+    {
+     "t": "🛏️ Vieng Tawan · Trip.com",
+     "u": "https://fr.trip.com/hotels/sukhothai-hotel-detail-3701782/vieng-tawan-sukhothai-guesthouse-by-thai-thai/?Allianceid=9852508&SID=327644129&trip_sub3=D19106369&locale=fr-fr"
+    }
+   ],
+   "agoda": {
+    "cid": "1972177",
+    "ref": "1qLHTvK4/AiYf/W4zM1iJQ==",
+    "crt": "6120966568255",
+    "dest": "Sukhothai"
+   }
+  },
+  {
+   "type": "card",
+   "n": 4,
+   "color": "#00a67e",
+   "title": "Où manger",
+   "sub": "bonnes adresses",
+   "img": "marche-nuit",
+   "checks": [
+    "Jayhea Noodle (Ban Kluai) : Nouilles de Sukhothai · Mueang",
+    "Mai Klang Krung : Nouilles sèches de Sukhothai · 139 Charodwithee Tong Road",
+    "Marché riverain Talad Thanam Rab Sadet : Marché de rue · Muang Kao"
+   ]
+  },
+  {
+   "type": "card",
+   "n": 5,
+   "color": "#8e24aa",
+   "title": "Se déplacer",
+   "sub": "les bons réflexes",
+   "img": "tuktuk-bangkok",
+   "checks": [
+    "Bangkok → Sukhothai en bus : Prix non précisé",
+    "Chiang Mai → Sukhothai en bus : ≈ 250 THB",
+    "Vol ou train jusqu'à la région : ≈ 50 THB pour le bus depuis Phitsanulok",
+    "Entre la nouvelle et la vieille ville : ≈ 30 THB le bus, ≈ 10 THB le songthaew"
+   ],
+   "tip": "Astuce : Visite tôt le matin ou en fin d'après-midi, et évite 11h–14h : chaleur forte et peu d'ombre."
+  },
+  {
+   "type": "card",
+   "n": 6,
+   "color": "#e53935",
+   "title": "Sources de cette page",
+   "sub": "page préparée à partir du web",
+   "img": "ruines-coucher",
+   "checks": [
+    "Cette page a été préparée à partir de sources web récentes (liste ci-dessous). Prix et horaires sont à confirmer sur place."
+   ],
+   "links": [
+    {
+     "t": "Thailand Addict — guide du parc hi",
+     "u": "https://thailandaddict.com/en/sukhothai-historical-park-guide"
+    },
+    {
+     "t": "Thai PBS World — saveurs de Sukhot",
+     "u": "https://www.thaipbsworld.com/lifestyle/the-tantalizing-tastes-of-sukhothai"
+    },
+    {
+     "t": "Travelfish — où dormir à Sukhothai",
+     "u": "https://www.travelfish.org/accommodation/thailand/northern_thailand/sukhothai/sukhothai/all"
+    },
+    {
+     "t": "Thailandee — dormir près du parc (",
+     "u": "https://www.thailandee.com/blog/index.php/12254-dormir-pres-du-parc-historique-de-sukhothai"
+    }
+   ]
+  }
+ ],
+ "outro": "Page courte, à confirmer sur place avant de réserver.",
+ "num": 8
+}

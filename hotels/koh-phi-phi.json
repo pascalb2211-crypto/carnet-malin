@@ -1,0 +1,128 @@
+{
+ "ville": "Koh Phi Phi",
+ "agoda_ville": "koh-phi-phi-th",
+ "trip_ville": {
+  "ville": "phi-phi-islands",
+  "id": ""
+ },
+ "bandes": {
+  "Économique": "≈ 500–1 200 THB/nuit",
+  "Confort": "≈ 2 000–4 500 THB/nuit",
+  "Premium": "≈ 4 500–10 000 THB/nuit",
+  "Luxe": "≈ 10 000–30 000 THB/nuit"
+ },
+ "_meta": {
+  "statut": "brouillon-ia",
+  "date": "2026-10-27",
+  "sources": [
+   {
+    "t": "Pages hôtels Booking, Agoda et Trip.com (liens vérifiés par recherche)",
+    "u": ""
+   },
+   {
+    "t": "Sélection Premium Thaï Malin (base de Pascal)",
+    "u": "(base de Pascal)"
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "tier": "Économique",
+   "style": "",
+   "name": "Slumber Party Phi Phi",
+   "ville": "Koh Phi Phi",
+   "quartier": "Tonsai",
+   "desc": "Auberge festive au cœur du village de Tonsai.",
+   "price": "",
+   "trip": [
+    "129726368",
+    "slumber-party-phi-phi"
+   ],
+   "statut": "brouillon-ia",
+   "verifie": "2026-10-27"
+  },
+  {
+   "tier": "Confort",
+   "style": "",
+   "name": "Phi Phi Cliff Beach Resort",
+   "ville": "Koh Phi Phi",
+   "quartier": "Laem Hin",
+   "desc": "Bungalows sur la falaise, un peu à l'écart de l'agitation.",
+   "price": "",
+   "trip": [
+    "2621511",
+    "phi-phi-cliff-beach-resort"
+   ],
+   "booking": "phi-phi-cliff-beach-resort",
+   "statut": "brouillon-ia",
+   "verifie": "2026-10-27"
+  },
+  {
+   "tier": "Confort",
+   "style": "",
+   "name": "P.P. Erawan Palms Resort",
+   "ville": "Koh Phi Phi",
+   "quartier": "Laem Tong",
+   "desc": "Resort calme au nord de l'île, loin du bruit.",
+   "price": "",
+   "agoda": "p-p-erawan-palms-resort",
+   "trip": [
+    "999161",
+    "pp-erawan-palms-resort"
+   ],
+   "booking": "p-p-erawan-palms-resort",
+   "statut": "brouillon-ia",
+   "verifie": "2026-10-27"
+  },
+  {
+   "tier": "Premium",
+   "style": "",
+   "name": "Phi Phi Holiday Resort",
+   "ville": "Koh Phi Phi",
+   "quartier": "Laem Tong",
+   "desc": "Resort de plage au nord, tranquille et confortable.",
+   "price": "",
+   "agoda": "holiday-inn-resort-phi-phi-island",
+   "trip": [
+    "1273850",
+    "holiday-inn-resort-phi-phi-island"
+   ],
+   "booking": "holiday-inn-resort-phi-phi-island",
+   "statut": "brouillon-ia",
+   "verifie": "2026-10-27"
+  },
+  {
+   "tier": "Premium",
+   "style": "",
+   "name": "SAii Phi Phi Island Village",
+   "ville": "Koh Phi Phi",
+   "quartier": "Laem Tong",
+   "desc": "Grand resort de plage, bateau privé depuis Tonsai.",
+   "price": "",
+   "agoda": "phi-phi-island-village-beach-resort",
+   "trip": [
+    "998346",
+    "phi-phi-island-village-beach-resort"
+   ],
+   "booking": "phiphiislandvillagebeachresortandspa",
+   "statut": "brouillon-ia",
+   "verifie": "2026-10-27"
+  },
+  {
+   "tier": "Luxe",
+   "style": "",
+   "name": "Zeavola Resort",
+   "ville": "Koh Phi Phi",
+   "quartier": "Laem Tong",
+   "desc": "Resort de charme face à la mer, villas pieds dans le sable.",
+   "price": "",
+   "agoda": "zeavola-hotel",
+   "trip": [
+    "991385",
+    "zeavola-resort"
+   ],
+   "statut": "brouillon-ia",
+   "verifie": "2026-10-27"
+  }
+ ]
+}

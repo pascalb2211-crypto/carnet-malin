@@ -1,0 +1,67 @@
+{
+ "hotels": [
+  {
+   "tier": "Économique",
+   "name": "Pak-Up Hostel",
+   "desc": "Auberge sociable et bien tenue, idéale pour rencontrer des voyageurs.",
+   "price": "≈ 500–1 100 THB/nuit",
+   "bookingUrl": "https://www.dpbolvw.net/click-101855269-12677526?url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fpak-up-hostel.html",
+   "agodaUrl": "https://www.agoda.com/fr-fr/city/krabi-th.html?cid=1972177",
+   "tripUrl": "https://fr.trip.com/hotels/krabi-hotel-detail-710497/pak-up-hostel/?Allianceid=9852508&SID=327644129&trip_sub3=D19106369&locale=fr-fr"
+  },
+  {
+   "tier": "Confort",
+   "name": "Apasari Krabi",
+   "desc": "Hôtel-boutique avec piscine, près de la plage.",
+   "price": "≈ 1 400–3 500 THB/nuit",
+   "bookingUrl": "https://www.dpbolvw.net/click-101855269-12677526?url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Famandari-krabi.html",
+   "agodaUrl": "https://www.agoda.com/fr-fr/apasari-krabi-hotel/hotel/krabi-th.html?cid=1972177",
+   "tripUrl": "https://fr.trip.com/hotels/krabi-hotel-detail-709770/apasari-krabi/?Allianceid=9852508&SID=327644129&trip_sub3=D19106369&locale=fr-fr"
+  },
+  {
+   "tier": "Confort",
+   "name": "Sand Sea Resort",
+   "desc": "Bungalows tranquilles sur la plage de Railay West.",
+   "price": "≈ 1 400–3 500 THB/nuit",
+   "bookingUrl": "https://www.dpbolvw.net/click-101855269-12677526?url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fsand-sea-resort.html",
+   "agodaUrl": "https://www.agoda.com/fr-fr/city/krabi-th.html?cid=1972177",
+   "tripUrl": "https://fr.trip.com/hotels/krabi-hotel-detail-1516706/sand-sea-resort/?Allianceid=9852508&SID=327644129&trip_sub3=D19106369&locale=fr-fr"
+  },
+  {
+   "tier": "Confort",
+   "name": "Aonang Cliff Beach Resort",
+   "desc": "Resort en bord de falaise avec vue sur la baie.",
+   "price": "≈ 1 400–3 500 THB/nuit",
+   "bookingUrl": "https://www.dpbolvw.net/click-101855269-12677526?url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Faonang-cliff-beach-resort.html",
+   "agodaUrl": "https://www.agoda.com/fr-fr/city/krabi-th.html?cid=1972177",
+   "tripUrl": "https://fr.trip.com/hotels/krabi-hotel-detail-999071/aonang-cliff-beach-resort/?Allianceid=9852508&SID=327644129&trip_sub3=D19106369&locale=fr-fr"
+  },
+  {
+   "tier": "Premium",
+   "name": "Railay Princess Resort & Spa",
+   "desc": "Resort entre deux plages, accessible en bateau.",
+   "price": "≈ 3 500–8 000 THB/nuit",
+   "bookingUrl": "https://www.dpbolvw.net/click-101855269-12677526?url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Frailay-princess-resort-spa.html",
+   "agodaUrl": "https://www.agoda.com/fr-fr/railay-princess-resort-spa/hotel/krabi-th.html?cid=1972177",
+   "tripUrl": "https://fr.trip.com/hotels/krabi-hotel-detail-710552/railay-princess-resort-and-spa/?Allianceid=9852508&SID=327644129&trip_sub3=D19106369&locale=fr-fr"
+  },
+  {
+   "tier": "Premium",
+   "name": "Centara Grand Beach Resort & Villas Krabi",
+   "desc": "Grand resort au pied des falaises de Railay.",
+   "price": "≈ 3 500–8 000 THB/nuit",
+   "bookingUrl": "https://www.dpbolvw.net/click-101855269-12677526?url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fgrand-beach-resort-villas-krabi.html",
+   "agodaUrl": "https://www.agoda.com/fr-fr/centara-grand-beach-resort-villas-krabi_4/hotel/krabi-th.html?cid=1972177",
+   "tripUrl": "https://fr.trip.com/hotels/krabi-hotel-detail-709845/centara-grand-beach-resort-and-villas-krabi/?Allianceid=9852508&SID=327644129&trip_sub3=D19106369&locale=fr-fr"
+  },
+  {
+   "tier": "Luxe",
+   "name": "Phulay Bay, a Ritz-Carlton Reserve",
+   "desc": "Villas de luxe en bord de mer, expérience très privée.",
+   "price": "≈ 8 000–30 000 THB/nuit",
+   "bookingUrl": "https://www.dpbolvw.net/click-101855269-12677526?url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fphulay-bay-a-ritz-carlton-reserve.html",
+   "agodaUrl": "https://www.agoda.com/fr-fr/city/krabi-th.html?cid=1972177",
+   "tripUrl": "https://fr.trip.com/hotels/krabi-hotel-detail-979266/phulay-bay-a-ritz-carlton-reserve/?Allianceid=9852508&SID=327644129&trip_sub3=D19106369&locale=fr-fr"
+  }
+ ]
+}

@@ -1,0 +1,145 @@
+{
+ "id": "etape-phuket",
+ "title": "Phuket",
+ "subtitle": "Jour 26 à 28",
+ "lead": "Plages, nuits animées et excursions",
+ "cover": "baie-panoramique",
+ "blocks": [
+  {
+   "type": "card",
+   "n": 1,
+   "color": "#e91e8c",
+   "title": "Où te poser",
+   "sub": "les quartiers à connaître",
+   "img": "baie-panoramique",
+   "checks": [
+    "Phuket Town (Mueang Phuket) : Architecture sino-portugaise colorée, street art et scène café — considéré par beaucoup comme abritant la meilleure gastronomie de l'île, loin de…",
+    "Rawai : Port de pêche à l'ambiance typique, devenu le repaire des voyageurs au long cours et des digital nomads — appartements abordables, bonne cuisine,…",
+    "Chalong : Abrite le plus grand temple de l'île (Wat Chalong) et le principal port de plaisance de Phuket — hub pour les excursions en bateau, plongée et pêche.",
+    "Kathu : Quartier central de l'île, entre vie urbaine et nature — stratégique pour ceux qui travaillent depuis Phuket, avec cascade, golfs et centre…"
+   ]
+  },
+  {
+   "type": "card",
+   "n": 2,
+   "color": "#1e88e5",
+   "title": "À ne pas manquer",
+   "sub": "les incontournables",
+   "img": "baie-panoramique",
+   "checks": [
+    "Big Buddha (Grand Bouddha) : Statue de marbre blanc de 45 mètres de haut, visible depuis une grande partie du sud de l'île, avec une vue panoramique à 360° sur la baie de Chalong. (Gratuit (dons bienvenus))",
+    "Wat Chalong : Le plus grand et le plus vénéré des temples de Phuket — complexe important, lieu de pèlerinage majeur pour les Thaïlandais. (Gratuit (dons bienvenus))",
+    "Phuket Old Town : Rues Thalang, Dibuk et Soi Romanee bordées d'architecture sino-portugaise colorée — façades restaurées, cafés branchés, galeries d'art et temples… (Gratuit)",
+    "Karon Viewpoint (point de vue des 3 baies) : Vue spectaculaire et unique sur trois baies d'un coup : Kata Noi, Kata et Karon — l'un des points de vue les plus photographiés de l'île. (Gratuit)",
+    "Promthep Cape : Le point le plus au sud de l'île, célèbre pour ses couchers de soleil légendaires — l'un des rendez-vous incontournables de la fin de journée à… (Gratuit)"
+   ],
+   "tip": "Astuce : Tenue correcte exigée pour monter sur la plateforme — épaules et genoux couverts."
+  },
+  {
+   "type": "card",
+   "n": 3,
+   "color": "#fb8c00",
+   "title": "Excursions",
+   "sub": "à réserver sur place",
+   "img": "bateau-gros-plan",
+   "checks": [
+    "Koh Phi Phi : Journée complète · À partir de 1400 THB (ferry ou tour groupé)",
+    "James Bond Island & baie de Phang Nga : Journée complète · 40-120 USD selon la formule (avec kayak/déjeuner inclus pour le haut de la fourchette)",
+    "Îles Similan : Journée complète, départ très tôt (05:30-07:30 pour le transfert hôtel) · Environ 2500 THB pour une formule snorkeling à la journée"
+   ],
+   "tip": "Saison : Toute l'année, mais Maya Bay ferme du 1er août au 30 septembre pour régénération écologique"
+  },
+  {
+   "type": "card",
+   "n": 4,
+   "color": "#00a67e",
+   "title": "Où dormir",
+   "sub": "selon ton style : Routard",
+   "img": "hebergement-piscine",
+   "checks": [
+    "The Expat Hotel (≈ 600–1 400 THB/nuit) · Patong : Hôtel simple et central, pratique pour sortir.",
+    "TRIBE Phuket Patong (≈ 600–1 400 THB/nuit) · Patong : Hôtel moderne et abordable, à deux pas de la plage."
+   ],
+   "tip": "Les prix sont des fourchettes indicatives. Les boutons Booking, Agoda et Trip.com affichent les offres et les tarifs du moment : compare-les avant de réserver.",
+   "links": [
+    {
+     "t": "🛏️ The Expat · Booking",
+     "u": "https://www.dpbolvw.net/click-101855269-12677526?url=https%3A%2F%2Fwww.booking.com%2Fsearchresults.fr.html%3Fss%3DThe%2BExpat%2BHotel%2BPhuket"
+    },
+    {
+     "t": "🛏️ The Expat · Agoda",
+     "u": "https://www.agoda.com/fr-fr/expat-hotel/hotel/phuket-th.html?cid=1972177"
+    },
+    {
+     "t": "🛏️ The Expat · Trip.com",
+     "u": "https://fr.trip.com/hotels/phuket-hotel-detail-702379/the-expat-hotel/?Allianceid=9852508&SID=327644129&trip_sub3=D19106369&locale=fr-fr"
+    },
+    {
+     "t": "🛏️ TRIBE Phuket Patong · Booking",
+     "u": "https://www.dpbolvw.net/click-101855269-12677526?url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Ftribe-phuket-patong.html"
+    },
+    {
+     "t": "🛏️ TRIBE Phuket Patong · Agoda",
+     "u": "https://www.agoda.com/fr-fr/tribe-phuket-patong/hotel/phuket-th.html?cid=1972177"
+    },
+    {
+     "t": "🛏️ TRIBE Phuket Patong · Trip.com",
+     "u": "https://fr.trip.com/hotels/phuket-hotel-detail-11604407/tribe-phuket-patong-by-accor/?Allianceid=9852508&SID=327644129&trip_sub3=D19106369&locale=fr-fr"
+    }
+   ],
+   "agoda": {
+    "cid": "1972177",
+    "ref": "1qLHTvK4/AiYf/W4zM1iJQ==",
+    "crt": "6120966568255",
+    "dest": "Phuket"
+   }
+  },
+  {
+   "type": "card",
+   "n": 5,
+   "color": "#8e24aa",
+   "title": "Où manger",
+   "sub": "bonnes adresses",
+   "img": "marche-nuit",
+   "checks": [
+    "Krua Jongjit (€) : Hokkien Mee, Tom Som Pla (soupe de poisson acidulée) · Kathu",
+    "Stand de nouilles Hokkien (près de la gare routière) (€) : Nouilles Hokkien · Phuket Town",
+    "Phuket Weekend Night Market (Indy Market) (€) : Street food variée, moo ping · Chao Fa West Road",
+    "Kee Sky Lounge (€€) : Cocktails, vue sur la baie · Patong (Thaveewong Road)",
+    "Cue Bar (rooftop) (€€) : Pad kra pao, larb, ailes de poulet frites · Phuket Old Town"
+   ]
+  },
+  {
+   "type": "card",
+   "n": 6,
+   "color": "#e53935",
+   "title": "Se déplacer",
+   "sub": "les bons réflexes",
+   "img": "tuktuk-bangkok",
+   "checks": [
+    "Aéroport → centre : 800–1200 THB selon la destination",
+    "Phuket Smart Bus : 100 THB le trajet",
+    "Songthaew : 30–50 THB par personne",
+    "Tuk-tuk : Souvent 150-200 THB pour un trajet court, à négocier avant de monter"
+   ]
+  },
+  {
+   "type": "card",
+   "n": 7,
+   "color": "#5e35b1",
+   "title": "Budget sur place",
+   "sub": "Petit budget : 1000–1500 THB/jour",
+   "img": "rooftop",
+   "checks": [
+    "Guesthouse, street food et songthaew/Smart Bus.",
+    "🛏️ Guesthouse ou dortoir : 300–500 THB",
+    "🍜 3 repas street food/marché : 150–250 THB",
+    "🚌 Songthaew/Smart Bus pour la journée : 100–150 THB",
+    "🎟️ Une activité gratuite (temple, point de vue, plage) : 0–300 THB",
+    "Total indicatif : 1000–1500 THB/jour."
+   ]
+  }
+ ],
+ "outro": "Profite bien de cette étape !",
+ "num": 20
+}

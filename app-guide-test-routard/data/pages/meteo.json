@@ -1,0 +1,121 @@
+{
+ "id": "meteo",
+ "title": "Météo de ton voyage",
+ "subtitle": "Prévisions en direct",
+ "lead": "Pour chaque étape",
+ "cover": "plage-coucher",
+ "blocks": [
+  {
+   "type": "meteo",
+   "n": 1,
+   "color": "#e91e8c",
+   "title": "Météo France",
+   "sub": "avant de partir",
+   "img": "aeroport-avion-blanc",
+   "places": [
+    {
+     "nom": "Paris",
+     "lat": 48.85,
+     "lon": 2.35
+    },
+    {
+     "nom": "Lyon",
+     "lat": 45.76,
+     "lon": 4.84
+    },
+    {
+     "nom": "Marseille",
+     "lat": 43.3,
+     "lon": 5.37
+    }
+   ]
+  },
+  {
+   "type": "meteo",
+   "n": 2,
+   "color": "#00a67e",
+   "title": "Météo de tes étapes",
+   "sub": "pendant le voyage",
+   "img": "baie-panoramique",
+   "places": [
+    {
+     "nom": "Bangkok",
+     "lat": 13.75,
+     "lon": 100.5
+    },
+    {
+     "nom": "Ayutthaya",
+     "lat": 14.35,
+     "lon": 100.57
+    },
+    {
+     "nom": "Sukhothai",
+     "lat": 17.01,
+     "lon": 99.82
+    },
+    {
+     "nom": "Chiang Mai",
+     "lat": 18.79,
+     "lon": 98.98
+    },
+    {
+     "nom": "Chiang Rai",
+     "lat": 19.91,
+     "lon": 99.83
+    },
+    {
+     "nom": "Hua Hin",
+     "lat": 12.57,
+     "lon": 99.96
+    },
+    {
+     "nom": "Pattaya",
+     "lat": 12.93,
+     "lon": 100.88
+    },
+    {
+     "nom": "Koh Chang",
+     "lat": 12.05,
+     "lon": 102.34
+    },
+    {
+     "nom": "Koh Tao",
+     "lat": 10.1,
+     "lon": 99.84
+    },
+    {
+     "nom": "Koh Phangan",
+     "lat": 9.74,
+     "lon": 100.03
+    },
+    {
+     "nom": "Koh Samui",
+     "lat": 9.51,
+     "lon": 100.01
+    },
+    {
+     "nom": "Krabi",
+     "lat": 8.09,
+     "lon": 98.91
+    },
+    {
+     "nom": "Koh Phi Phi",
+     "lat": 7.74,
+     "lon": 98.78
+    },
+    {
+     "nom": "Koh Lanta",
+     "lat": 7.62,
+     "lon": 99.04
+    },
+    {
+     "nom": "Phuket",
+     "lat": 7.88,
+     "lon": 98.39
+    }
+   ]
+  }
+ ],
+ "outro": "Les prévisions couvrent 5 jours : reviens les consulter avant de partir.",
+ "num": 21
+}

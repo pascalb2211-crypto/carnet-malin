@@ -1,0 +1,99 @@
+{
+ "id": "arrivee",
+ "num": 4,
+ "title": "À l'arrivée en Thaïlande",
+ "subtitle": "Les étapes et bons réflexes",
+ "lead": "Pour un début de séjour serein",
+ "cover": "tuktuk-bangkok",
+ "blocks": [
+  {
+   "type": "card",
+   "n": 1,
+   "color": "#e91e8c",
+   "title": "Contrôle d'immigration",
+   "sub": "première étape",
+   "img": "preparation-passeport",
+   "checks": [
+    "Présentez votre passeport.",
+    "Montrez votre QR code TDAC.",
+    "Répondez aux questions de l'agent si besoin.",
+    "Prenez le tampon d'entrée ($formalites.sejour_sans_visa_court pour les Français en exemption de visa).",
+    "Vérifiez la date inscrite sur le tampon."
+   ]
+  },
+  {
+   "type": "card",
+   "n": 2,
+   "color": "#1e88e5",
+   "title": "Récupération des bagages",
+   "sub": "au tapis d'arrivée",
+   "img": "aeroport-avion-blanc",
+   "checks": [
+    "Vérifiez le numéro de tapis d'arrivée.",
+    "Récupérez tous vos bagages.",
+    "En cas de bagage manquant, signalez-le au comptoir de la compagnie aérienne.",
+    "Conservez l'étiquette bagage jusqu'à la fin du séjour."
+   ]
+  },
+  {
+   "type": "card",
+   "n": 3,
+   "color": "#fb8c00",
+   "title": "Douane",
+   "sub": "rien à déclarer, le plus souvent",
+   "img": "marche-nuit",
+   "checks": [
+    "Rien à déclarer dans la plupart des cas.",
+    "Suivez le couloir « Nothing to declare ».",
+    "En cas de doute, déclarez les produits à l'agent.",
+    "Respectez les limites (alcool, tabac, médicaments)."
+   ]
+  },
+  {
+   "type": "card",
+   "n": 4,
+   "color": "#00a67e",
+   "title": "Moyens de transport",
+   "sub": "de l'aéroport à l'hôtel",
+   "img": "tuktuk-bangkok",
+   "checks": [
+    "Taxi officiel à la sortie (suivez les panneaux).",
+    "Airport Rail Link (pour rejoindre Bangkok rapidement).",
+    "Bus ou navette de l'hôtel.",
+    "Grab (application très utile).",
+    "Location de voiture si vous en avez besoin."
+   ]
+  },
+  {
+   "type": "card",
+   "n": 5,
+   "color": "#8e24aa",
+   "title": "Argent et paiements",
+   "sub": "bahts et carte bancaire",
+   "img": "marche-nuit",
+   "checks": [
+    "Changez un peu d'argent à l'aéroport (bahts).",
+    "Le taux est correct pour un premier montant.",
+    "Utilisez une carte bancaire sans frais si possible.",
+    "Privilégiez le paiement en bahts.",
+    "Gardez toujours un peu d'espèces sur vous."
+   ]
+  },
+  {
+   "type": "card",
+   "n": 6,
+   "color": "#5e35b1",
+   "title": "Carte SIM / Internet",
+   "sub": "rester connecté",
+   "img": "rooftop",
+   "checks": [
+    "Achetez une carte SIM à l'aéroport (AIS, True, dtac).",
+    "Forfaits touristiques disponibles (internet + appels).",
+    "Alternative : eSIM (Airalo, Holafly, etc.).",
+    "Internet indispensable pour Grab, plans, réservations.",
+    "Vérifiez que votre téléphone est bien débloqué."
+   ]
+  }
+ ],
+ "outro": "Après un long vol, prends le temps ! Tout se passe bien une fois sur place. Arrivé, respire un bon coup, ou lé pa pou stressé !"
+}

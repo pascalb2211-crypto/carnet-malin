@@ -1,0 +1,95 @@
+{
+ "ville": "Chiang Rai",
+ "agoda_ville": "chiang-rai-th",
+ "trip_ville": {
+  "ville": "chiang-rai",
+  "id": ""
+ },
+ "bandes": {
+  "Économique": "≈ 400–900 THB/nuit",
+  "Confort": "≈ 1 000–2 200 THB/nuit",
+  "Premium": "≈ 2 500–6 000 THB/nuit",
+  "Luxe": "≈ 5 000–12 000 THB/nuit"
+ },
+ "_meta": {
+  "statut": "brouillon-ia",
+  "date": "2026-10-27",
+  "sources": [
+   {
+    "t": "Pages hôtels Booking, Agoda et Trip.com (liens vérifiés par recherche)",
+    "u": ""
+   },
+   {
+    "t": "Sélection Premium Thaï Malin (base de Pascal)",
+    "u": "(base de Pascal)"
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "tier": "Économique",
+   "style": "",
+   "name": "Baan Bua Guest House",
+   "ville": "Chiang Rai",
+   "quartier": "Centre",
+   "desc": "Maison d'hôtes simple et accueillante.",
+   "price": "",
+   "trip": [
+    "712422",
+    "baan-bua-guest-house"
+   ],
+   "booking": "baan-bua-guest-house",
+   "statut": "brouillon-ia",
+   "verifie": "2026-10-27"
+  },
+  {
+   "tier": "Confort",
+   "style": "",
+   "name": "Wiang Inn Hotel",
+   "ville": "Chiang Rai",
+   "quartier": "Centre-ville",
+   "desc": "Hôtel central, pratique pour le marché de nuit.",
+   "price": "",
+   "trip": [
+    "712859",
+    "wiang-inn-hotel"
+   ],
+   "booking": "wiang-inn",
+   "statut": "brouillon-ia",
+   "verifie": "2026-10-27"
+  },
+  {
+   "tier": "Premium",
+   "style": "",
+   "name": "The Legend Chiang Rai Boutique River Resort & Spa",
+   "ville": "Chiang Rai",
+   "quartier": "Rivière Kok",
+   "desc": "Resort de charme au bord de la rivière, style lanna.",
+   "price": "",
+   "agoda": "the-legend-chiang-rai-hotel",
+   "trip": [
+    "712838",
+    "the-legend-chiang-rai-boutique-river-resort-and-spa"
+   ],
+   "booking": "the-legend-chiang-rai-boutique-river-resort-spa",
+   "statut": "brouillon-ia",
+   "verifie": "2026-10-27"
+  },
+  {
+   "tier": "Premium",
+   "style": "",
+   "name": "Le Méridien Chiang Rai Resort",
+   "ville": "Chiang Rai",
+   "quartier": "Rivière Kok",
+   "desc": "Grand resort calme au bord de la rivière.",
+   "price": "",
+   "trip": [
+    "1005264",
+    "le-meridien-chiang-rai-resort-thailand"
+   ],
+   "booking": "le-meridien-chiang-rai-resort",
+   "statut": "brouillon-ia",
+   "verifie": "2026-10-27"
+  }
+ ]
+}

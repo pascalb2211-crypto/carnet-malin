@@ -1,0 +1,131 @@
+{
+ "id": "etape-pattaya",
+ "title": "Pattaya",
+ "subtitle": "Jour 10",
+ "lead": "Plages et animation à 2 h de Bangkok",
+ "cover": "plage-coucher",
+ "blocks": [
+  {
+   "type": "card",
+   "n": 1,
+   "color": "#e91e8c",
+   "title": "Où te poser",
+   "sub": "les quartiers à connaître",
+   "img": "plage-coucher",
+   "checks": [
+    "Central Pattaya : Centre animé avec centres commerciaux, plage et nombreux restaurants.",
+    "Walking Street : Le cœur de la vie nocturne de Pattaya.",
+    "Jomtien : Longue plage plus calme, idéale pour les familles.",
+    "Pratumnak Hill : Colline résidentielle avec magnifiques points de vue."
+   ]
+  },
+  {
+   "type": "card",
+   "n": 2,
+   "color": "#1e88e5",
+   "title": "À ne pas manquer",
+   "sub": "les incontournables",
+   "img": "plage-coucher",
+   "checks": [
+    "Sanctuary of Truth : Immense structure entièrement en bois sculpté à la main, face à la mer. (500 THB (jour) / 700 THB (soir))",
+    "Big Buddha Hill (Khao Phra Tamnak) : Grand Bouddha sur la colline de Pratumnak, avec point de vue sur la baie de Pattaya. (Entrée libre)",
+    "Nong Nooch Tropical Garden : Jardin botanique tropical avec spectacles culturels thaïs (danses, éléphants). (Environ 500–800 THB selon le billet et les spectacles)",
+    "Koh Larn (Coral Island) : Île aux eaux turquoise à 30-45 minutes en bateau de Pattaya. (Ferry public ~40 THB/personne/aller simple en 2026 ; speedboat ~200–300 THB)",
+    "Walking Street : Rue piétonne nocturne, bars, restaurants et ambiance festive. (Entrée libre)"
+   ],
+   "tip": "Astuce : Billet adulte : 500 THB en journée, 700 THB le soir."
+  },
+  {
+   "type": "card",
+   "n": 3,
+   "color": "#fb8c00",
+   "title": "Excursions",
+   "sub": "à réserver sur place",
+   "img": "bateau-gros-plan",
+   "checks": [
+    "Koh Larn (Coral Island) : Demi-journée à journée complète · Ferry public ~40 THB/personne/aller simple ; speedboat ~200–300 THB",
+    "Excursion à Ko Samet : Journée complète, voire une nuit sur place · Variable selon transport + ferry"
+   ],
+   "tip": "Saison : Toute l'année"
+  },
+  {
+   "type": "card",
+   "n": 4,
+   "color": "#00a67e",
+   "title": "Où dormir",
+   "sub": "selon ton style : Routard",
+   "img": "hebergement-piscine",
+   "checks": [
+    "Pattaya Backpackers Hostel (≈ 400–1 000 THB/nuit) · Centre : Auberge pour adultes, simple et bien située."
+   ],
+   "tip": "Les prix sont des fourchettes indicatives. Les boutons Booking, Agoda et Trip.com affichent les offres et les tarifs du moment : compare-les avant de réserver.",
+   "links": [
+    {
+     "t": "🛏️ Pattaya Backpackers · Booking",
+     "u": "https://www.dpbolvw.net/click-101855269-12677526?url=https%3A%2F%2Fwww.booking.com%2Fsearchresults.fr.html%3Fss%3DPattaya%2BBackpackers%2BHostel%2BPattaya"
+    },
+    {
+     "t": "🛏️ Pattaya Backpackers · Agoda",
+     "u": "https://www.agoda.com/fr-fr/city/pattaya-th.html?cid=1972177"
+    },
+    {
+     "t": "🛏️ Pattaya Backpackers · Trip.com",
+     "u": "https://fr.trip.com/hotels/pattaya-hotel-detail-23782821/pattaya-backpackers-hostel-adults-only/?Allianceid=9852508&SID=327644129&trip_sub3=D19106369&locale=fr-fr"
+    }
+   ],
+   "agoda": {
+    "cid": "1972177",
+    "ref": "1qLHTvK4/AiYf/W4zM1iJQ==",
+    "crt": "6120966568255",
+    "dest": "Pattaya"
+   }
+  },
+  {
+   "type": "card",
+   "n": 5,
+   "color": "#8e24aa",
+   "title": "Où manger",
+   "sub": "bonnes adresses",
+   "img": "marche-nuit",
+   "checks": [
+    "Mango Tree (€€) : Cuisine thaïe traditionnelle · Soi Buakhao",
+    "Ruen Thai (€€) : Cuisine thaïe & spectacle · Central Pattaya",
+    "Mum Aroi (€€) : Fruits de mer · Naklua",
+    "Leng Kee (€) : Boat noodles · Central Pattaya",
+    "Street food de Beach Road (Bali Hai) (€) : Fruits de mer grillés · Central Pattaya"
+   ]
+  },
+  {
+   "type": "card",
+   "n": 6,
+   "color": "#e53935",
+   "title": "Se déplacer",
+   "sub": "les bons réflexes",
+   "img": "tuktuk-bangkok",
+   "checks": [
+    "Baht bus (songthaew) : Environ 15–20 THB par trajet en 2026 selon le parcours",
+    "Grab & Taxi : Selon trajet",
+    "Location de scooter : Environ 150–300 THB/jour selon modèle et durée",
+    "Ferry vers Koh Larn : Ferry public ~40 THB/aller simple ; speedboat partagé ~200–300 THB"
+   ]
+  },
+  {
+   "type": "card",
+   "n": 7,
+   "color": "#5e35b1",
+   "title": "Budget sur place",
+   "sub": "Petit budget : 900–1600 THB/jour",
+   "img": "rooftop",
+   "checks": [
+    "Guesthouse, street food et food courts, baht bus, scooter en location partagée.",
+    "🛏️ Guesthouse : 500–800 THB",
+    "🍜 3 repas street food/food court : 150–250 THB",
+    "🚐 Baht bus : 60–120 THB",
+    "🎟️ Une activité gratuite (Walking Street, plage) : 0–200 THB",
+    "Total indicatif : 900–1500 THB/jour."
+   ]
+  }
+ ],
+ "outro": "Profite bien de cette étape !",
+ "num": 12
+}

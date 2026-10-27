@@ -1,0 +1,112 @@
+{
+ "ville": "Pattaya",
+ "agoda_ville": "pattaya-th",
+ "trip_ville": {
+  "ville": "pattaya",
+  "id": ""
+ },
+ "bandes": {
+  "Économique": "≈ 400–1 000 THB/nuit",
+  "Confort": "≈ 1 200–3 000 THB/nuit",
+  "Premium": "≈ 3 000–7 000 THB/nuit",
+  "Luxe": "≈ 6 000–15 000 THB/nuit"
+ },
+ "_meta": {
+  "statut": "brouillon-ia",
+  "date": "2026-10-27",
+  "sources": [
+   {
+    "t": "Pages hôtels Booking, Agoda et Trip.com (liens vérifiés par recherche)",
+    "u": ""
+   },
+   {
+    "t": "Sélection Premium Thaï Malin (base de Pascal)",
+    "u": "(base de Pascal)"
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "tier": "Économique",
+   "style": "",
+   "name": "Pattaya Backpackers Hostel",
+   "ville": "Pattaya",
+   "quartier": "Centre",
+   "desc": "Auberge pour adultes, simple et bien située.",
+   "price": "",
+   "trip": [
+    "23782821",
+    "pattaya-backpackers-hostel-adults-only"
+   ],
+   "statut": "brouillon-ia",
+   "verifie": "2026-10-27"
+  },
+  {
+   "tier": "Confort",
+   "style": "",
+   "name": "Mercure Pattaya Ocean Resort",
+   "ville": "Pattaya",
+   "quartier": "Pattaya Centre",
+   "desc": "Hôtel de plage avec piscine, bon confort.",
+   "price": "",
+   "agoda": "mercure-pattaya-ocean-resort",
+   "trip": [
+    "1379449",
+    "mercure-pattaya-ocean-resort"
+   ],
+   "booking": "mercure-pattaya-ocean-resort",
+   "statut": "brouillon-ia",
+   "verifie": "2026-10-27"
+  },
+  {
+   "tier": "Premium",
+   "style": "",
+   "name": "Siam@Siam Design Hotel Pattaya",
+   "ville": "Pattaya",
+   "quartier": "Pattaya Centre",
+   "desc": "Hôtel design avec piscine sur le toit.",
+   "price": "",
+   "agoda": "siam-siam-design-hotel-pattaya",
+   "trip": [
+    "1195018",
+    "siamsiam-design-hotel-pattaya"
+   ],
+   "booking": "siam-siam-design-pattaya",
+   "statut": "brouillon-ia",
+   "verifie": "2026-10-27"
+  },
+  {
+   "tier": "Premium",
+   "style": "",
+   "name": "Hilton Pattaya",
+   "ville": "Pattaya",
+   "quartier": "Pattaya Centre",
+   "desc": "Hôtel haut de gamme dans le centre commercial Central Marina.",
+   "price": "",
+   "agoda": "hilton-pattaya_7",
+   "trip": [
+    "928353",
+    "hilton-pattaya"
+   ],
+   "booking": "hilton-pattaya",
+   "statut": "brouillon-ia",
+   "verifie": "2026-10-27"
+  },
+  {
+   "tier": "Luxe",
+   "style": "",
+   "name": "Royal Cliff Beach Hotel Pattaya",
+   "ville": "Pattaya",
+   "quartier": "Pattaya Sud",
+   "desc": "Grand resort sur falaise, plusieurs piscines et plage privée.",
+   "price": "",
+   "trip": [
+    "1517944",
+    "royal-cliff-beach-hotel"
+   ],
+   "booking": "royal-cliff-beach-resort",
+   "statut": "brouillon-ia",
+   "verifie": "2026-10-27"
+  }
+ ]
+}

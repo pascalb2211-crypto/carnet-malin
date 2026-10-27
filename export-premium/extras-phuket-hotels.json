@@ -1,0 +1,85 @@
+{
+ "hotels": [
+  {
+   "tier": "Économique",
+   "name": "The Expat Hotel",
+   "desc": "Hôtel simple et central, pratique pour sortir.",
+   "price": "≈ 600–1 400 THB/nuit",
+   "bookingUrl": "https://www.dpbolvw.net/click-101855269-12677526?url=https%3A%2F%2Fwww.booking.com%2Fsearchresults.fr.html%3Fss%3DThe%2BExpat%2BHotel%2BPhuket",
+   "agodaUrl": "https://www.agoda.com/fr-fr/expat-hotel/hotel/phuket-th.html?cid=1972177",
+   "tripUrl": "https://fr.trip.com/hotels/phuket-hotel-detail-702379/the-expat-hotel/?Allianceid=9852508&SID=327644129&trip_sub3=D19106369&locale=fr-fr"
+  },
+  {
+   "tier": "Économique",
+   "name": "TRIBE Phuket Patong",
+   "desc": "Hôtel moderne et abordable, à deux pas de la plage.",
+   "price": "≈ 600–1 400 THB/nuit",
+   "bookingUrl": "https://www.dpbolvw.net/click-101855269-12677526?url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Ftribe-phuket-patong.html",
+   "agodaUrl": "https://www.agoda.com/fr-fr/tribe-phuket-patong/hotel/phuket-th.html?cid=1972177",
+   "tripUrl": "https://fr.trip.com/hotels/phuket-hotel-detail-11604407/tribe-phuket-patong-by-accor/?Allianceid=9852508&SID=327644129&trip_sub3=D19106369&locale=fr-fr"
+  },
+  {
+   "tier": "Confort",
+   "name": "Kalima Resort & Spa",
+   "desc": "Resort avec piscine sur les hauteurs de Patong.",
+   "price": "≈ 1 800–4 000 THB/nuit",
+   "bookingUrl": "https://www.dpbolvw.net/click-101855269-12677526?url=https%3A%2F%2Fwww.booking.com%2Fsearchresults.fr.html%3Fss%3DKalima%2BResort%2B%2526%2BSpa%2BPhuket",
+   "agodaUrl": "https://www.agoda.com/fr-fr/kalima-resort-spa/hotel/phuket-th.html?cid=1972177",
+   "tripUrl": "https://fr.trip.com/hotels/phuket-hotel-detail-702789/kalima-resort-and-spa-phuket/?Allianceid=9852508&SID=327644129&trip_sub3=D19106369&locale=fr-fr"
+  },
+  {
+   "tier": "Confort",
+   "name": "Phuket Orchid Resort & Spa",
+   "desc": "Resort de bord de mer à Karon, bon rapport qualité-prix.",
+   "price": "≈ 1 800–4 000 THB/nuit",
+   "bookingUrl": "https://www.dpbolvw.net/click-101855269-12677526?url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fphuket-orchid-resort.html",
+   "agodaUrl": "https://www.agoda.com/fr-fr/phuket-orchid-resort/hotel/phuket-th.html?cid=1972177",
+   "tripUrl": "https://fr.trip.com/hotels/phuket-hotel-detail-998454/phuket-orchid-resort-and-spa/?Allianceid=9852508&SID=327644129&trip_sub3=D19106369&locale=fr-fr"
+  },
+  {
+   "tier": "Premium",
+   "name": "Amari Phuket",
+   "desc": "Resort face à la baie de Patong, piscines et vue mer.",
+   "price": "≈ 4 000–9 000 THB/nuit",
+   "bookingUrl": "https://www.dpbolvw.net/click-101855269-12677526?url=https%3A%2F%2Fwww.booking.com%2Fsearchresults.fr.html%3Fss%3DAmari%2BPhuket%2BPhuket",
+   "agodaUrl": "https://www.agoda.com/fr-fr/city/phuket-th.html?cid=1972177",
+   "tripUrl": "https://fr.trip.com/hotels/phuket-hotel-detail-756638/amari-phuket/?Allianceid=9852508&SID=327644129&trip_sub3=D19106369&locale=fr-fr"
+  },
+  {
+   "tier": "Premium",
+   "name": "Holiday Inn Resort Phuket",
+   "desc": "Grand resort familial en bord de plage.",
+   "price": "≈ 4 000–9 000 THB/nuit",
+   "bookingUrl": "https://www.dpbolvw.net/click-101855269-12677526?url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fholiday-inn-resort-phuket.html",
+   "agodaUrl": "https://www.agoda.com/fr-fr/city/phuket-th.html?cid=1972177",
+   "tripUrl": "https://fr.trip.com/hotels/phuket-hotel-detail-1524907/holiday-inn-resort-phuket-by-ihg/?Allianceid=9852508&SID=327644129&trip_sub3=D19106369&locale=fr-fr"
+  },
+  {
+   "tier": "Luxe",
+   "name": "Paresa Resort Phuket",
+   "desc": "Resort perché sur une falaise, vue sur la mer d'Andaman.",
+   "price": "≈ 9 000–35 000 THB/nuit",
+   "bookingUrl": "https://www.dpbolvw.net/click-101855269-12677526?url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fparesa.html",
+   "agodaUrl": "https://www.agoda.com/fr-fr/paresa-resort-phuket/hotel/phuket-th.html?cid=1972177",
+   "tripUrl": "https://fr.trip.com/hotels/phuket-hotel-detail-998312/paresa-resort-phuket/?Allianceid=9852508&SID=327644129&trip_sub3=D19106369&locale=fr-fr"
+  },
+  {
+   "tier": "Luxe",
+   "name": "Keemala",
+   "desc": "Villas originales dans la jungle, esprit « nid » et nature.",
+   "price": "≈ 9 000–35 000 THB/nuit",
+   "bookingUrl": "https://www.dpbolvw.net/click-101855269-12677526?url=https%3A%2F%2Fwww.booking.com%2Fsearchresults.fr.html%3Fss%3DKeemala%2BPhuket",
+   "agodaUrl": "https://www.agoda.com/fr-fr/keemala/hotel/phuket-th.html?cid=1972177",
+   "tripUrl": "https://fr.trip.com/hotels/phuket-hotel-detail-2620829/keemala/?Allianceid=9852508&SID=327644129&trip_sub3=D19106369&locale=fr-fr"
+  },
+  {
+   "tier": "Luxe",
+   "name": "Rosewood Phuket",
+   "desc": "Resort ultra-luxe en baie privée.",
+   "price": "≈ 9 000–35 000 THB/nuit",
+   "bookingUrl": "https://www.dpbolvw.net/click-101855269-12677526?url=https%3A%2F%2Fwww.booking.com%2Fsearchresults.fr.html%3Fss%3DRosewood%2BPhuket%2BPhuket",
+   "agodaUrl": "https://www.agoda.com/fr-fr/city/phuket-th.html?cid=1972177",
+   "tripUrl": "https://fr.trip.com/hotels/phuket-hotel-detail-10521003/rosewood-phuket/?Allianceid=9852508&SID=327644129&trip_sub3=D19106369&locale=fr-fr"
+  }
+ ]
+}

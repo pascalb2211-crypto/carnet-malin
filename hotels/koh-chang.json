@@ -1,0 +1,79 @@
+{
+ "ville": "Koh Chang",
+ "agoda_ville": "koh-chang-th",
+ "trip_ville": {
+  "ville": "koh-chang",
+  "id": ""
+ },
+ "bandes": {
+  "Économique": "≈ 500–1 200 THB/nuit",
+  "Confort": "≈ 1 500–3 000 THB/nuit",
+  "Premium": "≈ 3 000–7 000 THB/nuit",
+  "Luxe": "≈ 3 000–7 000 THB/nuit"
+ },
+ "_meta": {
+  "statut": "brouillon-ia",
+  "date": "2026-10-27",
+  "sources": [
+   {
+    "t": "Pages hôtels Booking, Agoda et Trip.com (liens vérifiés par recherche)",
+    "u": ""
+   },
+   {
+    "t": "Sélection Premium Thaï Malin (base de Pascal)",
+    "u": "(base de Pascal)"
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "tier": "Économique",
+   "style": "",
+   "name": "Kaibae Hut Resort",
+   "ville": "Koh Chang",
+   "quartier": "Kai Bai",
+   "desc": "Bungalows simples au bord de la plage de Kai Bai.",
+   "price": "",
+   "trip": [
+    "709633",
+    "kai-bae-hut-resort"
+   ],
+   "booking": "kaibae-hut-resort",
+   "statut": "brouillon-ia",
+   "verifie": "2026-10-27"
+  },
+  {
+   "tier": "Confort",
+   "style": "",
+   "name": "Siam Beach Resort",
+   "ville": "Koh Chang",
+   "quartier": "Klong Prao",
+   "desc": "Bungalows en bord de plage, ambiance détendue.",
+   "price": "",
+   "trip": [
+    "709192",
+    "siam-beach-resort"
+   ],
+   "booking": "siam-beach-resort",
+   "statut": "brouillon-ia",
+   "verifie": "2026-10-27"
+  },
+  {
+   "tier": "Premium",
+   "style": "",
+   "name": "Centara Koh Chang Tropicana Resort",
+   "ville": "Koh Chang",
+   "quartier": "Klong Prao",
+   "desc": "Resort de plage avec piscine et grandes chambres.",
+   "price": "",
+   "agoda": "centara-koh-chang-tropicana-resort",
+   "trip": [
+    "709691",
+    "centara-koh-chang-tropicana-resort"
+   ],
+   "booking": "koh-chang-tropicana-resort-spa",
+   "statut": "brouillon-ia",
+   "verifie": "2026-10-27"
+  }
+ ]
+}

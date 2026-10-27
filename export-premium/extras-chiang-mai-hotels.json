@@ -1,0 +1,58 @@
+{
+ "hotels": [
+  {
+   "tier": "Économique",
+   "name": "BED Nimman",
+   "desc": "Hôtel design pour adultes, quartier branché et café-friendly.",
+   "price": "≈ 400–900 THB/nuit",
+   "bookingUrl": "https://www.dpbolvw.net/click-101855269-12677526?url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fbed-nimman.html",
+   "agodaUrl": "https://www.agoda.com/fr-fr/city/chiang-mai-th.html?cid=1972177",
+   "tripUrl": "https://fr.trip.com/hotels/chiang-mai-hotel-detail-1337952/bed-nimman-hotel-adults-only/?Allianceid=9852508&SID=327644129&trip_sub3=D19106369&locale=fr-fr"
+  },
+  {
+   "tier": "Économique",
+   "name": "Green Tiger House",
+   "desc": "Petite maison d'hôtes végétarienne, calme et accueillante.",
+   "price": "≈ 400–900 THB/nuit",
+   "bookingUrl": "https://www.dpbolvw.net/click-101855269-12677526?url=https%3A%2F%2Fwww.booking.com%2Fsearchresults.fr.html%3Fss%3DGreen%2BTiger%2BHouse%2BChiang%2BMai",
+   "agodaUrl": "https://www.agoda.com/fr-fr/green-tiger-house_2/hotel/chiang-mai-th.html?cid=1972177",
+   "tripUrl": "https://fr.trip.com/hotels/chiang-mai-hotel-detail-2199385/green-tiger-vegetarian-house/?Allianceid=9852508&SID=327644129&trip_sub3=D19106369&locale=fr-fr"
+  },
+  {
+   "tier": "Confort",
+   "name": "Burirattana Hotel",
+   "desc": "Hôtel central à deux pas des remparts et du marché du dimanche.",
+   "price": "≈ 1 000–2 500 THB/nuit",
+   "bookingUrl": "https://www.dpbolvw.net/click-101855269-12677526?url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fburirattana-chiang-mai1.html",
+   "agodaUrl": "https://www.agoda.com/fr-fr/city/chiang-mai-th.html?cid=1972177",
+   "tripUrl": "https://fr.trip.com/hotels/chiang-mai-hotel-detail-94151725/burirattana-hotel/?Allianceid=9852508&SID=327644129&trip_sub3=D19106369&locale=fr-fr"
+  },
+  {
+   "tier": "Confort",
+   "name": "Villa Klang Wiang",
+   "desc": "Petit hôtel de charme avec jardin, dans la vieille ville.",
+   "price": "≈ 1 000–2 500 THB/nuit",
+   "bookingUrl": "https://www.dpbolvw.net/click-101855269-12677526?url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fvilla-klang-wiang-chiang-mai.html",
+   "agodaUrl": "https://www.agoda.com/fr-fr/villa-klang-wiang/hotel/chiang-mai-th.html?cid=1972177",
+   "tripUrl": "https://fr.trip.com/hotels/chiang-mai-hotel-detail-24899774/villa-klang-wiang/?Allianceid=9852508&SID=327644129&trip_sub3=D19106369&locale=fr-fr"
+  },
+  {
+   "tier": "Premium",
+   "name": "Ping Nakara Boutique Hotel & Spa",
+   "desc": "Boutique-hôtel colonial raffiné avec spa.",
+   "price": "≈ 3 000–7 000 THB/nuit",
+   "bookingUrl": "https://www.dpbolvw.net/click-101855269-12677526?url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fping-nakara-boutique-and-spa.html",
+   "agodaUrl": "https://www.agoda.com/fr-fr/city/chiang-mai-th.html?cid=1972177",
+   "tripUrl": "https://fr.trip.com/hotels/chiang-mai-hotel-detail-661352/ping-nakara-boutique-hotel-and-spa/?Allianceid=9852508&SID=327644129&trip_sub3=D19106369&locale=fr-fr"
+  },
+  {
+   "tier": "Luxe",
+   "name": "137 Pillars House",
+   "desc": "Ancienne maison de teck du 19e siècle, grand luxe discret.",
+   "price": "≈ 7 000–20 000 THB/nuit",
+   "bookingUrl": "https://www.dpbolvw.net/click-101855269-12677526?url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fone-three-seven-pillars-house.html",
+   "agodaUrl": "https://www.agoda.com/fr-fr/137-pillars-house/hotel/chiang-mai-th.html?cid=1972177",
+   "tripUrl": "https://fr.trip.com/hotels/chiang-mai-hotel-detail-997882/137-pillars-house/?Allianceid=9852508&SID=327644129&trip_sub3=D19106369&locale=fr-fr"
+  }
+ ]
+}

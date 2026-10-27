@@ -1,0 +1,128 @@
+{
+ "ville": "Chiang Mai",
+ "agoda_ville": "chiang-mai-th",
+ "trip_ville": {
+  "ville": "chiang-mai",
+  "id": ""
+ },
+ "bandes": {
+  "Économique": "≈ 400–900 THB/nuit",
+  "Confort": "≈ 1 000–2 500 THB/nuit",
+  "Premium": "≈ 3 000–7 000 THB/nuit",
+  "Luxe": "≈ 7 000–20 000 THB/nuit"
+ },
+ "_meta": {
+  "statut": "brouillon-ia",
+  "date": "2026-10-27",
+  "sources": [
+   {
+    "t": "Pages hôtels Booking, Agoda et Trip.com (liens vérifiés par recherche)",
+    "u": ""
+   },
+   {
+    "t": "Sélection Premium Thaï Malin (base de Pascal)",
+    "u": "(base de Pascal)"
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "tier": "Économique",
+   "style": "",
+   "name": "BED Nimman",
+   "ville": "Chiang Mai",
+   "quartier": "Nimman",
+   "desc": "Hôtel design pour adultes, quartier branché et café-friendly.",
+   "price": "",
+   "trip": [
+    "1337952",
+    "bed-nimman-hotel-adults-only"
+   ],
+   "booking": "bed-nimman",
+   "statut": "brouillon-ia",
+   "verifie": "2026-10-27"
+  },
+  {
+   "tier": "Économique",
+   "style": "",
+   "name": "Green Tiger House",
+   "ville": "Chiang Mai",
+   "quartier": "Vieille ville",
+   "desc": "Petite maison d'hôtes végétarienne, calme et accueillante.",
+   "price": "",
+   "agoda": "green-tiger-house_2",
+   "trip": [
+    "2199385",
+    "green-tiger-vegetarian-house"
+   ],
+   "statut": "brouillon-ia",
+   "verifie": "2026-10-27"
+  },
+  {
+   "tier": "Confort",
+   "style": "",
+   "name": "Burirattana Hotel",
+   "ville": "Chiang Mai",
+   "quartier": "Vieille ville",
+   "desc": "Hôtel central à deux pas des remparts et du marché du dimanche.",
+   "price": "",
+   "trip": [
+    "94151725",
+    "burirattana-hotel"
+   ],
+   "booking": "burirattana-chiang-mai1",
+   "statut": "brouillon-ia",
+   "verifie": "2026-10-27"
+  },
+  {
+   "tier": "Confort",
+   "style": "",
+   "name": "Villa Klang Wiang",
+   "ville": "Chiang Mai",
+   "quartier": "Vieille ville",
+   "desc": "Petit hôtel de charme avec jardin, dans la vieille ville.",
+   "price": "",
+   "agoda": "villa-klang-wiang",
+   "trip": [
+    "24899774",
+    "villa-klang-wiang"
+   ],
+   "booking": "villa-klang-wiang-chiang-mai",
+   "statut": "brouillon-ia",
+   "verifie": "2026-10-27"
+  },
+  {
+   "tier": "Premium",
+   "style": "",
+   "name": "Ping Nakara Boutique Hotel & Spa",
+   "ville": "Chiang Mai",
+   "quartier": "Rive de la Ping",
+   "desc": "Boutique-hôtel colonial raffiné avec spa.",
+   "price": "",
+   "trip": [
+    "661352",
+    "ping-nakara-boutique-hotel-and-spa"
+   ],
+   "booking": "ping-nakara-boutique-and-spa",
+   "statut": "brouillon-ia",
+   "verifie": "2026-10-27"
+  },
+  {
+   "tier": "Luxe",
+   "style": "",
+   "name": "137 Pillars House",
+   "ville": "Chiang Mai",
+   "quartier": "Rive de la Ping",
+   "desc": "Ancienne maison de teck du 19e siècle, grand luxe discret.",
+   "price": "",
+   "agoda": "137-pillars-house",
+   "trip": [
+    "997882",
+    "137-pillars-house"
+   ],
+   "booking": "one-three-seven-pillars-house",
+   "statut": "brouillon-ia",
+   "verifie": "2026-10-27"
+  }
+ ]
+}

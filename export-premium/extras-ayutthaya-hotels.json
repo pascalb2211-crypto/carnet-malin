@@ -1,0 +1,31 @@
+{
+ "hotels": [
+  {
+   "tier": "Économique",
+   "name": "Baan Lotus Guest House",
+   "desc": "Maison d'hôtes familiale proche des temples.",
+   "price": "≈ 400–900 THB/nuit",
+   "bookingUrl": "https://www.dpbolvw.net/click-101855269-12677526?url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fbaan-lotus-guest-house.html",
+   "agodaUrl": "https://www.agoda.com/fr-fr/city/ayutthaya-th.html?cid=1972177",
+   "tripUrl": "https://fr.trip.com/hotels/list?keyword=Baan+Lotus+Guest+House&Allianceid=9852508&SID=327644129&trip_sub3=D19106369&locale=fr-fr"
+  },
+  {
+   "tier": "Confort",
+   "name": "Classic Kameo Hotel & Serviced Apartments",
+   "desc": "Hôtel confortable avec piscine, près du centre.",
+   "price": "≈ 900–2 000 THB/nuit",
+   "bookingUrl": "https://www.dpbolvw.net/click-101855269-12677526?url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fclassic-kameo-amp-serviced-apartments-ayutthaya.html",
+   "agodaUrl": "https://www.agoda.com/fr-fr/classic-kameo-hotel-ayutthaya/hotel/ayutthaya-th.html?cid=1972177",
+   "tripUrl": "https://fr.trip.com/hotels/phra-nakhon-si-ayutthaya-hotel-detail-1623137/classic-kameo-hotel-and-serviced-apartments-ayutthaya/?Allianceid=9852508&SID=327644129&trip_sub3=D19106369&locale=fr-fr"
+  },
+  {
+   "tier": "Premium",
+   "name": "Sala Ayutthaya",
+   "desc": "Hôtel design face au temple Wat Ratchaburana, sur le fleuve.",
+   "price": "≈ 2 500–6 000 THB/nuit",
+   "bookingUrl": "https://www.dpbolvw.net/click-101855269-12677526?url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fsala-ayutthaya.html",
+   "agodaUrl": "https://www.agoda.com/fr-fr/city/ayutthaya-th.html?cid=1972177",
+   "tripUrl": "https://fr.trip.com/hotels/phra-nakhon-si-ayutthaya-hotel-detail-2192480/sala-ayutthaya/?Allianceid=9852508&SID=327644129&trip_sub3=D19106369&locale=fr-fr"
+  }
+ ]
+}

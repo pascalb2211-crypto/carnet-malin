@@ -1,0 +1,79 @@
+{
+ "ville": "Khon Kaen",
+ "agoda_ville": "khon-kaen-th",
+ "trip_ville": {
+  "ville": "khon-kaen",
+  "id": ""
+ },
+ "bandes": {
+  "Économique": "≈ 400–900 THB/nuit",
+  "Confort": "≈ 1 000–2 000 THB/nuit",
+  "Premium": "≈ 2 000–4 500 THB/nuit",
+  "Luxe": "≈ 2 000–4 500 THB/nuit"
+ },
+ "_meta": {
+  "statut": "brouillon-ia",
+  "date": "2026-10-27",
+  "sources": [
+   {
+    "t": "Pages hôtels Booking, Agoda et Trip.com (liens vérifiés par recherche)",
+    "u": ""
+   },
+   {
+    "t": "Sélection Premium Thaï Malin (base de Pascal)",
+    "u": "(base de Pascal)"
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "tier": "Confort",
+   "style": "",
+   "name": "Kosa Hotel & Wellness Center",
+   "ville": "Khon Kaen",
+   "quartier": "Centre",
+   "desc": "Hôtel de centre-ville avec spa et centre commercial.",
+   "price": "",
+   "trip": [
+    "711201",
+    "kosa-hotel-and-shopping-mall"
+   ],
+   "booking": "kosa",
+   "statut": "brouillon-ia",
+   "verifie": "2026-10-27"
+  },
+  {
+   "tier": "Premium",
+   "style": "",
+   "name": "Charoen Thani Hotel Khon Kaen",
+   "ville": "Khon Kaen",
+   "quartier": "Centre",
+   "desc": "Grand hôtel installé du centre-ville.",
+   "price": "",
+   "agoda": "charoenthanikhonkaen-hotel",
+   "trip": [
+    "2486902",
+    "charoen-thani-hotel-khon-kaen"
+   ],
+   "booking": "charoenthani-khon-kaen",
+   "statut": "brouillon-ia",
+   "verifie": "2026-10-27"
+  },
+  {
+   "tier": "Premium",
+   "style": "",
+   "name": "Pullman Khon Kaen Raja Orchid",
+   "ville": "Khon Kaen",
+   "quartier": "Centre",
+   "desc": "Hôtel haut de gamme avec piscine et rooftop.",
+   "price": "",
+   "trip": [
+    "2113194",
+    "pullman-khon-kaen-raja-orchid"
+   ],
+   "booking": "sofitelrajaorchid",
+   "statut": "brouillon-ia",
+   "verifie": "2026-10-27"
+  }
+ ]
+}

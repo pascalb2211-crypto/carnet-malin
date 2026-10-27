@@ -1,0 +1,67 @@
+{
+ "hotels": [
+  {
+   "tier": "Économique",
+   "name": "Lub d Koh Samui Chaweng Beach",
+   "desc": "Auberge-hôtel animée face à la plage de Chaweng.",
+   "price": "≈ 600–1 500 THB/nuit",
+   "bookingUrl": "https://www.dpbolvw.net/click-101855269-12677526?url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Flub-d-koh-samui-chaweng-beach.html",
+   "agodaUrl": "https://www.agoda.com/fr-fr/lub-d-koh-samui-chaweng-beach_2/hotel/koh-samui-th.html?cid=1972177",
+   "tripUrl": "https://fr.trip.com/hotels/koh-samui-hotel-detail-24168984/lub-d-koh-samui-chaweng-beach-beachfront-vibrant-social-vibe/?Allianceid=9852508&SID=327644129&trip_sub3=D19106369&locale=fr-fr"
+  },
+  {
+   "tier": "Économique",
+   "name": "Crystal Lamai Hotel",
+   "desc": "Petit hôtel simple à Lamai, près de la plage.",
+   "price": "≈ 600–1 500 THB/nuit",
+   "bookingUrl": "https://www.dpbolvw.net/click-101855269-12677526?url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fcrystal-lamai.html",
+   "agodaUrl": "https://www.agoda.com/fr-fr/crystal-lamai-hotel/hotel/koh-samui-th.html?cid=1972177",
+   "tripUrl": "https://fr.trip.com/hotels/koh-samui-hotel-detail-5031984/crystal-lamai-hotel/?Allianceid=9852508&SID=327644129&trip_sub3=D19106369&locale=fr-fr"
+  },
+  {
+   "tier": "Confort",
+   "name": "Casa de Mar",
+   "desc": "Hôtel de plage convivial à Chaweng.",
+   "price": "≈ 2 000–4 500 THB/nuit",
+   "bookingUrl": "https://www.dpbolvw.net/click-101855269-12677526?url=https%3A%2F%2Fwww.booking.com%2Fsearchresults.fr.html%3Fss%3DCasa%2Bde%2BMar%2BKoh%2BSamui",
+   "agodaUrl": "https://www.agoda.com/fr-fr/city/koh-samui-th.html?cid=1972177",
+   "tripUrl": "https://fr.trip.com/hotels/koh-samui-hotel-detail-2381142/casa-de-mar-koh-samui/?Allianceid=9852508&SID=327644129&trip_sub3=D19106369&locale=fr-fr"
+  },
+  {
+   "tier": "Confort",
+   "name": "Chaweng Regent Beach Resort",
+   "desc": "Resort de bord de plage, piscine et restaurant.",
+   "price": "≈ 2 000–4 500 THB/nuit",
+   "bookingUrl": "https://www.dpbolvw.net/click-101855269-12677526?url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fchaweng-regent-beach-resort.html",
+   "agodaUrl": "https://www.agoda.com/fr-fr/chaweng-regent-beach-resort/hotel/koh-samui-th.html?cid=1972177",
+   "tripUrl": "https://fr.trip.com/hotels/koh-samui-hotel-detail-998606/chaweng-regent-beach-resort-koh-samui/?Allianceid=9852508&SID=327644129&trip_sub3=D19106369&locale=fr-fr"
+  },
+  {
+   "tier": "Premium",
+   "name": "Sheraton Samui Resort",
+   "desc": "Grand resort sur une baie à l'écart de Chaweng.",
+   "price": "≈ 4 500–10 000 THB/nuit",
+   "bookingUrl": "https://www.dpbolvw.net/click-101855269-12677526?url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fsheraton-ko-samui-resort.html",
+   "agodaUrl": "https://www.agoda.com/fr-fr/city/koh-samui-th.html?cid=1972177",
+   "tripUrl": "https://fr.trip.com/hotels/koh-samui-hotel-detail-1816638/sheraton-samui-resort/?Allianceid=9852508&SID=327644129&trip_sub3=D19106369&locale=fr-fr"
+  },
+  {
+   "tier": "Luxe",
+   "name": "Santiburi Koh Samui",
+   "desc": "Resort de luxe sur une plage tranquille du nord.",
+   "price": "≈ 10 000–40 000 THB/nuit",
+   "bookingUrl": "https://www.dpbolvw.net/click-101855269-12677526?url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fsantiburi-beach-resort-golf-and-spa.html",
+   "agodaUrl": "https://www.agoda.com/fr-fr/city/koh-samui-th.html?cid=1972177",
+   "tripUrl": "https://fr.trip.com/hotels/koh-samui-hotel-detail-998605/santiburi-koh-samui/?Allianceid=9852508&SID=327644129&trip_sub3=D19106369&locale=fr-fr"
+  },
+  {
+   "tier": "Luxe",
+   "name": "Nora Buri Resort & Spa",
+   "desc": "Resort de luxe au cœur de Chaweng, avec spa.",
+   "price": "≈ 10 000–40 000 THB/nuit",
+   "bookingUrl": "https://www.dpbolvw.net/click-101855269-12677526?url=https%3A%2F%2Fwww.booking.com%2Fsearchresults.fr.html%3Fss%3DNora%2BBuri%2BResort%2B%2526%2BSpa%2BKoh%2BSamui",
+   "agodaUrl": "https://www.agoda.com/fr-fr/nora-buri-resort-spa/hotel/koh-samui-th.html?cid=1972177",
+   "tripUrl": "https://fr.trip.com/hotels/koh-samui-hotel-detail-998627/nora-buri-resort-and-spa/?Allianceid=9852508&SID=327644129&trip_sub3=D19106369&locale=fr-fr"
+  }
+ ]
+}

@@ -1,4 +1,11 @@
 <!doctype html><html lang=fr><head><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1,viewport-fit=cover"><title>Thaï Malin · Guide test</title>
-<link rel=manifest href=manifest.webmanifest><meta name=theme-color content=#0b1a3d><link rel=apple-touch-icon href=icons/i192.png><link rel=stylesheet href=style.css></head>
+<link rel=manifest href=manifest.webmanifest><meta name=theme-color content=#0b1a3d><link rel=apple-touch-icon href=icons/i192.png><link rel=stylesheet href=style.css?v=5></head>
 <body><div class=bar><b id=bt>Thaï Malin</b></div><div id=app></div><div class=sheet id=sheet></div><nav id=tabs class=tabs></nav>
-<script src=moteur.js></script><script src=app.js></script></body></html>
+<script>
+/* Auto-réparation : purge les anciennes versions en mémoire, une seule fois */
+(function(){var V='5';try{if(localStorage.getItem('tmv')===V)return;localStorage.setItem('tmv',V)}catch(_){return}
+var p=[];if(navigator.serviceWorker)p.push(navigator.serviceWorker.getRegistrations().then(function(r){return Promise.all(r.map(function(x){return x.unregister()}))}));
+if(window.caches)p.push(caches.keys().then(function(k){return Promise.all(k.map(function(x){return caches.delete(x)}))}));
+Promise.all(p).then(function(){location.reload()})})();
+</script>
+<script src=moteur.js?v=5></script><script src=app.js?v=5></script></body></html>

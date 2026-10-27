@@ -15,12 +15,12 @@ function show(id){
 function route(){markMenu();show((location.hash||'').replace(/^#\/?/,''))}
 function openSheet(){sheet.classList.add('on')}function closeSheet(){sheet.classList.remove('on')}
 function markMenu(){var id=(location.hash||'').replace(/^#\/?/,'')||D.idx[0].id;document.querySelectorAll('#tabs a').forEach(function(a){a.classList.toggle('on',a.getAttribute('data-go')===id)})}
-Promise.all([j('data/pages.json'),j('data/facts.json'),j('data/menu.json')]).then(function(r){
+Promise.all([j('data/pages.json'),j('data/facts.json'),j('data/menu.json').catch(function(){return[{ico:'📖',label:'Sommaire',sommaire:true}]})]).then(function(r){
   D.idx=r[0];D.facts=r[1];
   var t=document.getElementById('tabs');t.innerHTML=r[2].map(function(m){return m.sommaire?'<a href="#" id="som" role="button"><i>'+m.ico+'</i><span>'+m.label+'</span></a>':'<a href="#/'+m.go+'" data-go="'+m.go+'"><i>'+m.ico+'</i><span>'+m.label+'</span></a>'}).join('');
   sheet.innerHTML='<button class=x id=sx>✕</button><h2>Sommaire</h2>'+D.idx.map(function(p){return '<a href="#/'+p.id+'"><i style="background-image:url(img/'+p.cover+'.jpg)"></i><div><b>'+p.num+'. '+p.title+'</b><span>'+p.sub+'</span></div></a>'}).join('');
   document.getElementById('sx').onclick=closeSheet;
-  document.getElementById('som').onclick=function(e){e.preventDefault();openSheet()};
+  var sm=document.getElementById('som');if(sm)sm.onclick=function(e){e.preventDefault();openSheet()};
   window.addEventListener('hashchange',route);route();
 });
 window.addEventListener('popstate',function(){if(window.TMclose)TMclose()});

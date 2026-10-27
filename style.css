@@ -73,3 +73,10 @@ body{padding-bottom:calc(72px + env(safe-area-inset-bottom))}
 .tabs{position:fixed;left:0;right:0;bottom:0;z-index:40;display:flex;justify-content:space-around;background:#0b1a3df5;backdrop-filter:blur(8px);border-top:2px solid #f5c54299;padding:6px 6px calc(6px + env(safe-area-inset-bottom))}
 .tabs a{flex:1;max-width:120px;text-align:center;text-decoration:none;color:#c9d3ea;font:700 11.5px system-ui;padding:5px 0;border-radius:12px}
 .tabs a i{display:block;font-style:normal;font-size:23px;line-height:1.2}.tabs a.on{color:#0b1a3d;background:#f5c542}
+
+.nav{flex-direction:column;gap:12px;padding:6px 14px 30px}
+.nav .nb{position:relative;display:flex;align-items:center;justify-content:space-between;gap:12px;min-height:84px;padding:14px 18px;border-radius:18px;border:2px solid #f5c542;background-size:cover;background-position:center;color:#fff;text-align:left;overflow:hidden;box-shadow:0 6px 18px #0005;flex:none}
+.nav .nb:before{content:"";position:absolute;inset:0;background:linear-gradient(90deg,#0b1a3dee 30%,#0b1a3d66)}
+.nav .nb span,.nav .nb i{position:relative}.nav .nb small{display:block;font:700 12px system-ui;color:#f5c542;text-transform:uppercase;letter-spacing:.04em}.nav .nb b{display:block;font:800 18px/1.2 system-ui;margin-top:2px}.nav .nb i{font:900 34px/1 system-ui;font-style:normal;color:#f5c542}
+.nav .nb.pv{min-height:64px}.nav .nb.pv b{font-size:15px}
+.nav .pn{margin:2px 0 0;text-align:center;color:#fff;font:700 12.5px system-ui;text-shadow:0 1px 4px #000a}

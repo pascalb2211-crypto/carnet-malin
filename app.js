@@ -9,12 +9,13 @@ function show(id){
     root.innerHTML='';TMrender(root,P,D.facts);bt.textContent=P.title;document.title=P.title+' · Thaï Malin';
     var n=document.createElement('nav');n.className='nav';
     var pv=D.idx[i-1],nx=D.idx[i+1];
-    n.innerHTML=(pv?'<a href="#/'+pv.id+'">‹ '+pv.title+'</a>':'<a class=off>.</a>')+(nx?'<a href="#/'+nx.id+'">'+nx.title+' ›</a>':'<a class=off>.</a>');
+    function nb(p,l,cl){return '<a class="nb '+cl+'" href="#/'+p.id+'" style="background-image:url(img/'+p.cover+'.jpg)"><span><small>'+l+'</small><b>'+p.title+'</b></span><i>'+(cl==='pv'?'‹':'›')+'</i></a>'}
+    n.innerHTML=(nx?nb(nx,'Page suivante','nx'):'')+(pv?nb(pv,'Page précédente','pv'):'')+'<p class=pn>Page '+(i+1)+' sur '+D.idx.length+'</p>';
     root.appendChild(n);window.scrollTo(0,0);closeSheet()});
 }
 function route(){markMenu();show((location.hash||'').replace(/^#\/?/,''))}
 function openSheet(){sheet.classList.add('on')}function closeSheet(){sheet.classList.remove('on')}
-function markMenu(){var id=(location.hash||'').replace(/^#\/?/,'')||D.idx[0].id;document.querySelectorAll('#tabs a').forEach(function(a){a.classList.toggle('on',a.getAttribute('data-go')===id)})}
+function markMenu(){var id=(location.hash||'').replace(/^#\/?/,'')||D.idx[0].id;var f=false;document.querySelectorAll('#tabs a').forEach(function(a){var m=!f&&a.getAttribute('data-go')===id;if(m)f=true;a.classList.toggle('on',m)})}
 Promise.all([j('data/pages.json'),j('data/facts.json'),j('data/menu.json').catch(function(){return[{ico:'📖',label:'Sommaire',sommaire:true}]})]).then(function(r){
   D.idx=r[0];D.facts=r[1];
   var t=document.getElementById('tabs');t.innerHTML=r[2].map(function(m){return m.sommaire?'<a href="#" id="som" role="button"><i>'+m.ico+'</i><span>'+m.label+'</span></a>':'<a href="#/'+m.go+'" data-go="'+m.go+'"><i>'+m.ico+'</i><span>'+m.label+'</span></a>'}).join('');

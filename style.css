@@ -67,3 +67,9 @@ body.lock{overflow:hidden}
 .wbig{display:flex;align-items:center;gap:14px;justify-content:center;margin:6px 0 14px}.wi{font-size:56px}.wbig b{display:block;font:900 40px/1 system-ui;color:#0b1a3d}.wbig small{font-size:13px;color:#556}
 .wdays{display:grid;grid-template-columns:repeat(5,1fr);gap:6px}.wd{background:#f4f7fc;border-radius:12px;padding:8px 2px;text-align:center}.wd em{display:block;font-style:normal;font-weight:800;font-size:12px;text-transform:capitalize;color:#556}.wd span{font-size:24px;display:block}.wd b{display:block;font-size:15px}.wd small{display:block;font-size:12px;color:#778}.wd .rn{color:#1e88e5;font-weight:700}
 .card.open>.wx{display:block}
+
+body{padding-bottom:calc(72px + env(safe-area-inset-bottom))}
+.bar{justify-content:center}.bar b{flex:0 1 auto;text-align:center}
+.tabs{position:fixed;left:0;right:0;bottom:0;z-index:40;display:flex;justify-content:space-around;background:#0b1a3df5;backdrop-filter:blur(8px);border-top:2px solid #f5c54299;padding:6px 6px calc(6px + env(safe-area-inset-bottom))}
+.tabs a{flex:1;max-width:120px;text-align:center;text-decoration:none;color:#c9d3ea;font:700 11.5px system-ui;padding:5px 0;border-radius:12px}
+.tabs a i{display:block;font-style:normal;font-size:23px;line-height:1.2}.tabs a.on{color:#0b1a3d;background:#f5c542}

@@ -1,0 +1,22 @@
+[
+ {
+  "ico": "🏠",
+  "label": "Début",
+  "go": "comment-aller-reunion"
+ },
+ {
+  "ico": "📖",
+  "label": "Sommaire",
+  "sommaire": true
+ },
+ {
+  "ico": "🌤️",
+  "label": "Météo",
+  "go": "quand-partir"
+ },
+ {
+  "ico": "✈️",
+  "label": "Vols",
+  "go": "comment-aller-reunion"
+ }
+]

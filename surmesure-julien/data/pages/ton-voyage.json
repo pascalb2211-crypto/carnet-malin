@@ -1,0 +1,52 @@
+{
+ "id": "ton-voyage",
+ "title": "Ton voyage sur mesure, Julien",
+ "subtitle": "Préparé rien que pour toi",
+ "lead": "10 jours en Thaïlande",
+ "cover": "bangkok-coucher",
+ "blocks": [
+  {
+   "type": "card",
+   "n": 1,
+   "color": "#e91e8c",
+   "title": "Ton voyage en un coup d'œil",
+   "sub": "10 jours · 2 voyageur(s)",
+   "img": "bangkok-coucher",
+   "checks": [
+    "Départ : France, en Novembre.",
+    "Style de voyage : Confort.",
+    "Tes envies : Culture & temples, Street food.",
+    "Étapes : Bangkok → Sukhothai → Chiang Mai.",
+    "Ta demande : « On aime les ruines et les marchés. »"
+   ]
+  },
+  {
+   "type": "card",
+   "n": 2,
+   "color": "#fb8c00",
+   "title": "Ta période : Novembre",
+   "sub": "ce qu'il faut savoir",
+   "img": "fete-lanternes",
+   "checks": [
+    "Début de la haute saison, Loy Krathong."
+   ],
+   "tip": "Pense à vérifier la météo juste avant le départ."
+  },
+  {
+   "type": "card",
+   "n": 3,
+   "color": "#00a67e",
+   "title": "Budget indicatif",
+   "sub": "séjour sur place + vols",
+   "img": "hebergement-piscine",
+   "checks": [
+    "Sur place : environ 1 200 à 1 700 € pour 2 voyageur(s) (70 €/jour/pers.), hors vols.",
+    "Vols aller-retour depuis la France (moyenne saison) : direct 850 € – 1 100 €, avec escale 550 € – 750 € par personne.",
+    "Prix indicatifs, vérifiés le 10/2026."
+   ],
+   "tip": "Le bouton « Prix vols » en bas donne toutes les saisons."
+  }
+ ],
+ "outro": "Le voyage i commence ici — bon départ !",
+ "num": 1
+}

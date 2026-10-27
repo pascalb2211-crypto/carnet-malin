@@ -1,0 +1,109 @@
+{
+ "id": "conseils",
+ "num": 10,
+ "title": "Conseils pratiques pour un séjour réussi",
+ "subtitle": "Tout ce qu'il faut savoir",
+ "lead": "Avant de partir en Thaïlande",
+ "cover": "baie-bateaux",
+ "blocks": [
+  {
+   "type": "card",
+   "n": 1,
+   "color": "#e91e8c",
+   "title": "Meilleure période",
+   "sub": "quand partir ?",
+   "img": "baie-bateaux",
+   "checks": [
+    "Novembre à février : climat idéal.",
+    "Mars à mai : chaud mais encore très bien.",
+    "Juin à octobre : saison des pluies (avantages : moins de monde, prix plus bas).",
+    "Des différences selon les régions (Nord, Sud, Est)."
+   ],
+   "tip": "La meilleure période pour un premier voyage : novembre à mars !"
+  },
+  {
+   "type": "card",
+   "n": 2,
+   "color": "#1e88e5",
+   "title": "Budget",
+   "sub": "combien prévoir ?",
+   "img": "marche-nuit",
+   "checks": [
+    "Hébergement : de 15 à 100 € par nuit selon le confort.",
+    "Repas : 2 à 10 € (street food), 10 à 30 € (restaurant).",
+    "Transports : très abordables (bus, train, vols internes).",
+    "Activités : de 5 à 50 €.",
+    "Prévoir un budget moyen de 50 à 100 € par jour (selon votre style de voyage)."
+   ],
+   "tip": "La Thaïlande reste une destination très abordable par rapport à l'Europe !"
+  },
+  {
+   "type": "card",
+   "n": 3,
+   "color": "#fb8c00",
+   "title": "Transports",
+   "sub": "se déplacer facilement",
+   "img": "tuktuk-bangkok",
+   "checks": [
+    "Bangkok : BTS, MRT, taxis, tuk-tuks, Grab.",
+    "Entre les villes : train, bus, vols domestiques.",
+    "Îles : ferries et speed boats.",
+    "Location de scooter : pratique mais prudence (permis et casque).",
+    "Applications utiles : Grab, 12Go, Google Maps."
+   ],
+   "tip": "Les transports en Thaïlande sont nombreux, fiables et économiques !"
+  },
+  {
+   "type": "card",
+   "n": 4,
+   "color": "#00a67e",
+   "title": "Hébergement",
+   "sub": "où dormir ?",
+   "img": "hebergement-piscine",
+   "checks": [
+    "Large choix : guesthouses, hôtels, resorts, villas.",
+    "Pour tous les budgets.",
+    "Réservez à l'avance en haute saison (novembre à mars).",
+    "Privilégiez les logements bien notés et bien situés.",
+    "Vérifiez les avis et les photos récentes."
+   ],
+   "tip": "De la petite guesthouse au resort de rêve, il y a toujours un hébergement pour vous !"
+  },
+  {
+   "type": "card",
+   "n": 5,
+   "color": "#8e24aa",
+   "title": "Santé et sécurité",
+   "sub": "voyager sereinement",
+   "img": "spa",
+   "checks": [
+    "Aucun vaccin obligatoire.",
+    "Trousse de premiers soins (recommandée).",
+    "Protection contre les moustiques.",
+    "Crème solaire et bonne hydratation.",
+    "Respectez les coutumes locales.",
+    "Souscrivez une assurance voyage.",
+    "Soyez vigilant avec vos effets personnels."
+   ],
+   "tip": "Avec quelques précautions, la Thaïlande est une destination sûre et accueillante !"
+  },
+  {
+   "type": "card",
+   "n": 6,
+   "color": "#5e35b1",
+   "title": "Étiquette et culture",
+   "sub": "les bons réflexes",
+   "img": "temple-jour",
+   "checks": [
+    "Saluez avec le « wai » (mains jointes).",
+    "Habillez-vous correctement dans les temples.",
+    "Retirez vos chaussures avant d'entrer.",
+    "Respectez le Roi et la famille royale.",
+    "Soyez souriant et bienveillant.",
+    "Apprenez quelques mots de thaï (Sawatdee, Khop Khun…)."
+   ],
+   "tip": "Le respect et le sourire ouvrent toutes les portes en Thaïlande !"
+  }
+ ],
+ "outro": "Un voyage bien préparé, c'est déjà la moitié du plaisir !"
+}

@@ -1,0 +1,104 @@
+{
+ "id": "formalites",
+ "num": 3,
+ "title": "Formalités et entrée en Thaïlande",
+ "subtitle": "Tout ce qu'il faut savoir",
+ "lead": "Pour un voyage serein et sans mauvaise surprise",
+ "cover": "preparation-passeport",
+ "blocks": [
+  {
+   "type": "card",
+   "n": 1,
+   "color": "#e91e8c",
+   "title": "Exemption de visa touristique",
+   "sub": "$formalites.sejour_sans_visa_court",
+   "img": "baie-bateaux",
+   "checks": [
+    "Pour les ressortissants français avec passeport ordinaire.",
+    "Exemption de visa touristique : $formalites.sejour_sans_visa",
+    "L'exemption de 60 jours a été supprimée.",
+    "Séjour pour tourisme, loisirs ou visites familiales uniquement.",
+    "Pas de visa nécessaire si séjour de 30 jours ou moins (selon conditions)."
+   ],
+   "tip": "30 jours pour profiter de la Thaïlande en toute simplicité !"
+  },
+  {
+   "type": "card",
+   "n": 2,
+   "color": "#1e88e5",
+   "title": "Passeport et documents",
+   "sub": "les indispensables avant le départ",
+   "img": "preparation-passeport",
+   "checks": [
+    "Passeport valide au moins 6 mois après la date d'entrée en Thaïlande.",
+    "En bon état (pages non abîmées).",
+    "Au moins une page vierge disponible.",
+    "Photocopies ou version numérique de vos documents importants (passeport, assurance, billets…)."
+   ],
+   "tip": "Un passeport en règle, c'est un voyage sans souci !"
+  },
+  {
+   "type": "card",
+   "n": 3,
+   "color": "#fb8c00",
+   "title": "TDAC obligatoire",
+   "sub": "à compléter avant votre arrivée",
+   "img": "bangkok-coucher",
+   "checks": [
+    "Le Thailand Digital Arrival Card (TDAC) est obligatoire pour tous les voyageurs étrangers.",
+    "À remplir en ligne avant votre arrivée en Thaïlande.",
+    "Gratuit et simple à compléter.",
+    "Vous recevez une confirmation (par e-mail ou QR code).",
+    "À présenter aux autorités à votre arrivée."
+   ],
+   "tip": "Un passage à l'immigration plus rapide grâce au TDAC !"
+  },
+  {
+   "type": "card",
+   "n": 4,
+   "color": "#00a67e",
+   "title": "Billet de sortie / retour",
+   "sub": "une preuve de sortie du territoire",
+   "img": "aeroport-avion-blanc",
+   "checks": [
+    "Un billet de retour ou de sortie du territoire peut être demandé par les autorités.",
+    "Valable vers votre pays de résidence ou une autre destination.",
+    "Billet d'avion, de bus, de train ou de ferry accepté.",
+    "Vérifiez que la date correspond à la durée de votre séjour (jusqu'à 30 jours)."
+   ],
+   "tip": "Ayez une preuve de sortie, au cas où… c'est toujours plus serein !"
+  },
+  {
+   "type": "card",
+   "n": 5,
+   "color": "#8e24aa",
+   "title": "Assurance voyage",
+   "sub": "recommandée pour un séjour en toute sérénité",
+   "img": "tortue-snorkeling",
+   "checks": [
+    "Non obligatoire, mais fortement recommandée.",
+    "Couvre les frais médicaux, l'hospitalisation en cas d'accident ou de maladie.",
+    "Pensez aussi au rapatriement.",
+    "Vérifiez les activités couvertes (plongée, sports, etc.).",
+    "Comparez les offres avant votre départ."
+   ],
+   "tip": "Voyagez l'esprit tranquille avec une bonne assurance voyage !"
+  },
+  {
+   "type": "card",
+   "n": 6,
+   "color": "#e53935",
+   "title": "Pour un séjour de plus de 30 jours",
+   "sub": "vérifiez le visa adapté",
+   "img": "temple-jour",
+   "checks": [
+    "Si vous souhaitez rester plus de 30 jours, vous devez obtenir le visa adapté avant votre départ.",
+    "Plusieurs types de visas existent (touriste, éducation, travail, retraite…).",
+    "Les conditions et documents varient selon le type de visa.",
+    "Renseignez-vous auprès de l'ambassade ou d'un consulat de Thaïlande."
+   ],
+   "tip": "Pour un séjour long, anticipez vos démarches de visa !"
+  }
+ ],
+ "outro": "Les règles peuvent évoluer : vérifiez toujours les sources officielles avant votre départ !"
+}

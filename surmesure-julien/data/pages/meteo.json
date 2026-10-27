@@ -1,0 +1,61 @@
+{
+ "id": "meteo",
+ "title": "Météo de ton voyage",
+ "subtitle": "Prévisions en direct",
+ "lead": "Pour chaque étape",
+ "cover": "plage-coucher",
+ "blocks": [
+  {
+   "type": "meteo",
+   "n": 1,
+   "color": "#e91e8c",
+   "title": "Météo France",
+   "sub": "avant de partir",
+   "img": "aeroport-avion-blanc",
+   "places": [
+    {
+     "nom": "Paris",
+     "lat": 48.85,
+     "lon": 2.35
+    },
+    {
+     "nom": "Lyon",
+     "lat": 45.76,
+     "lon": 4.84
+    },
+    {
+     "nom": "Marseille",
+     "lat": 43.3,
+     "lon": 5.37
+    }
+   ]
+  },
+  {
+   "type": "meteo",
+   "n": 2,
+   "color": "#00a67e",
+   "title": "Météo de tes étapes",
+   "sub": "pendant le voyage",
+   "img": "baie-panoramique",
+   "places": [
+    {
+     "nom": "Bangkok",
+     "lat": 13.75,
+     "lon": 100.5
+    },
+    {
+     "nom": "Sukhothai",
+     "lat": 17.01,
+     "lon": 99.82
+    },
+    {
+     "nom": "Chiang Mai",
+     "lat": 18.79,
+     "lon": 98.98
+    }
+   ]
+  }
+ ],
+ "outro": "Les prévisions couvrent 5 jours : reviens les consulter avant de partir.",
+ "num": 9
+}

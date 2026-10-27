@@ -1,0 +1,22 @@
+[
+ {
+  "ico": "🏠",
+  "label": "Début",
+  "go": "ton-voyage"
+ },
+ {
+  "ico": "📖",
+  "label": "Sommaire",
+  "sommaire": true
+ },
+ {
+  "ico": "🌤️",
+  "label": "Météo",
+  "go": "meteo"
+ },
+ {
+  "ico": "✈️",
+  "label": "Prix vols",
+  "vols": true
+ }
+]

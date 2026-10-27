@@ -1,0 +1,55 @@
+{
+ "id": "circuit",
+ "title": "Ton circuit",
+ "subtitle": "De l'arrivée au retour",
+ "lead": "Étapes, déplacements et jour du départ",
+ "cover": "bangkok-coucher",
+ "blocks": [
+  {
+   "type": "card",
+   "n": 1,
+   "color": "#e91e8c",
+   "title": "Ton circuit en un coup d'œil",
+   "sub": "10 jours, de l'arrivée au retour",
+   "img": "bangkok-coucher",
+   "checks": [
+    "Arrivée à Bangkok : tous les vols internationaux atterrissent là (vol depuis France).",
+    "Jours 1 à 4 : Bangkok — Temples, street food et vertige urbain.",
+    "Jours 5 à 6 : Sukhothai — Ruines d'un ancien royaume.",
+    "Jours 7 à 10 : Chiang Mai — Culture, cuisine et montagnes.",
+    "Retour : de Chiang Mai vers Bangkok (ou directement vers l'aéroport international), puis vol vers France."
+   ],
+   "tip": "Ton guide suit cet ordre, étape par étape."
+  },
+  {
+   "type": "card",
+   "n": 2,
+   "color": "#1e88e5",
+   "title": "Tes déplacements",
+   "sub": "d'une étape à l'autre",
+   "img": "tuktuk-bangkok",
+   "checks": [
+    "Bangkok → Sukhothai : Vol (environ 1 h 20) ou train de nuit (environ 12 h).",
+    "Sukhothai → Chiang Mai : Bus ou minivan : prévoir 3 à 4 h.",
+    "Chiang Mai → Bangkok (retour) : Vol (environ 1 h 20) ou train de nuit (environ 12 h)."
+   ],
+   "tip": "Durées indicatives : confirme les horaires au moment de réserver."
+  },
+  {
+   "type": "card",
+   "n": 3,
+   "color": "#fb8c00",
+   "title": "Le jour du retour",
+   "sub": "pour ne rien rater",
+   "img": "aeroport-avion-blanc",
+   "checks": [
+    "Arrive à l'aéroport international 3 h avant ton vol vers France.",
+    "Si tu prends un vol intérieur la veille, garde une marge de sécurité.",
+    "Évite de réserver un vol intérieur le jour même du vol international.",
+    "Garde ton billet de sortie et ton passeport à portée de main."
+   ]
+  }
+ ],
+ "outro": "Touche chaque étape dans le sommaire : à voir, où dormir, où manger, budget.",
+ "num": 5
+}

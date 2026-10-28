@@ -1,0 +1,101 @@
+{
+ "id": "ta-suite",
+ "title": "Et maintenant ?",
+ "subtitle": "Ton guide complet",
+ "lead": "Dis-moi tes dates et je prépare la suite",
+ "cover": "preparation-passeport",
+ "blocks": [
+  {
+   "type": "card",
+   "n": 1,
+   "color": "#e91e8c",
+   "title": "Ton guide complet",
+   "sub": "39 € · tarif de lancement",
+   "img": "hebergement-piscine",
+   "checks": [
+    "Une page détaillée pour chacune de tes 4 étapes : à voir, où dormir, où manger, se déplacer, budget.",
+    "Les hôtels sélectionnés avec les boutons Booking, Agoda et Trip.com pour comparer les offres du moment.",
+    "Ton calendrier daté, adapté à tes vraies dates et à ton vol retour.",
+    "Les formalités, la météo en direct, les prix des vols et les numéros utiles.",
+    "Utilisable sur ton téléphone, même hors connexion."
+   ],
+   "tip": "Le guide complet est livré après achat."
+  },
+  {
+   "type": "form",
+   "n": 2,
+   "color": "#00a67e",
+   "title": "Tes informations",
+   "sub": "pour finaliser ton guide",
+   "img": "preparation-passeport",
+   "endpoint": "https://formspree.io/f/xeeylnzw",
+   "btn": "Envoyer",
+   "ok": "Merci ! Je reviens vers toi très vite par e-mail.",
+   "hidden": {
+    "ref": "shanna-2026-10-28",
+    "_subject": "Aperçu sur mesure : réponse du voyageur"
+   },
+   "fields": [
+    {
+     "k": "email",
+     "label": "Ton e-mail",
+     "t": "email",
+     "req": true,
+     "ph": "toi@exemple.fr"
+    },
+    {
+     "k": "ville_depart",
+     "label": "Ville de départ",
+     "ph": "La Réunion"
+    },
+    {
+     "k": "date_depart",
+     "label": "Date de départ de ton vol",
+     "t": "date"
+    },
+    {
+     "k": "date_retour",
+     "label": "Date de ton vol retour",
+     "t": "date"
+    },
+    {
+     "k": "vols_reserves",
+     "label": "Tes vols sont-ils déjà réservés ?",
+     "t": "select",
+     "opts": [
+      "Je ne sais pas encore",
+      "Oui, déjà réservés",
+      "Non, pas encore"
+     ]
+    },
+    {
+     "k": "souplesse",
+     "label": "Tes dates sont-elles flexibles ?",
+     "t": "select",
+     "opts": [
+      "Un peu",
+      "Non, elles sont fixes",
+      "Oui, très flexibles"
+     ]
+    },
+    {
+     "k": "decision",
+     "label": "Et maintenant ?",
+     "t": "select",
+     "opts": [
+      "Je veux le guide complet (39 €), envoie-moi la facture",
+      "Je veux d'abord ajuster la proposition"
+     ]
+    },
+    {
+     "k": "message",
+     "label": "Un message (facultatif)",
+     "t": "textarea",
+     "ph": "Ce que tu aimerais changer ou ajouter"
+    }
+   ]
+  }
+ ],
+ "outro": "Tu peux aussi répondre directement à mon e-mail.",
+ "num": 3
+}

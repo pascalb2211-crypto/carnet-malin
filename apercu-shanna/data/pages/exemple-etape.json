@@ -1,0 +1,54 @@
+{
+ "id": "exemple-etape",
+ "title": "Exemple d'étape : Chiang Mai",
+ "subtitle": "Un avant-goût du guide complet",
+ "lead": "Ce que tu trouveras pour chaque étape",
+ "cover": "temple-jour",
+ "blocks": [
+  {
+   "type": "card",
+   "n": 1,
+   "color": "#e91e8c",
+   "title": "Où te poser",
+   "sub": "les quartiers à connaître",
+   "img": "temple-jour",
+   "checks": [
+    "Vieille Ville (Old City) : Cœur historique entouré de remparts et de douves, dizaines de temples bouddhistes.",
+    "Nimman (Nimmanhaemin) : Quartier branché prisé des digital nomades, cafés de spécialité et boutiques design.",
+    "Night Bazaar (Chang Klan) : Marché nocturne permanent et rue commerçante animée, artisanat et souvenirs.",
+    "Riverside (bord de la rivière Ping) : Bars et restaurants en bord de rivière, ambiance décontractée en soirée."
+   ]
+  },
+  {
+   "type": "card",
+   "n": 2,
+   "color": "#1e88e5",
+   "title": "Lâcher de lanternes (Yi Peng)",
+   "sub": "Loy Krathong 2026",
+   "img": "fete-lanternes",
+   "checks": [
+    "Loy Krathong 2026 : mardi 24 novembre. Yi Peng à Chiang Mai : du 23 au 25 novembre.",
+    "Les lâchers de lanternes volantes sont autorisés seulement les 24 et 25 novembre, de 19 h à 1 h, dans des zones désignées. Acheter une lanterne et la lâcher n'importe où en ville n'est pas permis.",
+    "Les grands lâchers collectifs sont des événements payants organisés hors du centre (par exemple le Yi Peng Khomloy Sky Lantern Festival, billets d'environ 4 900 à 15 900 THB).",
+    "Gratuit : en ville, les krathongs sur la rivière Ping, les défilés et les lanternes dans le ciel.",
+    "Réserve ton hébergement tôt : les prix montent et les hôtels se remplissent."
+   ],
+   "tip": "Dates et règles à confirmer sur les sites officiels avant de partir : le programme peut changer."
+  },
+  {
+   "type": "card",
+   "n": 3,
+   "color": "#00a67e",
+   "title": "Où dormir",
+   "sub": "selon ton style : Confort",
+   "img": "hebergement-piscine",
+   "checks": [
+    "Burirattana Hotel (≈ 1 000–2 500 THB/nuit) · Vieille ville : Hôtel central à deux pas des remparts et du marché du dimanche.",
+    "Villa Klang Wiang (≈ 1 000–2 500 THB/nuit) · Vieille ville : Petit hôtel de charme avec jardin, dans la vieille ville."
+   ],
+   "tip": "🔒 Les boutons Booking, Agoda et Trip.com, avec les offres du moment, sont dans le guide complet."
+  }
+ ],
+ "outro": "Chaque étape du guide complet est construite comme celle-ci, avec en plus les lieux à voir, les restaurants, les déplacements et le budget.",
+ "num": 2
+}

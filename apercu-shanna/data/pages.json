@@ -1,0 +1,23 @@
+[
+ {
+  "id": "ton-voyage",
+  "num": 1,
+  "title": "Ta proposition de voyage, Shanna",
+  "sub": "Aperçu gratuit, préparé pour toi",
+  "cover": "bangkok-coucher"
+ },
+ {
+  "id": "exemple-etape",
+  "num": 2,
+  "title": "Exemple d'étape : Chiang Mai",
+  "sub": "Un avant-goût du guide complet",
+  "cover": "temple-jour"
+ },
+ {
+  "id": "ta-suite",
+  "num": 3,
+  "title": "Et maintenant ?",
+  "sub": "Ton guide complet",
+  "cover": "preparation-passeport"
+ }
+]

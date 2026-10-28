@@ -1,6 +1,0 @@
-BASE HÔTELS – TOUTES DESTINATIONS (brouillon IA à valider)
-- hotels/<ville>.json : base sur-mesure (15 villes dont Bangkok). Boutons Booking / Agoda / Trip.com + fourchettes de prix par catégorie.
-- export-premium/extras-<ville>-hotels.json : même base au format de ton Premium (tier, name, desc, price, bookingUrl, agodaUrl, tripUrl).
-- app-guide-test-routard/ : guide test (28 jours, 16 villes) pour cliquer sur les boutons. Remplace le dossier de ton repo de test (carnet-malin), jamais voyages-thaimalin.
-- DOUTES-hotels.txt : liste des liens directs manquants (retombent sur une recherche).
-Tous les hôtels sont en statut "brouillon-ia", à vérifier. Les prix sont des fourchettes indicatives.

@@ -95,3 +95,5 @@ body{padding-bottom:calc(72px + env(safe-area-inset-bottom))}
 .fb{width:100%;background:#00a67e;color:#fff;border:0;font:800 16px system-ui;padding:13px;border-radius:99px;cursor:pointer}.fb:disabled{opacity:.6}.fmsg{font:700 14px system-ui;color:#007a5e;margin:10px 4px 0;text-align:center}
 
 .xb2{display:none}.card.open>.xb2{display:block!important;margin:24px auto 8px;border:0;border-radius:99px;background:#0b1a3d;color:#fff;font:800 15px system-ui;padding:12px 28px;cursor:pointer}
+
+.card.open .xb{position:sticky!important;top:10px!important;right:auto!important;display:block;width:max-content;margin:0 0 -46px auto;z-index:60;touch-action:manipulation}

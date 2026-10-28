@@ -40,6 +40,20 @@
   {
    "type": "card",
    "n": 3,
+   "color": "#fb8c00",
+   "title": "Novembre : réserve vite",
+   "sub": "haute saison et Loy Krathong",
+   "img": "fete-lanternes",
+   "checks": [
+    "Novembre marque le début de la haute saison : les vols et les hôtels se réservent de plus en plus tôt, et les prix montent vite.",
+    "Autour de Loy Krathong (24 novembre), Chiang Mai se remplit : réserve en priorité tes vols et ton hébergement là-bas.",
+    "Les places pour un grand lâcher de lanternes sont limitées et se vendent à l'avance."
+   ],
+   "tip": "Plus tu réserves tôt, plus tu as de choix et de prix raisonnables."
+  },
+  {
+   "type": "card",
+   "n": 4,
    "color": "#00a67e",
    "title": "Budget indicatif",
    "sub": "séjour sur place + vols",

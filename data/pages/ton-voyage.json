@@ -1,0 +1,57 @@
+{
+ "id": "ton-voyage",
+ "title": "Ta proposition de voyage, Shanna",
+ "subtitle": "Aperçu gratuit, préparé pour toi",
+ "lead": "16 jours en Thaïlande",
+ "cover": "bangkok-coucher",
+ "blocks": [
+  {
+   "type": "card",
+   "n": 1,
+   "color": "#e91e8c",
+   "title": "Ton voyage en un coup d'œil",
+   "sub": "16 jours · 1 voyageur(s)",
+   "img": "bangkok-coucher",
+   "checks": [
+    "Départ : La Réunion, en Novembre.",
+    "Style de voyage : Confort.",
+    "Tes envies : Plages & îles, Culture & temples, Street food, Détente & spa, Aventure, En solo.",
+    "Étapes : Bangkok → Chiang Mai → Hua Hin → Koh Tao.",
+    "Ta demande : « Je ne sais pas encore ce que je veux mais je veux voir le lâcher de lanternes à Chiang Mai. »"
+   ]
+  },
+  {
+   "type": "card",
+   "n": 2,
+   "color": "#1e88e5",
+   "title": "Ton calendrier proposé",
+   "sub": "à confirmer avec toi",
+   "img": "bangkok-coucher",
+   "checks": [
+    "16 novembre : départ de La Réunion, arrivée à Bangkok le 17",
+    "Bangkok : du 17 au 21 novembre",
+    "Chiang Mai : du 22 au 26 novembre (Yi Peng, lâchers de lanternes les 24 et 25)",
+    "Hua Hin : du 26 au 28 novembre",
+    "Koh Tao : du 28 au 30 novembre (journée de trajet le 28)",
+    "30 novembre : retour à Bangkok, vol retour le 1er décembre"
+   ],
+   "tip": "Dates supposées : départ de La Réunion le 16 novembre, vol retour le 1er décembre. À confirmer avec toi. Si ton vol retour est le 1er décembre, tu dois être à Bangkok la veille : Koh Tao → Bangkok prend 8 à 10 heures."
+  },
+  {
+   "type": "card",
+   "n": 3,
+   "color": "#00a67e",
+   "title": "Budget indicatif",
+   "sub": "séjour sur place + vols",
+   "img": "hebergement-piscine",
+   "checks": [
+    "Sur place : environ 950 à 1 350 € pour 1 voyageur(s) (70 €/jour/pers.), hors vols.",
+    "Vols aller-retour depuis La Réunion (basse saison) : direct 600 € – 800 €, avec escale 500 € – 750 € par personne.",
+    "Prix indicatifs, vérifiés (édition 2026)."
+   ],
+   "tip": "Le bouton « Prix vols » en bas donne toutes les saisons."
+  }
+ ],
+ "outro": "Touche chaque carte pour la lire. La page suivante montre un exemple d'étape.",
+ "num": 1
+}

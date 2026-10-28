@@ -16,14 +16,22 @@ window.TMrender=function(root,P,F){
   var tt=el('div','tt');tt.appendChild(el('h1','',P.title));tt.appendChild(el('p','sb',P.subtitle));tt.appendChild(el('p','ld',P.lead));
   top.appendChild(tt);pg.appendChild(top);
   var grid=el('div','grid');
-  P.blocks.forEach(function(b){
+  P.blocks.forEach(function(b){b.sub=fact(F,b.sub);b.title=fact(F,b.title);
     var c=el('section','card');
     if(b.img){var ph=el('div','ph');ph.style.backgroundImage='url(img/'+b.img+'.jpg)';c.appendChild(ph);c.classList.add('hasimg')}
     c.appendChild(head(b));
     if(b.type==='card'){
       var ul=el('ul','ck');b.checks.forEach(function(x){ul.appendChild(el('li','',fact(F,x)))});c.appendChild(ul);
-      if(b.links){var lk=el('div','lk');b.links.forEach(function(l){var a=el('a','',l.t);a.href=l.u;a.target='_blank';a.rel='noopener';lk.appendChild(a)});c.appendChild(lk)}
+      if(b.links){var lk=el('div','lk');b.links.forEach(function(l){var a=el('a','',l.t);a.href=l.u;if(!/^tel:/.test(l.u)){a.target='_blank';a.rel='noopener'}lk.appendChild(a)});c.appendChild(lk)}
+      var aw=null;if(b.agoda){aw=el('div','agw');var ab=el('button','agb','🔎 Chercher d\'autres hôtels à '+(b.agoda.dest||'')+' · Agoda');var ac=el('div','agc');aw.appendChild(ab);aw.appendChild(ac);
+        ab.addEventListener('click',function(ev){ev.stopPropagation();if(ab.dataset.ok)return;ab.dataset.ok='1';ab.textContent='Chargement…';
+          var id='adg'+Math.floor(Math.random()*1e9),d=document.createElement('div');d.id=id;ac.appendChild(d);
+          var s=document.createElement('script');s.src='https://cdn0.agoda.net/images/sherpa/js/sherpa_init1_08.min.js';
+          s.onload=function(){try{var g={};g.crt=b.agoda.crt||'';g.version='1.04';g.id=g.name=id;g.width='320px';g.height='420px';g.ReferenceKey=b.agoda.ref;g.Layout='SquareCalendar';g.Language='fr-fr';g.Cid=b.agoda.cid;g.DestinationName=b.agoda.dest||'';g.OverideConf=false;new AgdSherpa(g).initialize();ab.style.display='none';var hn=el('p','agh','Tape « '+(b.agoda.dest||'')+' » dans la recherche, puis choisis tes dates.');ac.parentNode.insertBefore(hn,ac)}catch(e){ab.textContent='Moteur indisponible';ac.textContent='Ouvre la liste Agoda : '+(b.agoda.url||'')}};
+          s.onerror=function(){ab.dataset.ok='';ab.textContent='Connexion requise pour chercher';};
+          document.head.appendChild(s)})}
       if(b.tip)c.appendChild(el('p','tip',b.tip));
+      if(aw)c.appendChild(aw);
     }
     if(b.type==='routes'){
       var r=el('div','rt');b.items.forEach(function(i){var row=el('div','ro');
@@ -90,6 +98,22 @@ window.TMrender=function(root,P,F){
       }
       b.places.forEach(function(p,k){var x=el('button','',p.nom);x.type='button';x.addEventListener('click',function(e){e.stopPropagation();load(p)});chips.appendChild(x)});
       load(b.places[0]);
+    }
+    if(b.type==='form'){
+      var fm=el('form','fm');
+      b.fields.forEach(function(f){var w=el('label','ff');w.appendChild(el('span','',f.label));var i;
+        if(f.t==='select'){i=el('select');f.opts.forEach(function(o){var op=el('option','',o);op.value=o;i.appendChild(op)})}
+        else if(f.t==='textarea'){i=el('textarea');i.rows=3}
+        else{i=el('input');i.type=f.t||'text'}
+        i.name=f.k;if(f.ph)i.placeholder=f.ph;if(f.req)i.required=true;w.appendChild(i);fm.appendChild(w)});
+      var sb=el('button','fb',b.btn||'Envoyer');sb.type='submit';fm.appendChild(sb);var msg=el('p','fmsg');fm.appendChild(msg);
+      fm.addEventListener('submit',function(e){e.preventDefault();var data={};Object.keys(b.hidden||{}).forEach(function(k){data[k]=b.hidden[k]});
+        new FormData(fm).forEach(function(v,k){data[k]=v});sb.disabled=true;msg.textContent='Envoi…';
+        fetch(b.endpoint,{method:'POST',headers:{'Accept':'application/json','Content-Type':'application/json'},body:JSON.stringify(data)})
+          .then(function(r){if(!r.ok)throw 0;msg.textContent=b.ok||'Merci, c\'est envoyé !';fm.reset()})
+          .catch(function(){msg.textContent='Envoi impossible pour le moment. Écris-nous à contact@thaimalin.fr'})
+          .then(function(){sb.disabled=false})});
+      c.appendChild(fm);
     }
     wire(c);grid.appendChild(c);
   });

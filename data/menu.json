@@ -2,21 +2,11 @@
  {
   "ico": "🏠",
   "label": "Début",
-  "go": "comment-aller-reunion"
+  "go": "ton-voyage"
  },
  {
   "ico": "📖",
   "label": "Sommaire",
   "sommaire": true
- },
- {
-  "ico": "🌤️",
-  "label": "Météo",
-  "go": "quand-partir"
- },
- {
-  "ico": "✈️",
-  "label": "Vols",
-  "go": "comment-aller-reunion"
  }
 ]

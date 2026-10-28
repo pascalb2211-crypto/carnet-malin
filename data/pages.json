@@ -1,23 +1,30 @@
 [
  {
-  "id": "ton-voyage",
+  "id": "comment-aller-reunion",
   "num": 1,
-  "title": "Ta proposition de voyage, Shanna",
-  "sub": "Aperçu gratuit, préparé pour toi",
-  "cover": "bangkok-coucher"
+  "title": "Comment aller en Thaïlande ?",
+  "sub": "Toutes les options depuis La Réunion",
+  "cover": "aeroport-avion-blanc"
  },
  {
-  "id": "exemple-etape",
+  "id": "formalites",
   "num": 2,
-  "title": "Exemple d'étape : Chiang Mai",
-  "sub": "Un avant-goût du guide complet",
-  "cover": "temple-jour"
+  "title": "Formalités et préparation",
+  "sub": "Avant de partir",
+  "cover": "preparation-passeport"
  },
  {
-  "id": "ta-suite",
+  "id": "quand-partir",
   "num": 3,
-  "title": "Et maintenant ?",
-  "sub": "Ton guide complet",
-  "cover": "preparation-passeport"
+  "title": "Quand partir ?",
+  "sub": "Saisons et météo",
+  "cover": "plage-coucher"
+ },
+ {
+  "id": "cuisine",
+  "num": 4,
+  "title": "La cuisine thaïe",
+  "sub": "Saveurs et bons plans",
+  "cover": "cuisine-cours"
  }
 ]

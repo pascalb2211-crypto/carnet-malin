@@ -93,3 +93,5 @@ body{padding-bottom:calc(72px + env(safe-area-inset-bottom))}
 .fm{display:none;margin:12px 0}.card.open .fm{display:block}.ff{display:block;margin:0 0 10px;text-align:left}.ff span{display:block;font:800 13px system-ui;color:#333;margin:0 0 4px}
 .ff input,.ff select,.ff textarea{width:100%;box-sizing:border-box;font:16px system-ui;padding:10px 12px;border:2px solid #ddd;border-radius:12px;background:#fff;color:#222}
 .fb{width:100%;background:#00a67e;color:#fff;border:0;font:800 16px system-ui;padding:13px;border-radius:99px;cursor:pointer}.fb:disabled{opacity:.6}.fmsg{font:700 14px system-ui;color:#007a5e;margin:10px 4px 0;text-align:center}
+
+.xb2{display:none}.card.open>.xb2{display:block!important;margin:24px auto 8px;border:0;border-radius:99px;background:#0b1a3d;color:#fff;font:800 15px system-ui;padding:12px 28px;cursor:pointer}

@@ -13,7 +13,7 @@
    "sub": "16 jours · 1 voyageur(s)",
    "img": "bangkok-coucher",
    "checks": [
-    "Départ : La Réunion, en Novembre.",
+    "Départ : à confirmer, en novembre (départ prévu le 16).",
     "Style de voyage : Confort.",
     "Tes envies : Plages & îles, Culture & temples, Street food, Détente & spa, Aventure, En solo.",
     "Étapes : Bangkok → Chiang Mai → Hua Hin → Koh Tao.",
@@ -28,14 +28,14 @@
    "sub": "à confirmer avec toi",
    "img": "bangkok-coucher",
    "checks": [
-    "16 novembre : départ de La Réunion, arrivée à Bangkok le 17",
+    "16 novembre : départ, arrivée à Bangkok le 17",
     "Bangkok : du 17 au 21 novembre",
     "Chiang Mai : du 22 au 26 novembre (Yi Peng, lâchers de lanternes les 24 et 25)",
     "Hua Hin : du 26 au 28 novembre",
     "Koh Tao : du 28 au 30 novembre (journée de trajet le 28)",
     "30 novembre : retour à Bangkok, vol retour le 1er décembre"
    ],
-   "tip": "Dates supposées : départ de La Réunion le 16 novembre, vol retour le 1er décembre. À confirmer avec toi. Si ton vol retour est le 1er décembre, tu dois être à Bangkok la veille : Koh Tao → Bangkok prend 8 à 10 heures."
+   "tip": "Dates supposées : départ le 16 novembre, vol retour le 1er décembre. À confirmer avec toi. Si ton vol retour est le 1er décembre, tu dois être à Bangkok la veille : Koh Tao → Bangkok prend 8 à 10 heures."
   },
   {
    "type": "card",
@@ -46,10 +46,10 @@
    "img": "hebergement-piscine",
    "checks": [
     "Sur place : environ 950 à 1 350 € pour 1 voyageur(s) (70 €/jour/pers.), hors vols.",
-    "Vols aller-retour depuis La Réunion (basse saison) : direct 600 € – 800 €, avec escale 500 € – 750 € par personne.",
-    "Prix indicatifs, vérifiés (édition 2026)."
+    "Les vols aller-retour ne sont pas compris. Réserve-les dès que possible : les prix montent à l'approche du départ.",
+    "Le guide complet détaille les prix des vols selon la saison."
    ],
-   "tip": "Le bouton « Prix vols » en bas donne toutes les saisons."
+   "tip": "Tous les prix sont indicatifs."
   }
  ],
  "outro": "Touche chaque carte pour la lire. La page suivante montre un exemple d'étape.",

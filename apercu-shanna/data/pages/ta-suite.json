@@ -46,7 +46,7 @@
     {
      "k": "ville_depart",
      "label": "Ville de départ",
-     "ph": "La Réunion"
+     "ph": "Ta ville de départ"
     },
     {
      "k": "date_depart",

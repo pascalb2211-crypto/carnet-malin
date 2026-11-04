@@ -13,7 +13,7 @@
    "sub": "39 € · tarif de lancement",
    "img": "hebergement-piscine",
    "checks": [
-    "Une page détaillée pour chacune de tes 3 étapes : à voir, où dormir, où manger, se déplacer, budget.",
+    "Une page détaillée pour chacune des étapes de la proposition que tu choisis : à voir, où dormir, où manger, se déplacer, budget.",
     "Les hôtels sélectionnés avec les boutons Booking, Agoda et Trip.com pour comparer les offres du moment.",
     "Ton calendrier daté, adapté à tes vraies dates et à ton vol retour.",
     "Les formalités, la météo en direct, les prix des vols et les numéros utiles.",
@@ -116,8 +116,30 @@
      "ph": "Ce que tu aimerais changer ou ajouter"
     }
    ]
+  },
+  {
+   "type": "card",
+   "n": 3,
+   "color": "#25a244",
+   "title": "Une question ?",
+   "sub": "écris-moi directement",
+   "img": "preparation-passeport",
+   "checks": [
+    "Écris-moi par e-mail ou sur WhatsApp : je réponds en général sous 24 h en semaine.",
+    "Pour me retrouver facilement, enregistre le numéro +262 692 36 83 67 dans tes contacts sous le nom « Thaï Malin »."
+   ],
+   "links": [
+    {
+     "t": "💬 WhatsApp",
+     "u": "https://wa.me/262692368367?text=Bonjour%2C%20j%27ai%20une%20question%20sur%20ma%20proposition%20de%20voyage%20Tha%C3%AF%20Malin."
+    },
+    {
+     "t": "✉️ sawasdee@thaimalin.fr",
+     "u": "mailto:sawasdee@thaimalin.fr"
+    }
+   ]
   }
  ],
- "outro": "Tu peux aussi répondre directement à mon e-mail.",
+ "outro": "Tu peux aussi répondre directement à mon e-mail ou m'écrire sur WhatsApp.",
  "num": 3
 }

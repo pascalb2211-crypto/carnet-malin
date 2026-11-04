@@ -136,7 +136,7 @@ window.TMrender=function(root,P,F){
         new FormData(fm).forEach(function(v,k){data[k]=v});sb.disabled=true;msg.textContent='Envoi…';
         fetch(b.endpoint,{method:'POST',headers:{'Accept':'application/json','Content-Type':'application/json'},body:JSON.stringify(data)})
           .then(function(r){if(!r.ok)throw 0;msg.textContent=b.ok||'Merci, c\'est envoyé !';fm.reset()})
-          .catch(function(){msg.textContent='Envoi impossible pour le moment. Réponds directement à mon e-mail'})
+          .catch(function(){msg.textContent='Envoi impossible pour le moment. Réponds directement à mon e-mail ou écris-moi sur WhatsApp'})
           .then(function(){sb.disabled=false})});
       c.appendChild(fm);
     }

@@ -55,6 +55,7 @@ window.TMrender=function(root,P,F){
         S.appendChild(sv('circle',{cx:p.x,cy:p.y,r:15,fill:'#d35400',stroke:'#fff','stroke-width':3}));
         S.appendChild(sv('text',{x:p.x,y:p.y+6,'text-anchor':'middle','font-weight':800,'font-size':17,fill:'#fff','font-family':'system-ui,sans-serif'},String(p.n)))});
       var mw=el('div','ph mp');mw.appendChild(S);c.insertBefore(mw,c.firstChild);c.classList.add('hasimg');
+      if(b.checks){var ul2=el('ul','ck');b.checks.forEach(function(x){ul2.appendChild(el('li','',x))});c.appendChild(ul2)}
       if(b.tip)c.appendChild(el('p','tip',b.tip));
     }
     if(b.type==='routes'){

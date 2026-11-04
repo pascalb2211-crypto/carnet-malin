@@ -18,7 +18,9 @@
     "Ton calendrier daté, adapté à tes vraies dates et à ton vol retour.",
     "Les formalités, la météo en direct, les prix des vols et les numéros utiles.",
     "Utilisable sur ton téléphone, même hors connexion.",
-    "Option « Suivi jusqu'au départ » : 4,90 € par mois, à partir de 3 mois avant ton départ, jusqu'à ton vol. Un message par mois avec les prix des vols, les réservations à faire et les changements utiles. Sans engagement, résiliable à tout moment."
+    "Option « Suivi jusqu'au départ » : 4,90 € par mois, à partir de 3 mois avant ton départ, jusqu'à ton vol. Un message par mois avec les prix des vols, les réservations à faire et les changements utiles. Sans engagement, résiliable à tout moment.",
+    "Un ajustement du circuit est inclus, sans supplément, avant ton guide complet : nombre de jours par étape, une ville en plus ou en moins, ou un mélange des deux propositions.",
+    "Comme ton départ est lointain, ton guide complet t'est livré dans un délai d'une semaine après paiement."
    ],
    "tip": "Le guide complet est livré après achat."
   },
@@ -77,6 +79,16 @@
       "Un peu",
       "Non, elles sont fixes",
       "Oui, très flexibles"
+     ]
+    },
+    {
+     "k": "proposition",
+     "label": "Quelle proposition te plaît ?",
+     "t": "select",
+     "opts": [
+      "Proposition 1 : avec la montagne (Chiang Mai)",
+      "Proposition 2 : plus tranquille (Phuket, Krabi, Bangkok)",
+      "Je veux ajuster ou mélanger les deux"
      ]
     },
     {

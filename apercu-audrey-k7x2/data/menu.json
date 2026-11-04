@@ -1,0 +1,12 @@
+[
+ {
+  "ico": "🏠",
+  "label": "Début",
+  "go": "ton-voyage"
+ },
+ {
+  "ico": "📖",
+  "label": "Sommaire",
+  "sommaire": true
+ }
+]

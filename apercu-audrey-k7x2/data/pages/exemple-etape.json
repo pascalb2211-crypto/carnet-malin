@@ -1,0 +1,38 @@
+{
+ "id": "exemple-etape",
+ "title": "Exemple d'étape : Phuket",
+ "subtitle": "Un avant-goût du guide complet",
+ "lead": "Ce que tu trouveras pour chaque étape",
+ "cover": "baie-panoramique",
+ "blocks": [
+  {
+   "type": "card",
+   "n": 1,
+   "color": "#e91e8c",
+   "title": "Où te poser",
+   "sub": "les quartiers à connaître",
+   "img": "baie-panoramique",
+   "checks": [
+    "Phuket Town (Mueang Phuket) : Architecture sino-portugaise colorée, street art et scène café — considéré par beaucoup comme abritant la meilleure gastronomie de l'île, loin de…",
+    "Rawai : Port de pêche à l'ambiance typique, devenu le repaire des voyageurs au long cours et des digital nomads — appartements abordables, bonne cuisine,…",
+    "Chalong : Abrite le plus grand temple de l'île (Wat Chalong) et le principal port de plaisance de Phuket — hub pour les excursions en bateau, plongée et pêche.",
+    "Kathu : Quartier central de l'île, entre vie urbaine et nature — stratégique pour ceux qui travaillent depuis Phuket, avec cascade, golfs et centre…"
+   ]
+  },
+  {
+   "type": "card",
+   "n": 2,
+   "color": "#8e24aa",
+   "title": "Où dormir",
+   "sub": "selon ton style : Confort",
+   "img": "hebergement-piscine",
+   "checks": [
+    "Kalima Resort & Spa (≈ 1 800–4 000 THB/nuit) · Patong : Resort avec piscine sur les hauteurs de Patong.",
+    "Phuket Orchid Resort & Spa (≈ 1 800–4 000 THB/nuit) · Karon : Resort de bord de mer à Karon, bon rapport qualité-prix."
+   ],
+   "tip": "🔒 Les boutons Booking, Agoda et Trip.com, avec les offres du moment, sont dans le guide complet."
+  }
+ ],
+ "outro": "Chaque étape du guide complet est construite comme celle-ci, avec en plus les lieux à voir, les restaurants, les déplacements et le budget.",
+ "num": 2
+}

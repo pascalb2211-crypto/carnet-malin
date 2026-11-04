@@ -17,7 +17,7 @@
     "Style de voyage : Confort.",
     "Tes envies : Culture & temples, Street food, Nature & jungle, Plages & îles, En famille.",
     "Ta demande : « Découvrir la Thaïlande : temples, spécialités culinaires, nature, montagne, plages. En famille de 4 personnes. »",
-    "Deux propositions de circuit ci-dessous : choisis celle qui te plaît."
+    "Deux propositions de circuit ci-dessous : touche chaque carte pour la lire, compare, puis appuie sur « Je choisis cette proposition »."
    ]
   },
   {
@@ -131,6 +131,13 @@
     "À savoir : Seulement 2 jours à Phuket : moins de temps à la plage.",
     "À savoir : Saison des pluies au nord comme sur la côte Andaman : averses, mer parfois agitée.",
     "À savoir : Budget transport plus élevé (vols intérieurs pour 4)."
+   ],
+   "links": [
+    {
+     "t": "✅ Je choisis cette proposition",
+     "u": "#/ta-suite",
+     "pick": "Proposition 1 : avec la montagne (Chiang Mai)"
+    }
    ]
   },
   {
@@ -221,6 +228,13 @@
     "À savoir : Pas de montagne ni de nature du nord.",
     "À savoir : Beaucoup de temps sur la côte Andaman en pleine saison des pluies : mer agitée, excursions parfois annulées.",
     "À savoir : Plus de plage et moins de culture avant d'arriver à Bangkok."
+   ],
+   "links": [
+    {
+     "t": "✅ Je choisis cette proposition",
+     "u": "#/ta-suite",
+     "pick": "Proposition 2 : plus tranquille (Phuket, Krabi, Bangkok)"
+    }
    ]
   },
   {

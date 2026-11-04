@@ -25,8 +25,30 @@
    "tip": "Le guide complet est livré après achat."
   },
   {
-   "type": "form",
+   "type": "card",
    "n": 2,
+   "color": "#25a244",
+   "title": "Une question ?",
+   "sub": "écris-moi directement",
+   "img": "preparation-passeport",
+   "checks": [
+    "Écris-moi par e-mail ou sur WhatsApp : je réponds en général sous 24 h en semaine.",
+    "Pour me retrouver facilement, enregistre le numéro +262 692 36 83 67 dans tes contacts sous le nom « Thaï Malin »."
+   ],
+   "links": [
+    {
+     "t": "💬 WhatsApp",
+     "u": "https://wa.me/262692368367?text=Bonjour%2C%20j%27ai%20une%20question%20sur%20ma%20proposition%20de%20voyage%20Tha%C3%AF%20Malin."
+    },
+    {
+     "t": "✉️ sawasdee@thaimalin.fr",
+     "u": "mailto:sawasdee@thaimalin.fr"
+    }
+   ]
+  },
+  {
+   "type": "form",
+   "n": 3,
    "color": "#00a67e",
    "title": "Tes informations",
    "sub": "pour finaliser ton guide",
@@ -114,28 +136,6 @@
      "label": "Un message (facultatif)",
      "t": "textarea",
      "ph": "Ce que tu aimerais changer ou ajouter"
-    }
-   ]
-  },
-  {
-   "type": "card",
-   "n": 3,
-   "color": "#25a244",
-   "title": "Une question ?",
-   "sub": "écris-moi directement",
-   "img": "preparation-passeport",
-   "checks": [
-    "Écris-moi par e-mail ou sur WhatsApp : je réponds en général sous 24 h en semaine.",
-    "Pour me retrouver facilement, enregistre le numéro +262 692 36 83 67 dans tes contacts sous le nom « Thaï Malin »."
-   ],
-   "links": [
-    {
-     "t": "💬 WhatsApp",
-     "u": "https://wa.me/262692368367?text=Bonjour%2C%20j%27ai%20une%20question%20sur%20ma%20proposition%20de%20voyage%20Tha%C3%AF%20Malin."
-    },
-    {
-     "t": "✉️ sawasdee@thaimalin.fr",
-     "u": "mailto:sawasdee@thaimalin.fr"
     }
    ]
   }

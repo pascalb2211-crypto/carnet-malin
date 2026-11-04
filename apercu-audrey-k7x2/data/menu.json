@@ -8,5 +8,23 @@
   "ico": "📖",
   "label": "Sommaire",
   "sommaire": true
+ },
+ {
+  "ico": "💬",
+  "label": "Contact",
+  "contact": {
+   "titre": "Une question ?",
+   "note": "Je réponds en général sous 24 h en semaine. Enregistre le +262 692 36 83 67 sous le nom « Thaï Malin » pour me retrouver facilement.",
+   "links": [
+    {
+     "t": "💬 WhatsApp",
+     "u": "https://wa.me/262692368367?text=Bonjour%2C%20j%27ai%20une%20question%20sur%20ma%20proposition%20de%20voyage%20Tha%C3%AF%20Malin."
+    },
+    {
+     "t": "✉️ sawasdee@thaimalin.fr",
+     "u": "mailto:sawasdee@thaimalin.fr"
+    }
+   ]
+  }
  }
 ]

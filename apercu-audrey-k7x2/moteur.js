@@ -25,7 +25,7 @@ window.TMrender=function(root,P,F){
     c.appendChild(head(b));
     if(b.type==='card'){
       var ul=el('ul','ck');b.checks.forEach(function(x){ul.appendChild(el('li','',fact(F,x)))});c.appendChild(ul);
-      if(b.links){var lk=el('div','lk');b.links.forEach(function(l){var a=el('a','',l.t);a.href=l.u;if(!/^tel:/.test(l.u)){a.target='_blank';a.rel='noopener'}lk.appendChild(a)});c.appendChild(lk)}
+      if(b.links){var lk=el('div','lk');b.links.forEach(function(l){var a=el('a','',l.t);a.href=l.u;if(l.pick)a.onclick=function(){window.TMpick=l.pick};if(!/^(tel:|#)/.test(l.u)){a.target='_blank';a.rel='noopener'}lk.appendChild(a)});c.appendChild(lk)}
       var aw=null;if(b.agoda){aw=el('div','agw');var ab=el('button','agb','🔎 Chercher d\'autres hôtels à '+(b.agoda.dest||'')+' · Agoda');var ac=el('div','agc');aw.appendChild(ab);aw.appendChild(ac);
         ab.addEventListener('click',function(ev){ev.stopPropagation();if(ab.dataset.ok)return;ab.dataset.ok='1';ab.textContent='Chargement…';
           var id='adg'+Math.floor(Math.random()*1e9),d=document.createElement('div');d.id=id;ac.appendChild(d);
@@ -56,6 +56,7 @@ window.TMrender=function(root,P,F){
         S.appendChild(sv('text',{x:p.x,y:p.y+6,'text-anchor':'middle','font-weight':800,'font-size':17,fill:'#fff','font-family':'system-ui,sans-serif'},String(p.n)))});
       var mw=el('div','ph mp');mw.appendChild(S);c.insertBefore(mw,c.firstChild);c.classList.add('hasimg');
       if(b.checks){var ul2=el('ul','ck');b.checks.forEach(function(x){ul2.appendChild(el('li','',x))});c.appendChild(ul2)}
+      if(b.links){var lk2=el('div','lk');b.links.forEach(function(l){var a=el('a','',l.t);a.href=l.u;if(l.pick)a.onclick=function(){window.TMpick=l.pick};if(!/^(tel:|#)/.test(l.u)){a.target='_blank';a.rel='noopener'}lk2.appendChild(a)});c.appendChild(lk2)}
       if(b.tip)c.appendChild(el('p','tip',b.tip));
     }
     if(b.type==='routes'){
@@ -127,7 +128,7 @@ window.TMrender=function(root,P,F){
     if(b.type==='form'){
       var fm=el('form','fm');
       b.fields.forEach(function(f){var w=el('label','ff');w.appendChild(el('span','',f.label));var i;
-        if(f.t==='select'){i=el('select');f.opts.forEach(function(o){var op=el('option','',o);op.value=o;i.appendChild(op)})}
+        if(f.t==='select'){i=el('select');f.opts.forEach(function(o){var op=el('option','',o);op.value=o;i.appendChild(op)});if(f.k==='proposition'&&window.TMpick)i.value=window.TMpick}
         else if(f.t==='textarea'){i=el('textarea');i.rows=3}
         else{i=el('input');i.type=f.t||'text'}
         i.name=f.k;if(f.ph)i.placeholder=f.ph;if(f.req)i.required=true;w.appendChild(i);fm.appendChild(w)});

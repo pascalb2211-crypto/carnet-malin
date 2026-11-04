@@ -99,3 +99,5 @@ body{padding-bottom:calc(72px + env(safe-area-inset-bottom))}
 .card.open .xb{position:sticky!important;top:10px!important;right:auto!important;display:block;width:max-content;margin:0 0 -46px auto;z-index:60;touch-action:manipulation}
 
 .ph.mp{height:auto;background:none;margin:0 -16px 6px;line-height:0}.ph.mp:after{display:none}.ph.mp svg{width:100%;height:auto;max-height:430px;display:block}.card.open .ph.mp{height:auto;margin:0 -16px 12px}.card.open .ph.mp svg{max-height:none}.card.hasimg:has(.mp) .hd{margin-top:0}
+
+.sheet .cn{color:#dbe3f5;font:500 14.5px/1.5 system-ui;margin:0 0 16px}.sheet a.cb{justify-content:center;padding:18px;border:2px solid #f5c542}.sheet a.cb b{font-size:17px}

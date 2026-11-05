@@ -8,6 +8,22 @@
   {
    "type": "card",
    "n": 1,
+   "color": "#7b5cff",
+   "title": "Comment ça marche ?",
+   "sub": "ton aperçu en 5 gestes",
+   "img": "preparation-passeport",
+   "checks": [
+    "Touche chaque carte pour l'ouvrir : le parcours sur la carte, les jours par étape, les avantages et les points à savoir.",
+    "Compare les deux propositions en pensant à ta famille : le rythme, les trajets, ce que chacun aimera.",
+    "Appuie sur « Je choisis cette proposition », tout en bas de la carte qui te plaît.",
+    "Remplis le formulaire à la page 3 : ta ville de départ, tes dates et tes envies. Un ajustement est inclus.",
+    "Une question ? Touche « Contact » dans la barre du bas, ou réponds à mon e-mail."
+   ],
+   "tip": "Ton guide complet est livré une semaine après le paiement."
+  },
+  {
+   "type": "card",
+   "n": 2,
    "color": "#e91e8c",
    "title": "Ton voyage en un coup d'œil",
    "sub": "12 jours · 4 voyageur(s)",
@@ -117,7 +133,7 @@
     }
    ],
    "tip": "Idéale si votre famille aime bouger et découvrir. ✈ vol · 🚐 route · ⛴ bateau.",
-   "n": 2,
+   "n": 3,
    "checks": [
     "Jours 1 à 3 : Chiang Mai (Doi Inthanon, temples, sanctuaire d'éléphants éthique)",
     "Jours 4 à 6 : Krabi (falaises, lagons, îles)",
@@ -216,7 +232,7 @@
     }
    ],
    "tip": "Idéale si votre famille préfère se poser et profiter. ✈ vol · 🚐 route · ⛴ bateau.",
-   "n": 3,
+   "n": 4,
    "checks": [
     "Jours 1 à 4 : Phuket (plages, vieille ville, excursion en bateau)",
     "Jours 5 à 8 : Krabi (Railay, 4 îles, lagons et falaises)",
@@ -249,12 +265,12 @@
    ],
    "tip": "Hôtels souvent moins chers qu'en haute saison, avec moins de monde sur les plages.",
    "type": "card",
-   "n": 4,
+   "n": 5,
    "color": "#fb8c00"
   },
   {
    "type": "card",
-   "n": 5,
+   "n": 6,
    "color": "#00a67e",
    "title": "Budget indicatif",
    "sub": "séjour sur place + vols",
